@@ -6,18 +6,29 @@ public class FuzzyStateDao {
   String stateName;
   String mediaPropertyStateExternalStateId;
   String googleRegionName;
+  String finalRegionCode;
 
   public FuzzyStateDao(
       String countryCode,
       String stateId,
       String stateName,
       String mediaPropertyStateExternalStateId,
-      String googleRegionName) {
+      String googleRegionName,
+      String finalRegionCode) {
     this.countryCode = countryCode;
     this.stateId = stateId;
     this.stateName = stateName;
     this.mediaPropertyStateExternalStateId = mediaPropertyStateExternalStateId;
     this.googleRegionName = googleRegionName;
+    this.finalRegionCode = finalRegionCode;
+  }
+
+  public String getFinalRegionCode() {
+    return finalRegionCode;
+  }
+
+  public void setFinalRegionCode(String finalRegionCode) {
+    this.finalRegionCode = finalRegionCode;
   }
 
   public String getCountryCode() {

@@ -23,6 +23,11 @@
       <version>5.0.0</version>
     </dependency>
     <dependency>
+      <artifactId>json</artifactId>
+      <groupId>org.json</groupId>
+      <version>20211205</version>
+    </dependency>
+    <dependency>
       <artifactId>fuzzywuzzy</artifactId>
       <groupId>me.xdrop</groupId>
       <version>1.3.4</version>
@@ -31,6 +36,21 @@
       <artifactId>poi-ooxml</artifactId>
       <groupId>org.apache.poi</groupId>
       <version>5.0.0</version>
+    </dependency>
+    <dependency>
+      <artifactId>jackson-core</artifactId>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <version>2.13.1</version>
+    </dependency>
+    <dependency>
+      <artifactId>jackson-annotations</artifactId>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <version>2.13.1</version>
+    </dependency>
+    <dependency>
+      <artifactId>jackson-databind</artifactId>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <version>2.13.1</version>
     </dependency>
   </dependencies>
   <groupId>org.adobe</groupId>

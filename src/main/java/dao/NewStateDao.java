@@ -1,20 +1,30 @@
 package dao;
 
 public class NewStateDao {
-  String stateName;
+  String googleRegionName;
   String countryId;
+  String finalRegionCode;
 
-  public NewStateDao(String stateName, String countryId) {
-    this.stateName = stateName;
+  public NewStateDao(String googleRegionName, String countryId, String finalRegionCode) {
+    this.googleRegionName = googleRegionName;
     this.countryId = countryId;
+    this.finalRegionCode = finalRegionCode;
   }
 
-  public String getStateName() {
-    return stateName;
+  public String getGoogleRegionName() {
+    return googleRegionName;
   }
 
-  public void setStateName(String stateName) {
-    this.stateName = stateName;
+  public void setGoogleRegionName(String googleRegionName) {
+    this.googleRegionName = googleRegionName;
+  }
+
+  public String getFinalRegionCode() {
+    return finalRegionCode;
+  }
+
+  public void setFinalRegionCode(String finalRegionCode) {
+    this.finalRegionCode = finalRegionCode;
   }
 
   public String getCountryId() {

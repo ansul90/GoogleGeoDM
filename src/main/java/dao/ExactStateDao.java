@@ -5,16 +5,38 @@ public class ExactStateDao {
   String stateId;
   String mediaPropertyStateExternalStateId;
   String googleRegionName;
+  String stateName;
+  String finalGoogleRegionCode;
 
   public ExactStateDao(
       String countryCode,
       String stateId,
       String mediaPropertyStateExternalStateId,
-      String googleRegionName) {
+      String googleRegionName,
+      String stateName,
+      String finalGoogleRegionCode) {
     this.countryCode = countryCode;
     this.stateId = stateId;
     this.mediaPropertyStateExternalStateId = mediaPropertyStateExternalStateId;
     this.googleRegionName = googleRegionName;
+    this.stateName = stateName;
+    this.finalGoogleRegionCode = finalGoogleRegionCode;
+  }
+
+  public String getFinalGoogleRegionCode() {
+    return finalGoogleRegionCode;
+  }
+
+  public void setFinalGoogleRegionCode(String finalGoogleRegionCode) {
+    this.finalGoogleRegionCode = finalGoogleRegionCode;
+  }
+
+  public String getStateName() {
+    return stateName;
+  }
+
+  public void setStateName(String stateName) {
+    this.stateName = stateName;
   }
 
   public String getCountryCode() {

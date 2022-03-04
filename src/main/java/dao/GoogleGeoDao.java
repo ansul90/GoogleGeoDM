@@ -11,6 +11,21 @@ public class GoogleGeoDao {
     this.finalRegionCode = finalRegionCode;
   }
 
+  @Override
+  public String toString() {
+    return "GoogleGeoDao{"
+        + "iso2='"
+        + iso2
+        + '\''
+        + ", regionName='"
+        + regionName
+        + '\''
+        + ", finalRegionCode='"
+        + finalRegionCode
+        + '\''
+        + '}';
+  }
+
   public String getIso2() {
     return iso2;
   }
