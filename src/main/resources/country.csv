@@ -1,255 +1,251 @@
 country_id,country_name,unknown_catchall,status,created,modified,deleted,continent,has_states,iso2,iso3,is_standard,region_code,default_timezone_id
-1,Afghanistan,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Asia,T,AF,AFG,T,NULL,41
-2,Albania,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,T,AL,ALB,T,EU,33
-3,Algeria,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,DZ,DZA,T,EU,33
-4,"American Samoa",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,AS,ASM,T,NA,69
-5,Andorra,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,T,AD,AND,T,EU,33
-6,Angola,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,AO,AGO,T,EU,29
-7,Anguilla,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,AI,AIA,T,NA,17
-8,Antarctica,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Antarctica,T,AQ,ATA,T,NA,15
-9,"Antigua and Barbuda",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"North America",T,AG,ATG,T,NA,17
-10,Argentina,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,"South America",F,AR,ARG,T,NA,15
-11,Armenia,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,AM,ARM,T,AS,41
-12,Aruba,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"North America",T,AW,ABW,T,NA,17
-13,Australia,F,Active,"2010-09-13 17:23:10","2018-08-28 14:01:41",NULL,Oceania,T,AU,AUS,T,EU,63
-14,Austria,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,F,AT,AUT,T,EU,33
-15,Azerbaijan,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Asia,T,AZ,AZE,T,AS,41
-16,Bahamas,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,"North America",T,BS,BHS,T,NA,15
-17,Bahrain,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,F,BH,BHR,T,AS,37
-18,Bangladesh,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,BD,BGD,T,AS,47
-19,Barbados,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"North America",T,BB,BRB,T,NA,17
-20,Belarus,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,T,BY,BLR,T,EU,43
-21,Belgium,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,T,BE,BEL,T,EU,33
-22,Belize,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,"North America",T,BZ,BLZ,T,NA,13
-23,Benin,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,BJ,BEN,T,EU,29
-24,Bermuda,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"North America",T,BM,BMU,T,NA,17
-25,Bhutan,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,BT,BTN,T,AS,47
-26,Bolivia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,"South America",F,BO,BOL,T,NA,15
-27,"Bosnia and Herzegovina",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,T,BA,BIH,T,EU,33
-28,Botswana,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,BW,BWA,T,EU,33
-29,"Bouvet Island",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Antarctica,T,BV,BVT,T,NA,33
-30,Brazil,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"South America",T,BR,BRA,T,NA,73
-31,"British Indian Ocean Territory",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,IO,IOT,T,AS,47
-32,Brunei,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,BN,BRN,T,AS,55
-33,Bulgaria,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,T,BG,BGR,T,EU,35
-34,"Burkina Faso",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,BF,BFA,T,EU,31
-35,Burundi,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,BI,BDI,T,EU,33
-36,Cambodia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Asia,F,KH,KHM,T,AS,49
-37,Cameroon,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,CM,CMR,T,EU,29
-38,Canada,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,"North America",T,CA,CAN,T,NA,15
-39,"Cape Verde",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Africa,T,CV,CPV,T,EU,25
-40,"Cayman Islands",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,"North America",T,KY,CYM,T,NA,15
-41,"Central African Republic",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,CF,CAF,T,EU,29
-42,Chad,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,TD,TCD,T,EU,29
-43,Chile,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"South America",F,CL,CHL,T,NA,21
-44,China,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,CN,CHN,T,AS,51
-45,"Christmas Island",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,CX,CXR,T,AS,49
-46,"Cocos (Keeling) Islands",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,CC,CCK,T,AS,49
-47,Colombia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,"South America",F,CO,COL,T,NA,15
-48,Comoros,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,KM,COM,T,EU,43
-49,"Congo, Republic of the",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,CG,COG,T,EU,29
-50,"Congo, Democratic Republic of the",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,CD,COD,T,EU,29
-51,"Cook Islands",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Oceania,T,CK,COK,T,NA,5
-52,"Costa Rica",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",F,CR,CRI,T,NA,13
-53,Croatia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,T,HR,HRV,T,EU,33
-54,Cuba,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,"North America",T,CU,CUB,T,NA,13
-55,Cyprus,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Europe,T,CY,CYP,T,AS,39
-56,"Czech Republic",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,F,CZ,CZE,T,EU,33
-57,"Ctttte d'Ivoire",F,Active,"2010-09-13 17:23:10","2018-03-12 00:37:00",NULL,Africa,T,CI,CIV,T,EU,NULL
-58,Denmark,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,F,DK,DNK,T,EU,33
-59,Djibouti,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,DJ,DJI,T,EU,43
-60,Dominica,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,DM,DMA,T,NA,17
-61,"Dominican Republic",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",F,DO,DOM,T,NA,17
-62,Ecuador,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,"South America",F,EC,ECU,T,NA,15
-63,Egypt,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,F,EG,EGY,T,EU,35
-64,"El Salvador",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",F,SV,SLV,T,NA,13
-65,"Equatorial Guinea",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,GQ,GNQ,T,EU,29
-66,Eritrea,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,ER,ERI,T,EU,43
-67,Estonia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,T,EE,EST,T,EU,35
-68,Ethiopia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Africa,T,ET,ETH,T,EU,43
-69,"Falkland Islands",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,"South America",T,FK,FLK,T,NA,15
-70,"Faroe Islands",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,T,FO,FRO,T,EU,27
-71,Fiji,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Oceania,T,FJ,FJI,T,NA,7
-72,Finland,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,F,FI,FIN,T,EU,33
-73,France,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:04",NULL,Europe,T,FR,FRA,T,EU,33
-74,"French Guiana",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,"South America",T,GF,GUF,T,NA,15
-75,"French Polynesia",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Oceania,T,PF,PYF,T,NA,5
-76,"French Southern Territories",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,Antarctica,T,TF,ATF,T,NA,15
-77,Gabon,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,GA,GAB,T,EU,29
-78,Gambia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,GM,GMB,T,EU,31
-79,Georgia,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,GE,GEO,T,AS,43
-80,Germany,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,DE,DEU,T,EU,33
-81,Ghana,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,F,GH,GHA,T,EU,31
-82,Gibraltar,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,GI,GIB,T,EU,33
-83,Greece,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,F,GR,GRC,T,EU,33
-84,Greenland,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"North America",T,GL,GRL,T,NA,31
-85,Grenada,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,GD,GRD,T,NA,17
-86,Guadeloupe,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,GP,GLP,T,NA,17
-87,Guam,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Oceania,T,GU,GUM,T,NA,3
-88,Guatemala,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",F,GT,GTM,T,NA,13
-89,Guernsey,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,GG,GGY,T,EU,29
-90,Guinea,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,GN,GIN,T,EU,31
-91,Guinea-Bissau,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,GW,GNB,T,EU,31
-92,Guyana,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"South America",T,GY,GUY,T,NA,17
-93,Haiti,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,"North America",T,HT,HTI,T,NA,15
-94,"Heard Island and McDonald Islands",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Antarctica,T,HM,HMD,T,NA,45
-95,"Vatican City",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,VA,VAT,T,EU,33
-96,Honduras,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,"North America",F,HN,HND,T,NA,13
-97,"Hong Kong",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,HK,HKG,T,AS,51
-98,Hungary,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,F,HU,HUN,T,EU,33
-99,Iceland,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,IS,ISL,T,EU,31
-100,India,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,IN,IND,T,AS,74
-101,Indonesia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,ID,IDN,T,AS,49
-102,Iran,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,IR,IRN,T,AS,41
-103,Iraq,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,IQ,IRQ,T,AS,37
-104,Ireland,F,Active,"2010-09-13 17:23:10","2018-10-04 12:16:18",NULL,Europe,F,IE,IRL,T,EU,33
-105,"Isle of Man",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,IM,IMN,T,EU,29
-106,Israel,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,IL,ISR,T,AS,37
-107,Italy,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,IT,ITA,T,EU,33
-108,Jamaica,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,"North America",T,JM,JAM,T,NA,15
-109,Japan,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,JP,JPN,T,AS,59
-110,Jersey,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,JE,JEY,T,EU,29
-111,Jordan,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,F,JO,JOR,T,AS,39
-112,Kazakhstan,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,KZ,KAZ,T,AS,47
-113,Kenya,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,F,KE,KEN,T,EU,43
-114,Kiribati,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,KI,KIR,T,NA,71
-115,"Korea, North",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,KP,PRK,T,AS,57
-116,"Korea, Republic of",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,KR,KOR,T,AS,57
-117,Kuwait,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,KW,KWT,T,AS,37
-118,Kyrgyzstan,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,KG,KGZ,T,AS,47
-119,Laos,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,LA,LAO,T,AS,49
-120,Latvia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,LV,LVA,T,EU,33
-121,Lebanon,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,F,LB,LBN,T,AS,39
-122,Lesotho,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,Africa,T,LS,LSO,T,EU,75
-123,Liberia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,LR,LBR,T,EU,31
-124,Libya,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,LY,LBY,T,EU,35
-125,Liechtenstein,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,LI,LIE,T,EU,33
-126,"Lithuania, Republic of",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,LT,LTU,T,EU,33
-127,Luxembourg,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,F,LU,LUX,T,EU,33
-128,Macau,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,F,MO,MAC,T,AS,51
-129,Macedonia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,MK,MKD,T,EU,33
-130,Madagascar,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,MG,MDG,T,EU,43
-131,Malawi,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,MW,MWI,T,EU,33
-132,Malaysia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,MY,MYS,T,AS,53
-133,Maldives,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,MV,MDV,T,AS,45
-134,Mali,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,ML,MLI,T,EU,31
-135,Malta,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,MT,MLT,T,EU,33
-136,"Marshall Islands",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,MH,MHL,T,NA,67
-137,Martinique,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"North America",T,MQ,MTQ,T,NA,17
-138,Mauritania,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,MR,MRT,T,EU,31
-139,Mauritius,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,Africa,T,MU,MUS,T,EU,45
-140,Mayotte,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,Africa,T,YT,MYT,T,EU,37
-141,Mexico,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,"North America",T,MX,MEX,T,NA,9
-142,"Micronesia, Federated States of",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,FM,FSM,T,NA,5
-143,"Moldova, Republic of",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,MD,MDA,T,EU,33
-144,Monaco,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,MC,MCO,T,EU,33
-145,Mongolia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,MN,MNG,T,AS,51
-146,Montenegro,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,ME,MNE,T,EU,33
-147,Montserrat,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"North America",T,MS,MSR,T,NA,17
-148,Morocco,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,F,MA,MAR,T,EU,27
-149,Mozambique,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,MZ,MOZ,T,EU,33
-150,Myanmar,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,MM,MMR,T,AS,49
-151,Namibia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,NA,NAM,T,EU,35
-152,Nauru,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,NR,NRU,T,NA,67
-153,Nepal,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,NP,NPL,T,AS,47
-154,Netherlands,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,NL,NLD,T,EU,33
-155,"Netherlands Antilles",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,NULL,T,,,T,NULL,19
-156,"New Caledonia",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,NC,NCL,T,NA,65
-157,"New Zealand",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,NZ,NZL,T,NA,67
-158,Nicaragua,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"North America",F,NI,NIC,T,NA,13
-159,Niger,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,NE,NER,T,EU,29
-160,Nigeria,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,F,NG,NGA,T,EU,29
-161,Niue,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,NU,NIU,T,NA,1
-162,"Norfolk Island",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,NF,NFK,T,NA,65
-163,"Northern Mariana Islands",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Oceania,T,MP,MNP,T,NA,5
-164,Norway,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,F,NO,NOR,T,EU,33
-165,Oman,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,F,OM,OMN,T,AS,41
-166,Pakistan,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,PK,PAK,T,AS,45
-167,Palau,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Oceania,T,PW,PLW,T,NA,7
-168,Palestine,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,PS,PSE,T,AS,21
-169,Panama,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,"North America",F,PA,PAN,T,NA,15
-170,"Papua New Guinea",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Oceania,T,PG,PNG,T,NA,5
-171,Paraguay,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"South America",F,PY,PRY,T,NA,19
-172,Peru,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"South America",F,PE,PER,T,NA,15
-173,Philippines,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,F,PH,PHL,T,AS,53
-174,"Pitcairn Islands",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Oceania,T,PN,PCN,T,NA,7
-175,Poland,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,F,PL,POL,T,EU,33
-176,Portugal,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,F,PT,PRT,T,EU,25
-177,"Puerto Rico",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",F,PR,PRI,T,NA,17
-178,Qatar,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,QA,QAT,T,AS,37
-179,Romania,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,F,RO,ROU,T,EU,33
-180,Russia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,F,RU,RUS,T,EU,43
-181,Rwanda,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,RW,RWA,T,EU,33
-182,Réunion,F,Active,"2010-09-13 17:23:10","2018-03-12 00:37:00",NULL,Africa,T,RE,REU,T,EU,NULL
-183,"Saint Barthélemy",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,BL,BLM,T,NA,17
-184,"Saint Helena",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,SH,SHN,T,EU,31
-185,"St Kitts and Nevis",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,KN,KNA,T,NA,17
-186,"Saint Lucia",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,LC,LCA,T,NA,17
-187,"Saint Martin",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,MF,MAF,T,NA,17
-188,"Saint Pierre and Miquelon",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"North America",T,PM,SPM,T,NA,23
-189,"Saint Vincent and the Grenadines",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,VC,VCT,T,NA,17
-190,Samoa,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,WS,WSM,T,NA,69
-191,"San Marino",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,SM,SMR,T,EU,33
-192,"Sao Tome and Principe",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,ST,STP,T,EU,27
-193,"Saudi Arabia",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,SA,SAU,T,AS,37
-194,Senegal,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,SN,SEN,T,EU,31
-195,Serbia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,RS,SRB,T,EU,33
-196,Seychelles,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Africa,T,SC,SYC,T,EU,43
-197,"Sierra Leone",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,SL,SLE,T,EU,31
-198,Singapore,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,SG,SGP,T,AS,53
-199,Slovakia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,SK,SVK,T,EU,25
-200,Slovenia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,SI,SVN,T,EU,33
-201,"Solomon Islands",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,SB,SLB,T,NA,65
-202,Somalia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,SO,SOM,T,EU,43
-203,"South Africa",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,Africa,F,ZA,ZAF,T,EU,75
-204,"South Georgia and the South Sandwich Islands",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Antarctica,T,GS,SGS,T,NA,23
-205,Spain,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,ES,ESP,T,EU,33
-206,"Sri Lanka",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,LK,LKA,T,AS,74
-207,Sudan,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,SD,SDN,T,EU,43
-208,Suriname,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"South America",T,SR,SUR,T,NA,21
-209,"Svalbard and Jan Mayen",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,SJ,SJM,T,EU,33
-210,Swaziland,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,Africa,T,SZ,SWZ,T,EU,75
-211,Sweden,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,F,SE,SWE,T,EU,33
-212,Switzerland,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,CH,CHE,T,EU,33
-213,Syria,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,F,SY,SYR,T,AS,37
-214,Taiwan,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,TW,TWN,T,AS,51
-215,Tajikistan,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,TJ,TJK,T,AS,45
-216,Tanzania,F,Inactive,"2010-09-13 17:23:10","2019-02-05 13:41:49",NULL,Africa,T,TZ,TZA,T,EU,39
-217,Thailand,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,TH,THA,T,AS,49
-218,"East Timor",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,TL,TLS,T,AS,59
-219,Togo,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,TG,TGO,T,EU,31
-220,Tokelau,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,TK,TKL,T,NA,69
-221,Tonga,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,TO,TON,T,NA,67
-222,"Trinidad and Tobago",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,TT,TTO,T,NA,17
-223,Tunisia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,F,TN,TUN,T,EU,33
-224,Turkey,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,F,TR,TUR,T,EU,39
-225,Turkmenistan,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,T,TM,TKM,T,AS,45
-226,"Turks and Caicos Islands",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,TC,TCA,T,NA,17
-227,Tuvalu,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,TV,TUV,T,NA,67
-228,Uganda,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,UG,UGA,T,EU,43
-229,Ukraine,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,F,UA,UKR,T,EU,33
-230,"United Arab Emirates",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Asia,F,AE,ARE,T,AS,41
-231,"United Kingdom",F,Active,"2010-09-13 17:23:10","2018-08-29 16:55:31",NULL,Europe,T,GB,GBR,T,EU,29
-232,"United States",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,"North America",T,US,USA,T,NA,9
-233,"United States Minor Outlying Islands",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,UM,UMI,T,NA,1
-234,Uruguay,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,"South America",F,UY,URY,T,NA,21
-235,Uzbekistan,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,UZ,UZB,T,AS,45
-236,Vanuatu,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,VU,VUT,T,NA,65
-237,Venezuela,F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"South America",F,VE,VEN,T,NA,17
-238,Vietnam,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,F,VN,VNM,T,AS,49
-239,"Virgin Islands, British",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,VG,VGB,T,NA,17
-240,"Virgin Islands, U.S.",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:29",NULL,"North America",T,VI,VIR,T,NA,17
-241,"Wallis and Futuna",F,Active,"2010-09-13 17:23:10","2018-08-30 13:51:28",NULL,Oceania,T,WF,WLF,T,NA,67
-242,"Western Sahara",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,EH,ESH,T,EU,27
-243,Yemen,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Asia,T,YE,YEM,T,AS,37
-244,Zambia,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,ZM,ZMB,T,EU,33
-245,Zimbabwe,F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Africa,T,ZW,ZWE,T,EU,33
-246,"land Islands",F,Active,"2010-09-13 17:23:10","2018-08-24 19:36:05",NULL,Europe,T,AX,ALA,T,EU,33
-247,Unknown,T,Active,"2011-02-14 15:07:08","2011-02-14 15:07:08",NULL,NULL,T,,,T,NULL,NULL
-249,"All Countries",F,Active,"2011-04-28 17:17:25","2011-04-28 17:17:25",NULL,NULL,T,,,T,NULL,NULL
-250,Tanzania,F,Active,"2017-12-01 09:33:54","2019-02-05 16:31:06","2017-12-21 09:27:55",Africa,T,TZ,TZA,T,EU,39
-251,"Bonaire, Sint Eustatius, and Saba",F,Active,"2018-02-05 04:57:23","2018-08-24 19:36:05",NULL,"North America",T,BQ,BES,T,NULL,19
-252,Curaao,F,Active,"2018-02-05 04:57:23","2018-08-24 19:36:05",NULL,"North America",T,CW,CUW,T,NULL,41
-253,"South Sudan",F,Active,"2018-02-05 04:57:23","2018-08-24 19:36:05",NULL,Africa,T,SS,SSD,T,NULL,73
-254,"Sint Maarten",F,Active,"2018-02-05 04:57:23","2018-08-24 19:36:05",NULL,"North America",T,SX,SXM,T,NULL,17
-255,Kosovo,F,Active,"2018-02-05 04:57:25","2018-08-24 19:36:08",NULL,Europe,T,XK,XKX,T,NULL,31
+1,Afghanistan,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,AF,AFG,T,NULL,41
+2,Albania,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,AL,ALB,T,EU,33
+3,Algeria,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,DZ,DZA,T,EU,33
+4,American Samoa,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,AS,ASM,T,NA,69
+5,Andorra,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,AD,AND,T,EU,33
+6,Angola,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,AO,AGO,T,EU,29
+7,Anguilla,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,AI,AIA,T,NA,17
+8,Antarctica,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Antarctica,T,AQ,ATA,T,NA,15
+9,Antigua and Barbuda,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,AG,ATG,T,NA,17
+10,Argentina,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,South America,F,AR,ARG,T,NA,15
+11,Armenia,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,AM,ARM,T,AS,41
+12,Aruba,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,AW,ABW,T,NA,17
+13,Australia,F,Active,13/09/10 17:23,28/08/18 14:01,NULL,Oceania,T,AU,AUS,T,EU,63
+14,Austria,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,AT,AUT,T,EU,33
+15,Azerbaijan,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,AZ,AZE,T,AS,41
+16,Bahamas,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,T,BS,BHS,T,NA,15
+17,Bahrain,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,F,BH,BHR,T,AS,37
+18,Bangladesh,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,BD,BGD,T,AS,47
+19,Barbados,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,BB,BRB,T,NA,17
+20,Belarus,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,BY,BLR,T,EU,43
+21,Belgium,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,BE,BEL,T,EU,33
+22,Belize,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,T,BZ,BLZ,T,NA,13
+23,Benin,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,BJ,BEN,T,EU,29
+24,Bermuda,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,BM,BMU,T,NA,17
+25,Bhutan,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,BT,BTN,T,AS,47
+26,Bolivia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,South America,F,BO,BOL,T,NA,15
+27,Bosnia and Herzegovina,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,BA,BIH,T,EU,33
+28,Botswana,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,BW,BWA,T,EU,33
+29,Bouvet Island,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Antarctica,T,BV,BVT,T,NA,33
+30,Brazil,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,South America,T,BR,BRA,T,NA,73
+31,British Indian Ocean Territory,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,IO,IOT,T,AS,47
+32,Brunei,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,BN,BRN,T,AS,55
+33,Bulgaria,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,BG,BGR,T,EU,35
+34,Burkina Faso,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,BF,BFA,T,EU,31
+35,Burundi,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,BI,BDI,T,EU,33
+36,Cambodia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,KH,KHM,T,AS,49
+37,Cameroon,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,CM,CMR,T,EU,29
+38,Canada,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,T,CA,CAN,T,NA,15
+39,Cape Verde,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Africa,T,CV,CPV,T,EU,25
+40,Cayman Islands,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,T,KY,CYM,T,NA,15
+41,Central African Republic,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,CF,CAF,T,EU,29
+42,Chad,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,TD,TCD,T,EU,29
+43,Chile,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,South America,F,CL,CHL,T,NA,21
+44,China,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,CN,CHN,T,AS,51
+45,Christmas Island,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,CX,CXR,T,AS,49
+46,Cocos (Keeling) Islands,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,CC,CCK,T,AS,49
+47,Colombia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,South America,F,CO,COL,T,NA,15
+48,Comoros,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,KM,COM,T,EU,43
+49,"Congo, Republic of the",F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,CG,COG,T,EU,29
+50,"Congo, Democratic Republic of the",F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,CD,COD,T,EU,29
+51,Cook Islands,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Oceania,T,CK,COK,T,NA,5
+52,Costa Rica,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,F,CR,CRI,T,NA,13
+53,Croatia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,HR,HRV,T,EU,33
+54,Cuba,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,T,CU,CUB,T,NA,13
+55,Cyprus,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Europe,T,CY,CYP,T,AS,39
+56,Czech Republic,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,CZ,CZE,T,EU,33
+57,Ctttte d'Ivoire,F,Active,13/09/10 17:23,12/03/18 0:37,NULL,Africa,T,CI,CIV,T,EU,NULL
+58,Denmark,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,DK,DNK,T,EU,33
+59,Djibouti,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,DJ,DJI,T,EU,43
+60,Dominica,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,DM,DMA,T,NA,17
+61,Dominican Republic,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,F,DO,DOM,T,NA,17
+62,Ecuador,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,South America,F,EC,ECU,T,NA,15
+63,Egypt,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,F,EG,EGY,T,EU,35
+64,El Salvador,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,F,SV,SLV,T,NA,13
+65,Equatorial Guinea,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,GQ,GNQ,T,EU,29
+66,Eritrea,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,ER,ERI,T,EU,43
+67,Estonia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,EE,EST,T,EU,35
+68,Ethiopia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,ET,ETH,T,EU,43
+69,Falkland Islands,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,South America,T,FK,FLK,T,NA,15
+70,Faroe Islands,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,FO,FRO,T,EU,27
+71,Fiji,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Oceania,T,FJ,FJI,T,NA,7
+72,Finland,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,FI,FIN,T,EU,33
+73,France,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,FR,FRA,T,EU,33
+74,French Guiana,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,South America,T,GF,GUF,T,NA,15
+75,French Polynesia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Oceania,T,PF,PYF,T,NA,5
+76,French Southern Territories,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Antarctica,T,TF,ATF,T,NA,15
+77,Gabon,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,GA,GAB,T,EU,29
+78,Gambia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,GM,GMB,T,EU,31
+79,Georgia,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,GE,GEO,T,AS,43
+80,Germany,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,DE,DEU,T,EU,33
+81,Ghana,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,F,GH,GHA,T,EU,31
+82,Gibraltar,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,GI,GIB,T,EU,33
+83,Greece,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,GR,GRC,T,EU,33
+84,Greenland,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,GL,GRL,T,NA,31
+85,Grenada,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,GD,GRD,T,NA,17
+86,Guadeloupe,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,GP,GLP,T,NA,17
+87,Guam,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Oceania,T,GU,GUM,T,NA,3
+88,Guatemala,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,F,GT,GTM,T,NA,13
+89,Guernsey,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,GG,GGY,T,EU,29
+90,Guinea,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,GN,GIN,T,EU,31
+91,Guinea-Bissau,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,GW,GNB,T,EU,31
+92,Guyana,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,South America,T,GY,GUY,T,NA,17
+93,Haiti,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,T,HT,HTI,T,NA,15
+94,Heard Island and McDonald Islands,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Antarctica,T,HM,HMD,T,NA,45
+95,Vatican City,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,VA,VAT,T,EU,33
+96,Honduras,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,F,HN,HND,T,NA,13
+97,Hong Kong,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,HK,HKG,T,AS,51
+98,Hungary,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,HU,HUN,T,EU,33
+99,Iceland,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,IS,ISL,T,EU,31
+100,India,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,IN,IND,T,AS,74
+101,Indonesia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,ID,IDN,T,AS,49
+102,Iran,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,IR,IRN,T,AS,41
+103,Iraq,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,IQ,IRQ,T,AS,37
+104,Ireland,F,Active,13/09/10 17:23,04/10/18 12:16,NULL,Europe,F,IE,IRL,T,EU,33
+105,Isle of Man,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,IM,IMN,T,EU,29
+106,Israel,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,IL,ISR,T,AS,37
+107,Italy,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,IT,ITA,T,EU,33
+108,Jamaica,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,T,JM,JAM,T,NA,15
+109,Japan,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,JP,JPN,T,AS,59
+110,Jersey,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,JE,JEY,T,EU,29
+111,Jordan,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,F,JO,JOR,T,AS,39
+112,Kazakhstan,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,KZ,KAZ,T,AS,47
+113,Kenya,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,F,KE,KEN,T,EU,43
+114,Kiribati,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,KI,KIR,T,NA,71
+115,"Korea, North",F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,KP,PRK,T,AS,57
+116,"Korea, Republic of",F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,KR,KOR,T,AS,57
+117,Kuwait,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,KW,KWT,T,AS,37
+118,Kyrgyzstan,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,KG,KGZ,T,AS,47
+119,Laos,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,LA,LAO,T,AS,49
+120,Latvia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,LV,LVA,T,EU,33
+121,Lebanon,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,F,LB,LBN,T,AS,39
+122,Lesotho,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Africa,T,LS,LSO,T,EU,75
+123,Liberia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,LR,LBR,T,EU,31
+124,Libya,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,LY,LBY,T,EU,35
+125,Liechtenstein,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,LI,LIE,T,EU,33
+126,"Lithuania, Republic of",F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,LT,LTU,T,EU,33
+127,Luxembourg,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,LU,LUX,T,EU,33
+128,Macau,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,F,MO,MAC,T,AS,51
+129,Macedonia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,MK,MKD,T,EU,33
+130,Madagascar,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,MG,MDG,T,EU,43
+131,Malawi,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,MW,MWI,T,EU,33
+132,Malaysia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,MY,MYS,T,AS,53
+133,Maldives,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,MV,MDV,T,AS,45
+134,Mali,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,ML,MLI,T,EU,31
+135,Malta,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,MT,MLT,T,EU,33
+136,Marshall Islands,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,MH,MHL,T,NA,67
+137,Martinique,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,MQ,MTQ,T,NA,17
+138,Mauritania,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,MR,MRT,T,EU,31
+139,Mauritius,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Africa,T,MU,MUS,T,EU,45
+140,Mayotte,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Africa,T,YT,MYT,T,EU,37
+141,Mexico,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,T,MX,MEX,T,NA,9
+142,"Micronesia, Federated States of",F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,FM,FSM,T,NA,5
+143,"Moldova, Republic of",F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,MD,MDA,T,EU,33
+144,Monaco,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,MC,MCO,T,EU,33
+145,Mongolia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,MN,MNG,T,AS,51
+146,Montenegro,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,ME,MNE,T,EU,33
+147,Montserrat,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,MS,MSR,T,NA,17
+148,Morocco,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,F,MA,MAR,T,EU,27
+149,Mozambique,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,MZ,MOZ,T,EU,33
+150,Myanmar,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,MM,MMR,T,AS,49
+151,Namibia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,NA,NAM,T,EU,35
+152,Nauru,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,NR,NRU,T,NA,67
+153,Nepal,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,NP,NPL,T,AS,47
+154,Netherlands,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,NL,NLD,T,EU,33
+156,New Caledonia,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,NC,NCL,T,NA,65
+157,New Zealand,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,NZ,NZL,T,NA,67
+158,Nicaragua,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,F,NI,NIC,T,NA,13
+159,Niger,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,NE,NER,T,EU,29
+160,Nigeria,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,F,NG,NGA,T,EU,29
+161,Niue,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,NU,NIU,T,NA,1
+162,Norfolk Island,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,NF,NFK,T,NA,65
+163,Northern Mariana Islands,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Oceania,T,MP,MNP,T,NA,5
+164,Norway,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,NO,NOR,T,EU,33
+165,Oman,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,F,OM,OMN,T,AS,41
+166,Pakistan,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,PK,PAK,T,AS,45
+167,Palau,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Oceania,T,PW,PLW,T,NA,7
+168,Palestine,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,PS,PSE,T,AS,21
+169,Panama,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,F,PA,PAN,T,NA,15
+170,Papua New Guinea,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Oceania,T,PG,PNG,T,NA,5
+171,Paraguay,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,South America,F,PY,PRY,T,NA,19
+172,Peru,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,South America,F,PE,PER,T,NA,15
+173,Philippines,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,F,PH,PHL,T,AS,53
+174,Pitcairn Islands,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Oceania,T,PN,PCN,T,NA,7
+175,Poland,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,PL,POL,T,EU,33
+176,Portugal,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,PT,PRT,T,EU,25
+177,Puerto Rico,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,F,PR,PRI,T,NA,17
+178,Qatar,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,QA,QAT,T,AS,37
+179,Romania,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,RO,ROU,T,EU,33
+180,Russia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,RU,RUS,T,EU,43
+181,Rwanda,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,RW,RWA,T,EU,33
+182,Réunion,F,Active,13/09/10 17:23,12/03/18 0:37,NULL,Africa,T,RE,REU,T,EU,NULL
+183,Saint Barthélemy,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,BL,BLM,T,NA,17
+184,Saint Helena,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,SH,SHN,T,EU,31
+185,St Kitts and Nevis,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,KN,KNA,T,NA,17
+186,Saint Lucia,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,LC,LCA,T,NA,17
+187,Saint Martin,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,MF,MAF,T,NA,17
+188,Saint Pierre and Miquelon,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,PM,SPM,T,NA,23
+189,Saint Vincent and the Grenadines,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,VC,VCT,T,NA,17
+190,Samoa,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,WS,WSM,T,NA,69
+191,San Marino,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,SM,SMR,T,EU,33
+192,Sao Tome and Principe,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,ST,STP,T,EU,27
+193,Saudi Arabia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,SA,SAU,T,AS,37
+194,Senegal,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,SN,SEN,T,EU,31
+195,Serbia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,RS,SRB,T,EU,33
+196,Seychelles,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Africa,T,SC,SYC,T,EU,43
+197,Sierra Leone,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,SL,SLE,T,EU,31
+198,Singapore,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,SG,SGP,T,AS,53
+199,Slovakia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,SK,SVK,T,EU,25
+200,Slovenia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,SI,SVN,T,EU,33
+201,Solomon Islands,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,SB,SLB,T,NA,65
+202,Somalia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,SO,SOM,T,EU,43
+203,South Africa,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Africa,F,ZA,ZAF,T,EU,75
+204,South Georgia and the South Sandwich Islands,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Antarctica,T,GS,SGS,T,NA,23
+205,Spain,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,ES,ESP,T,EU,33
+206,Sri Lanka,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,LK,LKA,T,AS,74
+207,Sudan,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,SD,SDN,T,EU,43
+208,Suriname,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,South America,T,SR,SUR,T,NA,21
+209,Svalbard and Jan Mayen,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,SJ,SJM,T,EU,33
+210,Swaziland,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Africa,T,SZ,SWZ,T,EU,75
+211,Sweden,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,SE,SWE,T,EU,33
+212,Switzerland,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,CH,CHE,T,EU,33
+213,Syria,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,F,SY,SYR,T,AS,37
+214,Taiwan,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,TW,TWN,T,AS,51
+215,Tajikistan,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,TJ,TJK,T,AS,45
+217,Thailand,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,TH,THA,T,AS,49
+218,East Timor,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,TL,TLS,T,AS,59
+219,Togo,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,TG,TGO,T,EU,31
+220,Tokelau,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,TK,TKL,T,NA,69
+221,Tonga,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,TO,TON,T,NA,67
+222,Trinidad and Tobago,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,TT,TTO,T,NA,17
+223,Tunisia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,F,TN,TUN,T,EU,33
+224,Turkey,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,F,TR,TUR,T,EU,39
+225,Turkmenistan,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,T,TM,TKM,T,AS,45
+226,Turks and Caicos Islands,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,TC,TCA,T,NA,17
+227,Tuvalu,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,TV,TUV,T,NA,67
+228,Uganda,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,UG,UGA,T,EU,43
+229,Ukraine,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,F,UA,UKR,T,EU,33
+230,United Arab Emirates,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Asia,F,AE,ARE,T,AS,41
+231,United Kingdom,F,Active,13/09/10 17:23,29/08/18 16:55,NULL,Europe,T,GB,GBR,T,EU,29
+232,United States,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,North America,T,US,USA,T,NA,9
+233,United States Minor Outlying Islands,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,UM,UMI,T,NA,1
+234,Uruguay,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,South America,F,UY,URY,T,NA,21
+235,Uzbekistan,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,UZ,UZB,T,AS,45
+236,Vanuatu,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,VU,VUT,T,NA,65
+237,Venezuela,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,South America,F,VE,VEN,T,NA,17
+238,Vietnam,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,F,VN,VNM,T,AS,49
+239,"Virgin Islands, British",F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,VG,VGB,T,NA,17
+240,"Virgin Islands, U.S.",F,Active,13/09/10 17:23,30/08/18 13:51,NULL,North America,T,VI,VIR,T,NA,17
+241,Wallis and Futuna,F,Active,13/09/10 17:23,30/08/18 13:51,NULL,Oceania,T,WF,WLF,T,NA,67
+242,Western Sahara,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,EH,ESH,T,EU,27
+243,Yemen,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Asia,T,YE,YEM,T,AS,37
+244,Zambia,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,ZM,ZMB,T,EU,33
+245,Zimbabwe,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Africa,T,ZW,ZWE,T,EU,33
+246,land Islands,F,Active,13/09/10 17:23,24/08/18 19:36,NULL,Europe,T,AX,ALA,T,EU,33
+250,Tanzania,F,Active,01/12/17 9:33,05/02/19 16:31,21/12/17 9:27,Africa,T,TZ,TZA,T,EU,39
+251,"Bonaire, Sint Eustatius, and Saba",F,Active,05/02/18 4:57,24/08/18 19:36,NULL,North America,T,BQ,BES,T,NULL,19
+252,Curaao,F,Active,05/02/18 4:57,24/08/18 19:36,NULL,North America,T,CW,CUW,T,NULL,41
+253,South Sudan,F,Active,05/02/18 4:57,24/08/18 19:36,NULL,Africa,T,SS,SSD,T,NULL,73
+254,Sint Maarten,F,Active,05/02/18 4:57,24/08/18 19:36,NULL,North America,T,SX,SXM,T,NULL,17
+255,Kosovo,F,Active,05/02/18 4:57,24/08/18 19:36,NULL,Europe,T,XK,XKX,T,NULL,31

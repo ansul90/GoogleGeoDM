@@ -1,0 +1,4097 @@
+country_id,country_name,iso2,country_status,state_id,state_name,state_status
+5,Andorra,AD,Active,124,Ordino,Active
+5,Andorra,AD,Active,122,Escaldes-Engordany,Active
+5,Andorra,AD,Active,120,Canillo,Active
+5,Andorra,AD,Active,125,Sant JuliA  de Laria,Active
+5,Andorra,AD,Active,123,La Massana,Active
+5,Andorra,AD,Active,121,Encamp,Active
+5,Andorra,AD,Active,119,Andorra la Vella,Active
+230,United Arab Emirates,AE,Active,3946,Raaes al Khaymah,Active
+230,United Arab Emirates,AE,Active,3944,Ash Shariqah [Sharjah],Active
+230,United Arab Emirates,AE,Active,3942,Ajman,Active
+230,United Arab Emirates,AE,Active,3947,Umm al Qaywayn,Active
+230,United Arab Emirates,AE,Active,3945,Dubayy [Dubai],Active
+230,United Arab Emirates,AE,Active,3943,Al Fujayrah,Active
+230,United Arab Emirates,AE,Active,4499,ALL [Placeholder],Active
+230,United Arab Emirates,AE,Active,3941,Abu Zaaby [Abu Dhabi],Active
+1,Afghanistan,AF,Active,28,Panjshir,Active
+1,Afghanistan,AF,Active,11,Helmand,Active
+1,Afghanistan,AF,Active,26,Paktia,Active
+1,Afghanistan,AF,Active,9,Ghazni,Active
+1,Afghanistan,AF,Active,24,Nurestan,Active
+1,Afghanistan,AF,Active,7,Farah,Active
+1,Afghanistan,AF,Active,22,Nangrahar [Nangarhar],Active
+1,Afghanistan,AF,Active,5,Bamian,Active
+1,Afghanistan,AF,Active,20,Laghman,Active
+1,Afghanistan,AF,Active,3,Baghlan,Active
+1,Afghanistan,AF,Active,18,Konar [Kunar],Active
+1,Afghanistan,AF,Active,33,Wardak [Wardag],Active
+1,Afghanistan,AF,Active,1,Badakhshan,Active
+1,Afghanistan,AF,Active,16,Kapisa,Active
+1,Afghanistan,AF,Active,31,Sar-e Pol,Active
+1,Afghanistan,AF,Active,14,Kabul [Kabol],Active
+1,Afghanistan,AF,Active,29,Parwan,Active
+1,Afghanistan,AF,Active,12,Herat,Active
+1,Afghanistan,AF,Active,27,Paktika,Active
+1,Afghanistan,AF,Active,10,Ghowr,Active
+1,Afghanistan,AF,Active,25,Oruzgan [Uruzgan],Active
+1,Afghanistan,AF,Active,8,Faryab,Active
+1,Afghanistan,AF,Active,23,Nimruz,Active
+1,Afghanistan,AF,Active,6,Daykondi,Active
+1,Afghanistan,AF,Active,21,Lowgar,Active
+1,Afghanistan,AF,Active,4,Balkh,Active
+1,Afghanistan,AF,Active,19,Kondoz [Kunduz],Active
+1,Afghanistan,AF,Active,34,Zabol [Zabul],Active
+1,Afghanistan,AF,Active,2,Badghis,Active
+1,Afghanistan,AF,Active,17,Khowst,Active
+1,Afghanistan,AF,Active,32,Takhar,Active
+1,Afghanistan,AF,Active,15,Kandahar,Active
+1,Afghanistan,AF,Active,30,Samangan,Active
+1,Afghanistan,AF,Active,13,Jowzjan,Active
+9,Antigua and Barbuda,AG,Active,150,Saint Peter,Active
+9,Antigua and Barbuda,AG,Active,148,Saint Mary,Active
+9,Antigua and Barbuda,AG,Active,146,Saint George,Active
+9,Antigua and Barbuda,AG,Active,144,Barbuda,Active
+9,Antigua and Barbuda,AG,Active,151,Saint Philip,Active
+9,Antigua and Barbuda,AG,Active,149,Saint Paul,Active
+9,Antigua and Barbuda,AG,Active,147,Saint Johnaes,Active
+9,Antigua and Barbuda,AG,Active,145,Redonda,Active
+2,Albania,AL,Active,60,Peqin,Active
+2,Albania,AL,Active,43,GjirokastAr,Active
+2,Albania,AL,Active,58,Mat,Active
+2,Albania,AL,Active,41,Elbasan,Active
+2,Albania,AL,Active,56,MallakastAr,Active
+2,Albania,AL,Active,39,DibAr,Active
+2,Albania,AL,Active,54,Librazhd,Active
+2,Albania,AL,Active,37,DelvinA,Active
+2,Albania,AL,Active,69,TropojA,Active
+2,Albania,AL,Active,52,KuAsovA,Active
+2,Albania,AL,Active,35,Berat,Active
+2,Albania,AL,Active,67,TepelenA,Active
+2,Albania,AL,Active,50,KukAs,Active
+2,Albania,AL,Active,65,ShkodAr,Active
+2,Albania,AL,Active,48,KorAsA,Active
+2,Albania,AL,Active,63,PArmet,Active
+2,Albania,AL,Active,46,KavajA,Active
+2,Albania,AL,Active,61,Pogradec,Active
+2,Albania,AL,Active,44,Gramsh,Active
+2,Albania,AL,Active,59,MirditA,Active
+2,Albania,AL,Active,42,Fier,Active
+2,Albania,AL,Active,57,MalAsi e Madhe,Active
+2,Albania,AL,Active,40,DurrAs,Active
+2,Albania,AL,Active,55,LushnjA,Active
+2,Albania,AL,Active,38,Devoll,Active
+2,Albania,AL,Active,70,VlorA,Active
+2,Albania,AL,Active,53,LezhA,Active
+2,Albania,AL,Active,36,BulqizA,Active
+2,Albania,AL,Active,68,TiranA,Active
+2,Albania,AL,Active,51,Kurbin,Active
+2,Albania,AL,Active,66,Skrapar,Active
+2,Albania,AL,Active,49,KrujA,Active
+2,Albania,AL,Active,64,SarandA,Active
+2,Albania,AL,Active,47,KolonjA,Active
+2,Albania,AL,Active,62,PukA,Active
+2,Albania,AL,Active,45,Has,Active
+11,Armenia,AM,Active,186,A irak,Active
+11,Armenia,AM,Active,184,Tavua,Active
+11,Armenia,AM,Active,182,Loy,Active
+11,Armenia,AM,Active,180,Gegark'unik',Active
+11,Armenia,AM,Active,178,Armavir,Active
+11,Armenia,AM,Active,176,Aragacotn,Active
+11,Armenia,AM,Active,185,Vayoc Jor,Active
+11,Armenia,AM,Active,183,Syunik',Active
+11,Armenia,AM,Active,181,Kotayk',Active
+11,Armenia,AM,Active,179,Erevan,Active
+11,Armenia,AM,Active,177,Ararat,Active
+6,Angola,AO,Active,139,Malange,Active
+6,Angola,AO,Active,137,Lunda Norte,Active
+6,Angola,AO,Active,135,HuA­la,Active
+6,Angola,AO,Active,133,Cunene,Active
+6,Angola,AO,Active,131,Cuanza Norte,Active
+6,Angola,AO,Active,129,Cabinda,Active
+6,Angola,AO,Active,127,Benguela,Active
+6,Angola,AO,Active,142,UA­ge,Active
+6,Angola,AO,Active,140,Moxico,Active
+6,Angola,AO,Active,138,Lunda Sul,Active
+6,Angola,AO,Active,136,Luanda,Active
+6,Angola,AO,Active,134,Huambo,Active
+6,Angola,AO,Active,132,Cuanza Sul,Active
+6,Angola,AO,Active,130,Cuando-Cubango,Active
+6,Angola,AO,Active,128,BiAc,Active
+6,Angola,AO,Active,143,Zaire,Active
+6,Angola,AO,Active,126,Bengo,Active
+6,Angola,AO,Active,141,Namibe,Active
+10,Argentina,AR,Active,156,Ciudad Autanoma de Buenos Aires,Active
+10,Argentina,AR,Active,171,Santa Cruz,Active
+10,Argentina,AR,Active,154,Chaco,Active
+10,Argentina,AR,Active,169,San Juan,Active
+10,Argentina,AR,Active,152,Buenos Aires,Active
+10,Argentina,AR,Active,167,RA­o Negro,Active
+10,Argentina,AR,Active,165,Misiones,Active
+10,Argentina,AR,Active,163,La Rioja,Active
+10,Argentina,AR,Active,161,Jujuy,Active
+10,Argentina,AR,Active,159,Entre RA­os,Active
+10,Argentina,AR,Active,174,Tierra del Fuego,Active
+10,Argentina,AR,Active,157,Corrientes,Active
+10,Argentina,AR,Active,172,Santa Fe,Active
+10,Argentina,AR,Active,155,Chubut,Active
+10,Argentina,AR,Active,4439,ALL [Placeholder],Active
+10,Argentina,AR,Active,170,San Luis,Active
+10,Argentina,AR,Active,153,Catamarca,Active
+10,Argentina,AR,Active,168,Salta,Active
+10,Argentina,AR,Active,166,NeuquAcn,Active
+10,Argentina,AR,Active,164,Mendoza,Active
+10,Argentina,AR,Active,162,La Pampa,Active
+10,Argentina,AR,Active,160,Formosa,Active
+10,Argentina,AR,Active,175,Tucuman,Active
+10,Argentina,AR,Active,158,Cardoba,Active
+10,Argentina,AR,Active,173,Santiago del Estero,Active
+14,Austria,AT,Active,201,Tirol,Active
+14,Austria,AT,Active,203,Wien,Active
+14,Austria,AT,Active,199,Salzburg,Active
+14,Austria,AT,Active,197,Niederosterreich,Active
+14,Austria,AT,Active,195,Burgenland,Active
+14,Austria,AT,Active,200,Steiermark,Active
+14,Austria,AT,Active,202,Vorarlberg,Active
+14,Austria,AT,Active,198,Oberosterreich,Active
+14,Austria,AT,Active,196,Karnten,Active
+13,Australia,AU,Active,188,New South Wales,Active
+13,Australia,AU,Active,193,Victoria,Active
+13,Australia,AU,Active,191,South Australia,Active
+13,Australia,AU,Active,189,Northern Territory,Active
+13,Australia,AU,Active,187,Australian Capital Territory,Active
+13,Australia,AU,Active,194,Western Australia,Active
+13,Australia,AU,Active,192,Tasmania,Active
+13,Australia,AU,Active,190,Queensland,Active
+15,Azerbaijan,AZ,Active,239,NaxAsivan,Active
+15,Azerbaijan,AZ,Active,271,Xizi,Active
+15,Azerbaijan,AZ,Active,207,Agdas,Active
+15,Azerbaijan,AZ,Active,222,Fazuli,Active
+15,Azerbaijan,AZ,Active,254,Samaxi,Active
+15,Azerbaijan,AZ,Active,237,MingaAsevir,Active
+15,Azerbaijan,AZ,Active,269,Xanlar,Active
+15,Azerbaijan,AZ,Active,205,Agcabadi,Active
+15,Azerbaijan,AZ,Active,220,Daskasan,Active
+15,Azerbaijan,AZ,Active,252,Sahbuz,Active
+15,Azerbaijan,AZ,Active,235,Lankaran City,Active
+15,Azerbaijan,AZ,Active,267,Ucar,Active
+15,Azerbaijan,AZ,Active,218,Cabrayil,Active
+15,Azerbaijan,AZ,Active,250,Saatli,Active
+15,Azerbaijan,AZ,Active,233,Lerik,Active
+15,Azerbaijan,AZ,Active,265,Tovuz,Active
+15,Azerbaijan,AZ,Active,216,Barda,Active
+15,Azerbaijan,AZ,Active,248,Qusar,Active
+15,Azerbaijan,AZ,Active,280,ali Bayramli,Active
+15,Azerbaijan,AZ,Active,231,Kardamir,Active
+15,Azerbaijan,AZ,Active,263,Samkir,Active
+15,Azerbaijan,AZ,Active,214,Beylaqan,Active
+15,Azerbaijan,AZ,Active,246,Quba,Active
+15,Azerbaijan,AZ,Active,278,Zangilan,Active
+15,Azerbaijan,AZ,Active,229,Ismayilli,Active
+15,Azerbaijan,AZ,Active,261,Saki,Active
+15,Azerbaijan,AZ,Active,244,Qazax,Active
+15,Azerbaijan,AZ,Active,276,Yevlax City,Active
+15,Azerbaijan,AZ,Active,212,Baki,Active
+15,Azerbaijan,AZ,Active,227,Haciqabul,Active
+15,Azerbaijan,AZ,Active,259,Susa City,Active
+15,Azerbaijan,AZ,Active,242,Ordubad,Active
+15,Azerbaijan,AZ,Active,274,Yardimli,Active
+15,Azerbaijan,AZ,Active,210,Astara,Active
+15,Azerbaijan,AZ,Active,225,Ganca,Active
+15,Azerbaijan,AZ,Active,257,Sumqayit,Active
+15,Azerbaijan,AZ,Active,240,NeftAsala,Active
+15,Azerbaijan,AZ,Active,272,Xocali,Active
+15,Azerbaijan,AZ,Active,208,Agstafa,Active
+15,Azerbaijan,AZ,Active,223,Goranboy,Active
+15,Azerbaijan,AZ,Active,255,Samux,Active
+15,Azerbaijan,AZ,Active,238,Naftalan,Active
+15,Azerbaijan,AZ,Active,270,XaAsmaz,Active
+15,Azerbaijan,AZ,Active,206,Agdam,Active
+15,Azerbaijan,AZ,Active,221,DavaAsi,Active
+15,Azerbaijan,AZ,Active,253,Salyan,Active
+15,Azerbaijan,AZ,Active,236,Masalli,Active
+15,Azerbaijan,AZ,Active,268,Xankandi,Active
+15,Azerbaijan,AZ,Active,204,Abseron,Active
+15,Azerbaijan,AZ,Active,219,Calilabab,Active
+15,Azerbaijan,AZ,Active,251,Sabirabad,Active
+15,Azerbaijan,AZ,Active,234,Lankaran,Active
+15,Azerbaijan,AZ,Active,266,Tartar,Active
+15,Azerbaijan,AZ,Active,217,Culfa,Active
+15,Azerbaijan,AZ,Active,249,Qabala,Active
+15,Azerbaijan,AZ,Active,232,LaAsin,Active
+15,Azerbaijan,AZ,Active,264,Sarur,Active
+15,Azerbaijan,AZ,Active,215,Bilasuvar,Active
+15,Azerbaijan,AZ,Active,247,Qubadli,Active
+15,Azerbaijan,AZ,Active,279,Zardab,Active
+15,Azerbaijan,AZ,Active,230,Kalbacar,Active
+15,Azerbaijan,AZ,Active,262,Saki City,Active
+15,Azerbaijan,AZ,Active,245,Qobustan,Active
+15,Azerbaijan,AZ,Active,277,Zaqatala,Active
+15,Azerbaijan,AZ,Active,213,Balakan,Active
+15,Azerbaijan,AZ,Active,228,Imisli,Active
+15,Azerbaijan,AZ,Active,260,Sadarak,Active
+15,Azerbaijan,AZ,Active,243,Qax,Active
+15,Azerbaijan,AZ,Active,275,Yevlax,Active
+15,Azerbaijan,AZ,Active,211,Babak,Active
+15,Azerbaijan,AZ,Active,226,GayAsay,Active
+15,Azerbaijan,AZ,Active,258,Susa,Active
+15,Azerbaijan,AZ,Active,241,Oguz,Active
+15,Azerbaijan,AZ,Active,273,Xocavand,Active
+15,Azerbaijan,AZ,Active,209,Agsu,Active
+15,Azerbaijan,AZ,Active,224,Gadabay,Active
+15,Azerbaijan,AZ,Active,256,Siyazan,Active
+27,Bosnia and Herzegovina,BA,Active,465,Republika Srpska,Active
+27,Bosnia and Herzegovina,BA,Active,463,Kanton Sarajevo,Active
+27,Bosnia and Herzegovina,BA,Active,461,Hercegovako-neretvanski kanton,Active
+27,Bosnia and Herzegovina,BA,Active,459,Brcko distrikt,Active
+27,Bosnia and Herzegovina,BA,Active,470,Zeniko-dobojski kanton,Active
+27,Bosnia and Herzegovina,BA,Active,468,Unsko-sanski kanton,Active
+27,Bosnia and Herzegovina,BA,Active,466,Srednjobosanski kanton,Active
+27,Bosnia and Herzegovina,BA,Active,464,Posavski kanton,Active
+27,Bosnia and Herzegovina,BA,Active,462,Kanton br. 10 (Livanjski kanton),Active
+27,Bosnia and Herzegovina,BA,Active,460,Federacija Bosna i Hercegovina,Active
+27,Bosnia and Herzegovina,BA,Active,458,Bosansko-podrinjski kanton,Active
+27,Bosnia and Herzegovina,BA,Active,469,Zapadnohercegovaki kanton,Active
+27,Bosnia and Herzegovina,BA,Active,467,Tuzlanski kanton,Active
+19,Barbados,BB,Active,382,Christ Church,Active
+19,Barbados,BB,Active,391,Saint Philip,Active
+19,Barbados,BB,Active,389,Saint Michael,Active
+19,Barbados,BB,Active,387,Saint Joseph,Active
+19,Barbados,BB,Active,385,Saint James,Active
+19,Barbados,BB,Active,383,Saint Andrew,Active
+19,Barbados,BB,Active,392,Saint Thomas,Active
+19,Barbados,BB,Active,390,Saint Peter,Active
+19,Barbados,BB,Active,388,Saint Lucy,Active
+19,Barbados,BB,Active,386,Saint John,Active
+19,Barbados,BB,Active,384,Saint George,Active
+18,Bangladesh,BD,Active,335,Gazipur zila,Active
+18,Bangladesh,BD,Active,367,Panchagarh zila,Active
+18,Bangladesh,BD,Active,318,Bagerhat zila,Active
+18,Bangladesh,BD,Active,350,Madaripur zila,Active
+18,Bangladesh,BD,Active,333,Feni zila,Active
+18,Bangladesh,BD,Active,365,Noakhali zila,Active
+18,Bangladesh,BD,Active,348,Lakshmipur zila,Active
+18,Bangladesh,BD,Active,380,Tangail zila,Active
+18,Bangladesh,BD,Active,331,Dinajpur zila,Active
+18,Bangladesh,BD,Active,363,Netrakona zila,Active
+18,Bangladesh,BD,Active,346,Kurigram zila,Active
+18,Bangladesh,BD,Active,378,Sunamganj zila,Active
+18,Bangladesh,BD,Active,329,Cox's Bazar zila,Active
+18,Bangladesh,BD,Active,361,Natore zila,Active
+18,Bangladesh,BD,Active,344,Khulna zila,Active
+18,Bangladesh,BD,Active,376,Sherpur zila,Active
+18,Bangladesh,BD,Active,327,Chuadanga zila,Active
+18,Bangladesh,BD,Active,359,Narayanganj zila,Active
+18,Bangladesh,BD,Active,342,Jhenaidah zila,Active
+18,Bangladesh,BD,Active,374,Satkhira zila,Active
+18,Bangladesh,BD,Active,325,Chandpur zila,Active
+18,Bangladesh,BD,Active,357,Naogaon zila,Active
+18,Bangladesh,BD,Active,340,Jessore zila,Active
+18,Bangladesh,BD,Active,372,Rangamati zila,Active
+18,Bangladesh,BD,Active,323,Bogra zila,Active
+18,Bangladesh,BD,Active,355,Munshiganj zila,Active
+18,Bangladesh,BD,Active,338,Jaipurhat zila,Active
+18,Bangladesh,BD,Active,370,Rajbari zila,Active
+18,Bangladesh,BD,Active,321,Barisal zila,Active
+18,Bangladesh,BD,Active,353,Meherpur zila,Active
+18,Bangladesh,BD,Active,336,Gopalganj zila,Active
+18,Bangladesh,BD,Active,368,Patuakhali zila,Active
+18,Bangladesh,BD,Active,319,Bandarban zila,Active
+18,Bangladesh,BD,Active,351,Magura zila,Active
+18,Bangladesh,BD,Active,334,Gaibandha zila,Active
+18,Bangladesh,BD,Active,366,Pabna zila,Active
+18,Bangladesh,BD,Active,349,Lalmonirhat zila,Active
+18,Bangladesh,BD,Active,381,Thakurgaon zila,Active
+18,Bangladesh,BD,Active,332,Faridpur zila,Active
+18,Bangladesh,BD,Active,364,Nilphamari zila,Active
+18,Bangladesh,BD,Active,347,Kushtia zila,Active
+18,Bangladesh,BD,Active,379,Sylhet zila,Active
+18,Bangladesh,BD,Active,330,Dhaka zila,Active
+18,Bangladesh,BD,Active,362,Nawabganj zila,Active
+18,Bangladesh,BD,Active,345,Kishoreganj zila,Active
+18,Bangladesh,BD,Active,377,Sirajganj zila,Active
+18,Bangladesh,BD,Active,328,Comilla zila,Active
+18,Bangladesh,BD,Active,360,Narsingdi zila,Active
+18,Bangladesh,BD,Active,343,Khagrachari zila,Active
+18,Bangladesh,BD,Active,375,Shariatpur zila,Active
+18,Bangladesh,BD,Active,326,Chittagong zila,Active
+18,Bangladesh,BD,Active,358,Narail zila,Active
+18,Bangladesh,BD,Active,341,Jhalakati zila,Active
+18,Bangladesh,BD,Active,373,Rangpur zila,Active
+18,Bangladesh,BD,Active,324,Brahmanbaria zila,Active
+18,Bangladesh,BD,Active,356,Mymensingh zila,Active
+18,Bangladesh,BD,Active,339,Jamalpur zila,Active
+18,Bangladesh,BD,Active,371,Rajshahi zila,Active
+18,Bangladesh,BD,Active,322,Bhola zila,Active
+18,Bangladesh,BD,Active,354,Moulvibazar zila,Active
+18,Bangladesh,BD,Active,337,Habiganj zila,Active
+18,Bangladesh,BD,Active,369,Pirojpur zila,Active
+18,Bangladesh,BD,Active,320,Barguna zila,Active
+18,Bangladesh,BD,Active,352,Manikganj zila,Active
+21,Belgium,BE,Active,4578,Flemish Region,Active
+21,Belgium,BE,Active,410,West-Vlaanderen,Active
+21,Belgium,BE,Active,408,Oost-Vlaanderen,Active
+21,Belgium,BE,Active,406,Luxembourg,Active
+21,Belgium,BE,Active,402,Brussels,Active
+21,Belgium,BE,Active,404,Limburg,Active
+21,Belgium,BE,Active,400,Antwerpen,Active
+21,Belgium,BE,Active,4435,Belgium ALL [Placeholder],Active
+21,Belgium,BE,Active,4579,Wallonia,Active
+21,Belgium,BE,Active,409,Vlaams Brabant,Active
+21,Belgium,BE,Active,407,Namur,Active
+21,Belgium,BE,Active,405,Liege,Active
+21,Belgium,BE,Active,401,Brabant Wallon,Active
+21,Belgium,BE,Active,403,Hainaut,Active
+34,Burkina Faso,BF,Active,546,BoulkiemdAc,Active
+34,Burkina Faso,BF,Active,578,Oudalan,Active
+34,Burkina Faso,BF,Active,561,Kadiogo,Active
+34,Burkina Faso,BF,Active,593,Yatenga,Active
+34,Burkina Faso,BF,Active,544,Bougouriba,Active
+34,Burkina Faso,BF,Active,576,Noumbiel,Active
+34,Burkina Faso,BF,Active,559,Houet,Active
+34,Burkina Faso,BF,Active,591,Tui,Active
+34,Burkina Faso,BF,Active,542,BazAga,Active
+34,Burkina Faso,BF,Active,574,Nayala,Active
+34,Burkina Faso,BF,Active,557,Gourma,Active
+34,Burkina Faso,BF,Active,589,SAcno,Active
+34,Burkina Faso,BF,Active,540,Bam,Active
+34,Burkina Faso,BF,Active,572,Nahouri,Active
+34,Burkina Faso,BF,Active,555,Ganzourgou,Active
+34,Burkina Faso,BF,Active,587,Sourou,Active
+34,Burkina Faso,BF,Active,570,LAcraba,Active
+34,Burkina Faso,BF,Active,553,ComoAc,Active
+34,Burkina Faso,BF,Active,585,Sissili,Active
+34,Burkina Faso,BF,Active,568,KAcnAcdougou,Active
+34,Burkina Faso,BF,Active,551,Centre-Ouest,Active
+34,Burkina Faso,BF,Active,583,SanguiAc,Active
+34,Burkina Faso,BF,Active,566,Kouritenga,Active
+34,Burkina Faso,BF,Active,549,Centre-Est,Active
+34,Burkina Faso,BF,Active,581,Poni,Active
+34,Burkina Faso,BF,Active,564,Kossi,Active
+34,Burkina Faso,BF,Active,596,ZoundwAcogo,Active
+34,Burkina Faso,BF,Active,547,Cascades,Active
+34,Burkina Faso,BF,Active,579,PassorAc,Active
+34,Burkina Faso,BF,Active,562,Komondjari,Active
+34,Burkina Faso,BF,Active,594,Ziro,Active
+34,Burkina Faso,BF,Active,545,Boulgou,Active
+34,Burkina Faso,BF,Active,577,Oubritenga,Active
+34,Burkina Faso,BF,Active,560,Ioba,Active
+34,Burkina Faso,BF,Active,592,Yagha,Active
+34,Burkina Faso,BF,Active,543,Boucle du Mouhoun,Active
+34,Burkina Faso,BF,Active,575,Nord,Active
+34,Burkina Faso,BF,Active,558,Hauts-Bassins,Active
+34,Burkina Faso,BF,Active,590,Tapoa,Active
+34,Burkina Faso,BF,Active,541,Banwa,Active
+34,Burkina Faso,BF,Active,573,Namentenga,Active
+34,Burkina Faso,BF,Active,556,Gnagna,Active
+34,Burkina Faso,BF,Active,588,Sud-Ouest,Active
+34,Burkina Faso,BF,Active,539,BalAc,Active
+34,Burkina Faso,BF,Active,571,Mouhoun,Active
+34,Burkina Faso,BF,Active,554,Est,Active
+34,Burkina Faso,BF,Active,586,Soum,Active
+34,Burkina Faso,BF,Active,569,Loroum,Active
+34,Burkina Faso,BF,Active,552,Centre-Sud,Active
+34,Burkina Faso,BF,Active,584,Sanmatenga,Active
+34,Burkina Faso,BF,Active,567,KourwAcogo,Active
+34,Burkina Faso,BF,Active,550,Centre-Nord,Active
+34,Burkina Faso,BF,Active,582,Sahel,Active
+34,Burkina Faso,BF,Active,565,KoulpAclogo,Active
+34,Burkina Faso,BF,Active,548,Centre,Active
+34,Burkina Faso,BF,Active,580,Plateau-Central,Active
+34,Burkina Faso,BF,Active,563,Kompienga,Active
+34,Burkina Faso,BF,Active,595,Zondoma,Active
+33,Bulgaria,BG,Active,514,Gabrovo,Active
+33,Bulgaria,BG,Active,529,Sofia,Active
+33,Bulgaria,BG,Active,512,Burgas,Active
+33,Bulgaria,BG,Active,527,Sliven,Active
+33,Bulgaria,BG,Active,525,Ruse,Active
+33,Bulgaria,BG,Active,523,Plovdiv,Active
+33,Bulgaria,BG,Active,538,A umen,Active
+33,Bulgaria,BG,Active,521,Pernik,Active
+33,Bulgaria,BG,Active,536,Vratsa,Active
+33,Bulgaria,BG,Active,519,Montana,Active
+33,Bulgaria,BG,Active,534,Veliko Tarnovo,Active
+33,Bulgaria,BG,Active,517,Kjustendil,Active
+33,Bulgaria,BG,Active,532,Targovishte,Active
+33,Bulgaria,BG,Active,515,Haskovo,Active
+33,Bulgaria,BG,Active,530,Sofia-Grad,Active
+33,Bulgaria,BG,Active,513,Dobrich,Active
+33,Bulgaria,BG,Active,528,Smolyan,Active
+33,Bulgaria,BG,Active,511,Blagoevgrad,Active
+33,Bulgaria,BG,Active,526,Silistra,Active
+33,Bulgaria,BG,Active,524,Razgrad,Active
+33,Bulgaria,BG,Active,522,Pleven,Active
+33,Bulgaria,BG,Active,537,Yambol,Active
+33,Bulgaria,BG,Active,520,Pazardzhik,Active
+33,Bulgaria,BG,Active,535,Vidin,Active
+33,Bulgaria,BG,Active,4571,Shumen Province,Active
+33,Bulgaria,BG,Active,518,Lovech,Active
+33,Bulgaria,BG,Active,533,Varna,Active
+33,Bulgaria,BG,Active,516,Kardzhali,Active
+33,Bulgaria,BG,Active,531,Stara Zagora,Active
+17,Bahrain,BH,Active,316,Al Wusta,Active
+17,Bahrain,BH,Active,314,Al Manamah (Al aeAsimah),Active
+17,Bahrain,BH,Active,317,Ash Shamaliyah,Active
+17,Bahrain,BH,Active,315,Al Muharraq,Active
+17,Bahrain,BH,Active,4465,ALL [Placeholder],Active
+17,Bahrain,BH,Active,313,Al Janubiyah,Active
+35,Burundi,BI,Active,612,Rutana,Active
+35,Burundi,BI,Active,610,Mwaro,Active
+35,Burundi,BI,Active,608,Muramvya,Active
+35,Burundi,BI,Active,606,Kirundo,Active
+35,Burundi,BI,Active,602,Cibitoke,Active
+35,Burundi,BI,Active,604,Karuzi,Active
+35,Burundi,BI,Active,600,Bururi,Active
+35,Burundi,BI,Active,598,Bujumbura Mairie,Active
+35,Burundi,BI,Active,613,Ruyigi,Active
+35,Burundi,BI,Active,611,Ngozi,Active
+35,Burundi,BI,Active,609,Muyinga,Active
+35,Burundi,BI,Active,607,Makamba,Active
+35,Burundi,BI,Active,603,Gitega,Active
+35,Burundi,BI,Active,605,Kayanza,Active
+35,Burundi,BI,Active,601,Cankuzo,Active
+35,Burundi,BI,Active,599,Bujumbura Rural,Active
+35,Burundi,BI,Active,597,Bubanza,Active
+23,Benin,BJ,Active,418,Atakora,Active
+23,Benin,BJ,Active,427,Plateau,Active
+23,Benin,BJ,Active,425,Mono,Active
+23,Benin,BJ,Active,423,Kouffo,Active
+23,Benin,BJ,Active,421,Collines,Active
+23,Benin,BJ,Active,419,Atlantique,Active
+23,Benin,BJ,Active,417,Alibori,Active
+23,Benin,BJ,Active,428,Zou,Active
+23,Benin,BJ,Active,426,OuAcmAc,Active
+23,Benin,BJ,Active,424,Littoral,Active
+23,Benin,BJ,Active,422,Donga,Active
+23,Benin,BJ,Active,420,Borgou,Active
+32,Brunei,BN,Active,510,Tutong,Active
+32,Brunei,BN,Active,508,Brunei-Muara,Active
+32,Brunei,BN,Active,509,Temburong,Active
+32,Brunei,BN,Active,507,Belait,Active
+26,Bolivia,BO,Active,450,Cochabamba,Active
+26,Bolivia,BO,Active,4539,ALL PLACEHOLDER,Active
+26,Bolivia,BO,Active,457,Tarija,Active
+26,Bolivia,BO,Active,455,PotosA­,Active
+26,Bolivia,BO,Active,453,Oruro,Active
+26,Bolivia,BO,Active,451,El Beni,Active
+26,Bolivia,BO,Active,449,Chuquisaca,Active
+26,Bolivia,BO,Active,456,Santa Cruz,Active
+26,Bolivia,BO,Active,454,Pando,Active
+26,Bolivia,BO,Active,452,La Paz,Active
+30,Brazil,BR,Active,482,Amapa,Active
+30,Brazil,BR,Active,497,PiauA­,Active
+30,Brazil,BR,Active,480,Acre,Active
+30,Brazil,BR,Active,4437,Brazil ALL [Placeholder],Inactive
+30,Brazil,BR,Active,495,Para,Active
+30,Brazil,BR,Active,493,Parana,Active
+30,Brazil,BR,Active,491,Mato Grosso do Sul,Active
+30,Brazil,BR,Active,506,Tocantins,Active
+30,Brazil,BR,Active,489,Maranhao,Active
+30,Brazil,BR,Active,504,Sao Paulo,Active
+30,Brazil,BR,Active,487,EspA­rito Santo,Active
+30,Brazil,BR,Active,502,Roraima,Active
+30,Brazil,BR,Active,485,Ceara,Active
+30,Brazil,BR,Active,500,Rio Grande do Sul,Active
+30,Brazil,BR,Active,483,Amazonas,Active
+30,Brazil,BR,Active,498,Rio de Janeiro,Active
+30,Brazil,BR,Active,481,Alagoas,Active
+30,Brazil,BR,Active,496,Pernambuco,Active
+30,Brazil,BR,Active,494,ParaA­ba,Active
+30,Brazil,BR,Active,492,Minas Gerais,Active
+30,Brazil,BR,Active,490,Mato Grosso,Active
+30,Brazil,BR,Active,505,Sergipe,Active
+30,Brazil,BR,Active,488,Goias,Active
+30,Brazil,BR,Active,503,Santa Catarina,Active
+30,Brazil,BR,Active,486,Distrito Federal,Active
+30,Brazil,BR,Active,501,Rondania,Active
+30,Brazil,BR,Active,484,Bahia,Active
+30,Brazil,BR,Active,499,Rio Grande do Norte,Active
+16,Bahamas,BS,Active,303,North Andros,Active
+16,Bahamas,BS,Active,286,Central Abaco,Active
+16,Bahamas,BS,Active,301,Mooreaes Island,Active
+16,Bahamas,BS,Active,284,Black Point,Active
+16,Bahamas,BS,Active,299,Mangrove Cay,Active
+16,Bahamas,BS,Active,282,Berry Islands,Active
+16,Bahamas,BS,Active,297,Inagua,Active
+16,Bahamas,BS,Active,312,West Grand Bahama,Active
+16,Bahamas,BS,Active,295,Harbour Island,Active
+16,Bahamas,BS,Active,310,South Eleuthera,Active
+16,Bahamas,BS,Active,293,Grand Cay,Active
+16,Bahamas,BS,Active,308,South Abaco,Active
+16,Bahamas,BS,Active,291,East Grand Bahama,Active
+16,Bahamas,BS,Active,306,Rum Cay,Active
+16,Bahamas,BS,Active,289,City of Freeport,Active
+16,Bahamas,BS,Active,304,North Eleuthera,Active
+16,Bahamas,BS,Active,287,Central Andros,Active
+16,Bahamas,BS,Active,302,North Abaco,Active
+16,Bahamas,BS,Active,285,Cat Island,Active
+16,Bahamas,BS,Active,300,Mayaguana,Active
+16,Bahamas,BS,Active,283,Bimini and Cat Cay,Active
+16,Bahamas,BS,Active,298,Long Island,Active
+16,Bahamas,BS,Active,281,Acklins Islands,Active
+16,Bahamas,BS,Active,296,Hope Town,Active
+16,Bahamas,BS,Active,311,Spanish Wells,Active
+16,Bahamas,BS,Active,294,Green Turtle Cay,Active
+16,Bahamas,BS,Active,309,South Andros,Active
+16,Bahamas,BS,Active,292,Exuma,Active
+16,Bahamas,BS,Active,307,San Salvador,Active
+16,Bahamas,BS,Active,290,Crooked Island and Long Cay,Active
+16,Bahamas,BS,Active,305,Ragged Island,Active
+16,Bahamas,BS,Active,288,Central Eleuthera,Active
+25,Bhutan,BT,Active,433,Ha,Active
+25,Bhutan,BT,Active,448,Zhemgang,Active
+25,Bhutan,BT,Active,431,Dagana,Active
+25,Bhutan,BT,Active,446,Tsirang,Active
+25,Bhutan,BT,Active,429,Bumthang,Active
+25,Bhutan,BT,Active,444,Trashigang,Active
+25,Bhutan,BT,Active,442,Thimphu,Active
+25,Bhutan,BT,Active,440,Samtse,Active
+25,Bhutan,BT,Active,438,Punakha,Active
+25,Bhutan,BT,Active,436,Paro,Active
+25,Bhutan,BT,Active,434,Lhuentse,Active
+25,Bhutan,BT,Active,432,Gasa,Active
+25,Bhutan,BT,Active,447,Wangdue Phodrang,Active
+25,Bhutan,BT,Active,430,Chhukha,Active
+25,Bhutan,BT,Active,445,Trongsa,Active
+25,Bhutan,BT,Active,443,Trashi Yangtse,Active
+25,Bhutan,BT,Active,441,Sarpang,Active
+25,Bhutan,BT,Active,439,Samdrup Jongkha,Active
+25,Bhutan,BT,Active,437,Pemagatshel,Active
+25,Bhutan,BT,Active,435,Monggar,Active
+28,Botswana,BW,Active,478,South-East,Active
+28,Botswana,BW,Active,476,North-East,Active
+28,Botswana,BW,Active,474,Kgatleng,Active
+28,Botswana,BW,Active,472,Ghanzi,Active
+28,Botswana,BW,Active,479,Southern,Active
+28,Botswana,BW,Active,477,North-West,Active
+28,Botswana,BW,Active,475,Kweneng,Active
+28,Botswana,BW,Active,473,Kgalagadi,Active
+28,Botswana,BW,Active,471,Central,Active
+20,Belarus,BY,Active,399,Vitsyebskaya voblasts,Active
+20,Belarus,BY,Active,397,Mahilyowskaya voblasts,Active
+20,Belarus,BY,Active,395,Horad Minsk,Active
+20,Belarus,BY,Active,393,Brestskaya voblasts,Active
+20,Belarus,BY,Active,398,Minskaya voblasts,Active
+20,Belarus,BY,Active,396,Hrodzenskaya voblasts,Active
+20,Belarus,BY,Active,394,Homyel'skaya voblasts,Active
+22,Belize,BZ,Active,416,Toledo,Active
+22,Belize,BZ,Active,414,Orange Walk,Active
+22,Belize,BZ,Active,412,Cayo,Active
+22,Belize,BZ,Active,415,Stann Creek,Active
+22,Belize,BZ,Active,413,Corozal,Active
+22,Belize,BZ,Active,411,Belize,Active
+38,Canada,CA,Active,659,Saskatchewan,Active
+38,Canada,CA,Active,657,Prince Edward Island,Active
+38,Canada,CA,Active,655,Nunavut,Active
+38,Canada,CA,Active,653,Northwest Territories,Active
+38,Canada,CA,Active,4553,Yukon,Active
+38,Canada,CA,Active,651,New Brunswick,Active
+38,Canada,CA,Active,4549,Northwest Territory,Active
+38,Canada,CA,Active,649,British Columbia,Active
+38,Canada,CA,Active,660,Yukon Territory,Active
+38,Canada,CA,Active,658,Quebec,Active
+38,Canada,CA,Active,656,Ontario,Active
+38,Canada,CA,Active,654,Nova Scotia,Active
+38,Canada,CA,Active,652,Newfoundland and Labrador,Active
+38,Canada,CA,Active,4551,Nunavut Territory,Active
+38,Canada,CA,Active,650,Manitoba,Active
+38,Canada,CA,Active,648,Alberta,Active
+50,"Congo, Democratic Republic of the",CD,Active,826,Bandundu,Active
+50,"Congo, Democratic Republic of the",CD,Active,835,Sud-Kivu,Active
+50,"Congo, Democratic Republic of the",CD,Active,833,Nord-Kivu,Active
+50,"Congo, Democratic Republic of the",CD,Active,831,Kinshasa,Active
+50,"Congo, Democratic Republic of the",CD,Active,829,Kasai-Oriental,Active
+50,"Congo, Democratic Republic of the",CD,Active,827,Bas-Congo,Active
+50,"Congo, Democratic Republic of the",CD,Active,836,aquateur,Active
+50,"Congo, Democratic Republic of the",CD,Active,834,Orientale,Active
+50,"Congo, Democratic Republic of the",CD,Active,832,Maniema,Active
+50,"Congo, Democratic Republic of the",CD,Active,830,Katanga,Active
+50,"Congo, Democratic Republic of the",CD,Active,828,Kasai-Occidental,Active
+41,Central African Republic,CF,Active,693,Basse-Kotto,Active
+41,Central African Republic,CF,Active,691,Bamingui-Bangoran,Active
+41,Central African Republic,CF,Active,706,Sangha,Active
+41,Central African Republic,CF,Active,704,Ouham,Active
+41,Central African Republic,CF,Active,702,Ombella-Mpoko,Active
+41,Central African Republic,CF,Active,700,Mbomou,Active
+41,Central African Republic,CF,Active,698,KAcmo-Gribingui,Active
+41,Central African Republic,CF,Active,696,Haute-Kotto,Active
+41,Central African Republic,CF,Active,694,Gribingui,Active
+41,Central African Republic,CF,Active,692,Bangui,Active
+41,Central African Republic,CF,Active,707,Vakaga,Active
+41,Central African Republic,CF,Active,705,Ouham-PendAc,Active
+41,Central African Republic,CF,Active,703,Ouaka,Active
+41,Central African Republic,CF,Active,701,Nana-MambAcrAc,Active
+41,Central African Republic,CF,Active,699,Lobaye,Active
+41,Central African Republic,CF,Active,697,Haute-Sangha / MambAcrAc-KadAcA,Active
+41,Central African Republic,CF,Active,695,Haut-Mbomou,Active
+49,"Congo, Republic of the",CG,Active,824,Pool,Active
+49,"Congo, Republic of the",CG,Active,822,Niari,Active
+49,"Congo, Republic of the",CG,Active,820,Likouala,Active
+49,"Congo, Republic of the",CG,Active,818,Cuvette-Ouest,Active
+49,"Congo, Republic of the",CG,Active,816,Brazzaville,Active
+49,"Congo, Republic of the",CG,Active,825,Sangha,Active
+49,"Congo, Republic of the",CG,Active,823,Plateaux,Active
+49,"Congo, Republic of the",CG,Active,821,LAckoumou,Active
+49,"Congo, Republic of the",CG,Active,819,Kouilou,Active
+49,"Congo, Republic of the",CG,Active,817,Cuvette,Active
+49,"Congo, Republic of the",CG,Active,815,Bouenza,Active
+212,Switzerland,CH,Active,3524,Schaffhausen,Active
+212,Switzerland,CH,Active,3522,Obwalden,Active
+212,Switzerland,CH,Active,3520,Neuchatel,Active
+212,Switzerland,CH,Active,4433,Switzerland ALL [Placeholder],Active
+212,Switzerland,CH,Active,3518,Jura,Active
+212,Switzerland,CH,Active,3533,Zarich,Active
+212,Switzerland,CH,Active,3516,Glarus,Active
+212,Switzerland,CH,Active,3531,Vaud,Active
+212,Switzerland,CH,Active,3514,Fribourg,Active
+212,Switzerland,CH,Active,3529,Uri,Active
+212,Switzerland,CH,Active,3512,Basel-Stadt,Active
+212,Switzerland,CH,Active,3527,Thurgau,Active
+212,Switzerland,CH,Active,3510,Appenzell Innerrhoden,Active
+212,Switzerland,CH,Active,3525,Schwyz,Active
+212,Switzerland,CH,Active,3508,Aargau,Active
+212,Switzerland,CH,Active,3523,Sankt Gallen,Active
+212,Switzerland,CH,Active,3521,Nidwalden,Active
+212,Switzerland,CH,Active,3519,Luzern,Active
+212,Switzerland,CH,Active,3517,Graubanden,Active
+212,Switzerland,CH,Active,3532,Zug,Active
+212,Switzerland,CH,Active,3515,Geneve,Active
+212,Switzerland,CH,Active,3530,Valais,Active
+212,Switzerland,CH,Active,3513,Bern,Active
+212,Switzerland,CH,Active,3528,Ticino,Active
+212,Switzerland,CH,Active,3511,Basel-Landschaft,Active
+212,Switzerland,CH,Active,3526,Solothurn,Active
+212,Switzerland,CH,Active,3509,Appenzell Ausserrhoden,Active
+57,Ctttte d'Ivoire,CI,Active,907,Lacs (RAcgion des),Active
+57,Ctttte d'Ivoire,CI,Active,905,Fromager (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,903,Bas-Sassandra (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,918,Zanzan (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,901,AgnAcbi (RAcgion de l'),Active
+57,Ctttte d'Ivoire,CI,Active,916,VallAce du Bandama (RAcgion de la),Active
+57,Ctttte d'Ivoire,CI,Active,914,Sud-Bandama (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,912,Nzi-ComoAc (RAcgion),Active
+57,Ctttte d'Ivoire,CI,Active,910,Moyen-Cavally (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,908,Lagunes (RAcgion des),Active
+57,Ctttte d'Ivoire,CI,Active,906,Haut-Sassandra (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,904,DenguAclAc (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,902,Bafing (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,917,Worodougou (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,900,18 Montagnes (RAcgion des),Active
+57,Ctttte d'Ivoire,CI,Active,915,Sud-ComoAc (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,913,Savanes (RAcgion des),Active
+57,Ctttte d'Ivoire,CI,Active,911,Moyen-ComoAc (RAcgion du),Active
+57,Ctttte d'Ivoire,CI,Active,909,MarahouAc (RAcgion de la),Active
+43,Chile,CL,Active,740,Magallanes,Active
+43,Chile,CL,Active,738,Los Lagos,Active
+43,Chile,CL,Active,736,Coquimbo,Active
+43,Chile,CL,Active,734,Atacama,Active
+43,Chile,CL,Active,732,AraucanA­a,Active
+43,Chile,CL,Active,730,AisAcn del General Carlos Ibaaez del Campo,Active
+43,Chile,CL,Active,743,Tarapaca,Active
+43,Chile,CL,Active,741,Maule,Active
+43,Chile,CL,Active,739,Los RA­os,Active
+43,Chile,CL,Active,737,Libertador General Bernardo O'Higgins,Active
+43,Chile,CL,Active,735,BA­o-BA­o,Active
+43,Chile,CL,Active,733,Arica y Parinacota,Active
+43,Chile,CL,Active,4457,ALL [Placeholder],Active
+43,Chile,CL,Active,731,Antofagasta,Active
+43,Chile,CL,Active,744,ValparaA­so,Active
+43,Chile,CL,Active,742,Regian Metropolitana de Santiago,Active
+37,Cameroon,CM,Active,644,North-West,Active
+37,Cameroon,CM,Active,642,Littoral,Active
+37,Cameroon,CM,Active,640,East,Active
+37,Cameroon,CM,Active,638,Adamaoua,Active
+37,Cameroon,CM,Active,647,West,Active
+37,Cameroon,CM,Active,645,South,Active
+37,Cameroon,CM,Active,643,North,Active
+37,Cameroon,CM,Active,641,Far North,Active
+37,Cameroon,CM,Active,639,Centre,Active
+37,Cameroon,CM,Active,646,South-West,Active
+44,China,CN,Active,758,Hubei,Active
+44,China,CN,Active,775,Xinjiang,Active
+44,China,CN,Active,756,Heilongjiang,Active
+44,China,CN,Active,771,Sichuan,Active
+44,China,CN,Active,754,Hainan,Active
+44,China,CN,Active,769,Shanghai,Active
+44,China,CN,Active,752,Guangxi,Active
+44,China,CN,Active,767,Shaanxi,Active
+44,China,CN,Active,750,Gansu,Active
+44,China,CN,Active,765,Ningxia,Active
+44,China,CN,Active,748,Chongqing,Active
+44,China,CN,Active,763,Liaoning,Active
+44,China,CN,Active,745,Anhui,Active
+44,China,CN,Active,761,Jiangxi,Active
+44,China,CN,Active,778,Zhejiang,Active
+44,China,CN,Active,759,Hunan,Active
+44,China,CN,Active,776,Xizang,Active
+44,China,CN,Active,757,Henan,Active
+44,China,CN,Active,773,Tianjin,Active
+44,China,CN,Active,755,Hebei,Active
+44,China,CN,Active,770,Shanxi,Active
+44,China,CN,Active,753,Guizhou,Active
+44,China,CN,Active,768,Shandong,Active
+44,China,CN,Active,751,Guangdong,Active
+44,China,CN,Active,766,Qinghai,Active
+44,China,CN,Active,749,Fujian,Active
+44,China,CN,Active,764,Nei Mongol,Active
+44,China,CN,Active,747,Beijing,Active
+44,China,CN,Active,762,Jilin,Active
+44,China,CN,Active,760,Jiangsu,Active
+44,China,CN,Active,777,Yunnan,Active
+47,Colombia,CO,Active,792,Cardoba,Active
+47,Colombia,CO,Active,811,Vichada,Active
+47,Colombia,CO,Active,807,Sucre,Active
+47,Colombia,CO,Active,790,Choca,Active
+47,Colombia,CO,Active,809,Valle del Cauca,Active
+47,Colombia,CO,Active,805,"San AndrAcs, Providencia y Santa Catalina",Active
+47,Colombia,CO,Active,788,Cauca,Active
+47,Colombia,CO,Active,803,QuindA­o,Active
+47,Colombia,CO,Active,786,Caqueta,Active
+47,Colombia,CO,Active,801,Norte de Santander,Active
+47,Colombia,CO,Active,4459,ALL [Placeholder],Active
+47,Colombia,CO,Active,784,Boyaca,Active
+47,Colombia,CO,Active,799,Meta,Active
+47,Colombia,CO,Active,782,Atlantico,Active
+47,Colombia,CO,Active,797,La Guajira,Active
+47,Colombia,CO,Active,780,Antioquia,Active
+47,Colombia,CO,Active,795,Guaviare,Active
+47,Colombia,CO,Active,793,Distrito Capital de Bogota,Active
+47,Colombia,CO,Active,791,Cundinamarca,Active
+47,Colombia,CO,Active,810,VaupAcs,Active
+47,Colombia,CO,Active,806,Santander,Active
+47,Colombia,CO,Active,789,Cesar,Active
+47,Colombia,CO,Active,808,Tolima,Active
+47,Colombia,CO,Active,804,Risaralda,Active
+47,Colombia,CO,Active,787,Casanare,Active
+47,Colombia,CO,Active,802,Putumayo,Active
+47,Colombia,CO,Active,785,Caldas,Active
+47,Colombia,CO,Active,800,Nariao,Active
+47,Colombia,CO,Active,783,BolA­var,Active
+47,Colombia,CO,Active,798,Magdalena,Active
+47,Colombia,CO,Active,781,Arauca,Active
+47,Colombia,CO,Active,796,Huila,Active
+47,Colombia,CO,Active,779,Amazonas,Active
+47,Colombia,CO,Active,794,GuainA­a,Active
+52,Costa Rica,CR,Active,843,San JosAc,Active
+52,Costa Rica,CR,Active,841,Liman,Active
+52,Costa Rica,CR,Active,839,Guanacaste,Active
+52,Costa Rica,CR,Active,4467,ALL [Placeholder],Active
+52,Costa Rica,CR,Active,837,Alajuela,Active
+52,Costa Rica,CR,Active,842,Puntarenas,Active
+52,Costa Rica,CR,Active,840,Heredia,Active
+52,Costa Rica,CR,Active,838,Cartago,Active
+54,Cuba,CU,Active,875,Matanzas,Active
+54,Cuba,CU,Active,873,La Habana,Active
+54,Cuba,CU,Active,871,HolguA­n,Active
+54,Cuba,CU,Active,869,Granma,Active
+54,Cuba,CU,Active,867,Cienfuegos,Active
+54,Cuba,CU,Active,865,Camagaey,Active
+54,Cuba,CU,Active,878,Santiago de Cuba,Active
+54,Cuba,CU,Active,876,Pinar del RA­o,Active
+54,Cuba,CU,Active,874,Las Tunas,Active
+54,Cuba,CU,Active,872,Isla de la Juventud,Active
+54,Cuba,CU,Active,870,Guantanamo,Active
+54,Cuba,CU,Active,868,Ciudad de La Habana,Active
+54,Cuba,CU,Active,866,Ciego deavila,Active
+54,Cuba,CU,Active,879,Villa Clara,Active
+54,Cuba,CU,Active,877,Sancti SpA­ritus,Active
+39,Cape Verde,CV,Active,661,Boa Vista,Active
+39,Cape Verde,CV,Active,676,Sao Domingos,Active
+39,Cape Verde,CV,Active,674,Santa Catarina do Fogo,Active
+39,Cape Verde,CV,Active,672,Ribeira Grande de Santiago,Active
+39,Cape Verde,CV,Active,670,Ribeira Brava,Active
+39,Cape Verde,CV,Active,668,Porto Novo,Active
+39,Cape Verde,CV,Active,683,Tarrafal de Sao Nicolau,Active
+39,Cape Verde,CV,Active,666,Mosteiros,Active
+39,Cape Verde,CV,Active,681,Sao Vicente,Active
+39,Cape Verde,CV,Active,664,Ilhas de Sotavento,Active
+39,Cape Verde,CV,Active,679,Sao Miguel,Active
+39,Cape Verde,CV,Active,662,Brava,Active
+39,Cape Verde,CV,Active,677,Sao Filipe,Active
+39,Cape Verde,CV,Active,675,Santa Cruz,Active
+39,Cape Verde,CV,Active,673,Santa Catarina,Active
+39,Cape Verde,CV,Active,671,Ribeira Grande,Active
+39,Cape Verde,CV,Active,669,Praia,Active
+39,Cape Verde,CV,Active,667,Paul,Active
+39,Cape Verde,CV,Active,682,Tarrafal,Active
+39,Cape Verde,CV,Active,665,Maio,Active
+39,Cape Verde,CV,Active,680,Sao Salvador do Mundo,Active
+39,Cape Verde,CV,Active,663,Ilhas de Barlavento,Active
+39,Cape Verde,CV,Active,678,Sao LourenAso dos A“rgaos,Active
+55,Cyprus,CY,Active,884,Lemesos,Active
+55,Cyprus,CY,Active,882,Larnaka,Active
+55,Cyprus,CY,Active,880,Ammochostos,Active
+55,Cyprus,CY,Active,4619,Kyrenia District,Active
+55,Cyprus,CY,Active,885,Pafos,Active
+55,Cyprus,CY,Active,883,Lefkosia,Active
+55,Cyprus,CY,Active,881,Keryneia,Active
+55,Cyprus,CY,Active,4618,Famagusta District,Active
+56,Czech Republic,CZ,Active,890,Liberecka kraj,Active
+56,Czech Republic,CZ,Active,888,Karlovarska kraj,Active
+56,Czech Republic,CZ,Active,886,Jihoceska kraj,Active
+56,Czech Republic,CZ,Active,899,Ašstecka kraj,Active
+56,Czech Republic,CZ,Active,897,Vysocina,Active
+56,Czech Republic,CZ,Active,895,"Praha, hlavnA­ mesto",Active
+56,Czech Republic,CZ,Active,893,Pardubicka kraj,Active
+56,Czech Republic,CZ,Active,891,Moravskoslezska kraj,Active
+56,Czech Republic,CZ,Active,4503,ALL [Placeholder],Active
+56,Czech Republic,CZ,Active,889,KralovAchradecka kraj,Active
+56,Czech Republic,CZ,Active,887,Jihomoravska kraj,Active
+56,Czech Republic,CZ,Active,898,ZlA­nska kraj,Active
+56,Czech Republic,CZ,Active,4620,Ústí nad Labem Region,Active
+56,Czech Republic,CZ,Active,896,Stredoceska kraj,Active
+56,Czech Republic,CZ,Active,894,Plzenska kraj,Active
+56,Czech Republic,CZ,Active,892,Olomoucka kraj,Active
+80,Germany,DE,Active,1249,Mecklenburg-Vorpommern,Active
+80,Germany,DE,Active,1247,Hamburg,Active
+80,Germany,DE,Active,1245,Brandenburg,Active
+80,Germany,DE,Active,1243,Bayern,Active
+80,Germany,DE,Active,1256,Schleswig-Holstein,Active
+80,Germany,DE,Active,1254,Sachsen,Active
+80,Germany,DE,Active,1252,Rheinland-Pfalz,Active
+80,Germany,DE,Active,1250,Niedersachsen,Active
+80,Germany,DE,Active,1248,Hessen,Active
+80,Germany,DE,Active,1246,Bremen,Active
+80,Germany,DE,Active,1244,Berlin,Active
+80,Germany,DE,Active,1242,Baden-Württemberg,Active
+80,Germany,DE,Active,1257,Thüringen,Active
+80,Germany,DE,Active,1255,Sachsen-Anhalt,Active
+80,Germany,DE,Active,1253,Saarland,Active
+80,Germany,DE,Active,1251,Nordrhein-Westfalen,Active
+59,Djibouti,DJ,Active,945,Tadjourah,Active
+59,Djibouti,DJ,Active,943,Djibouti,Active
+59,Djibouti,DJ,Active,941,Arta,Active
+59,Djibouti,DJ,Active,944,Obock,Active
+59,Djibouti,DJ,Active,942,Dikhil,Active
+59,Djibouti,DJ,Active,940,Ali Sabieh,Active
+58,Denmark,DK,Active,922,Sjelland,Active
+58,Denmark,DK,Active,920,Midtjylland,Active
+58,Denmark,DK,Active,923,Syddanmark,Active
+58,Denmark,DK,Active,921,Nordjylland,Active
+58,Denmark,DK,Active,919,Hovedstaden,Active
+60,Dominica,DM,Active,955,Saint Peter,Active
+60,Dominica,DM,Active,953,Saint Patrick,Active
+60,Dominica,DM,Active,951,Saint Luke,Active
+60,Dominica,DM,Active,949,Saint John,Active
+60,Dominica,DM,Active,947,Saint David,Active
+60,Dominica,DM,Active,954,Saint Paul,Active
+60,Dominica,DM,Active,952,Saint Mark,Active
+60,Dominica,DM,Active,950,Saint Joseph,Active
+60,Dominica,DM,Active,948,Saint George,Active
+60,Dominica,DM,Active,946,Saint Andrew,Active
+61,Dominican Republic,DO,Active,970,MarA­a Trinidad Sanchez,Active
+61,Dominican Republic,DO,Active,985,Sanchez RamA­rez,Active
+61,Dominican Republic,DO,Active,968,La Romana,Active
+61,Dominican Republic,DO,Active,983,Santiago,Active
+61,Dominican Republic,DO,Active,966,La Altagracia,Active
+61,Dominican Republic,DO,Active,981,San Juan,Active
+61,Dominican Republic,DO,Active,964,Hato Mayor,Active
+61,Dominican Republic,DO,Active,979,San Cristabal,Active
+61,Dominican Republic,DO,Active,962,El Seybo [El Seibo],Active
+61,Dominican Republic,DO,Active,977,Salcedo,Active
+61,Dominican Republic,DO,Active,960,Distrito Nacional (Santo Domingo),Active
+61,Dominican Republic,DO,Active,975,Peravia,Active
+61,Dominican Republic,DO,Active,958,Barahona,Active
+61,Dominican Republic,DO,Active,973,Monte Plata,Active
+61,Dominican Republic,DO,Active,956,Azua,Active
+61,Dominican Republic,DO,Active,971,Monseaor Nouel,Active
+61,Dominican Republic,DO,Active,986,Valverde,Active
+61,Dominican Republic,DO,Active,969,La Vega,Active
+61,Dominican Republic,DO,Active,984,Santiago RodrA­guez,Active
+61,Dominican Republic,DO,Active,967,La Estrelleta [ElA­as Piaa],Active
+61,Dominican Republic,DO,Active,982,San Pedro de MacorA­s,Active
+61,Dominican Republic,DO,Active,965,Independencia,Active
+61,Dominican Republic,DO,Active,980,San Jose de Ocoa,Active
+61,Dominican Republic,DO,Active,963,Espaillat,Active
+61,Dominican Republic,DO,Active,978,Samana,Active
+61,Dominican Republic,DO,Active,961,Duarte,Active
+61,Dominican Republic,DO,Active,976,Puerto Plata,Active
+61,Dominican Republic,DO,Active,959,Dajaban,Active
+61,Dominican Republic,DO,Active,974,Pedernales,Active
+61,Dominican Republic,DO,Active,957,Bahoruco,Active
+61,Dominican Republic,DO,Active,972,Monte Cristi,Active
+61,Dominican Republic,DO,Active,4509,ALL [Placeholder],Active
+3,Algeria,DZ,Active,92,Illizi,Active
+3,Algeria,DZ,Active,75,AAn TAcmouchent,Active
+3,Algeria,DZ,Active,107,Sidi Bel AbbAs,Active
+3,Algeria,DZ,Active,90,GhardaAa,Active
+3,Algeria,DZ,Active,73,Annaba,Active
+3,Algeria,DZ,Active,105,Relizane,Active
+3,Algeria,DZ,Active,88,El Oued,Active
+3,Algeria,DZ,Active,71,Adrar,Active
+3,Algeria,DZ,Active,103,Ouargla,Active
+3,Algeria,DZ,Active,118,TAcbessa,Active
+3,Algeria,DZ,Active,86,Djelfa,Active
+3,Algeria,DZ,Active,101,Naama,Active
+3,Algeria,DZ,Active,116,Tizi Ouzou,Active
+3,Algeria,DZ,Active,84,Chlef,Active
+3,Algeria,DZ,Active,99,Msila,Active
+3,Algeria,DZ,Active,114,Tipaza,Active
+3,Algeria,DZ,Active,82,BAcchar,Active
+3,Algeria,DZ,Active,97,Mila,Active
+3,Algeria,DZ,Active,112,Tiaret,Active
+3,Algeria,DZ,Active,80,Bouira,Active
+3,Algeria,DZ,Active,95,Laghouat,Active
+3,Algeria,DZ,Active,78,Blida,Active
+3,Algeria,DZ,Active,110,SActif,Active
+3,Algeria,DZ,Active,93,Jijel,Active
+3,Algeria,DZ,Active,76,Batna,Active
+3,Algeria,DZ,Active,108,Skikda,Active
+3,Algeria,DZ,Active,91,Guelma,Active
+3,Algeria,DZ,Active,74,AAn Defla,Active
+3,Algeria,DZ,Active,106,SaAda,Active
+3,Algeria,DZ,Active,89,El Tarf,Active
+3,Algeria,DZ,Active,72,Alger,Active
+3,Algeria,DZ,Active,104,Oum el Bouaghi,Active
+3,Algeria,DZ,Active,87,El Bayadh,Active
+3,Algeria,DZ,Active,102,Oran,Active
+3,Algeria,DZ,Active,117,Tlemcen,Active
+3,Algeria,DZ,Active,85,Constantine,Active
+3,Algeria,DZ,Active,100,MAcdAca,Active
+3,Algeria,DZ,Active,115,Tissemsilt,Active
+3,Algeria,DZ,Active,83,BAcjaAa,Active
+3,Algeria,DZ,Active,98,Mostaganem,Active
+3,Algeria,DZ,Active,113,Tindouf,Active
+3,Algeria,DZ,Active,81,BoumerdAs,Active
+3,Algeria,DZ,Active,96,Mascara,Active
+3,Algeria,DZ,Active,79,Bordj Bou ArrAcridj,Active
+3,Algeria,DZ,Active,111,Tamanghasset,Active
+3,Algeria,DZ,Active,94,Khenchela,Active
+3,Algeria,DZ,Active,77,Biskra,Active
+3,Algeria,DZ,Active,109,Souk Ahras,Active
+62,Ecuador,EC,Active,987,Azuay,Active
+62,Ecuador,EC,Active,4505,ALL [Placeholder],Active
+62,Ecuador,EC,Active,1002,Napo,Active
+62,Ecuador,EC,Active,1000,ManabA­,Active
+62,Ecuador,EC,Active,998,Loja,Active
+62,Ecuador,EC,Active,996,Guayas,Active
+62,Ecuador,EC,Active,994,Esmeraldas,Active
+62,Ecuador,EC,Active,1009,Tungurahua,Active
+62,Ecuador,EC,Active,992,Cotopaxi,Active
+62,Ecuador,EC,Active,1007,Santo Domingo de los Tsachilas,Active
+62,Ecuador,EC,Active,990,Caaar,Active
+62,Ecuador,EC,Active,1005,Pichincha,Active
+62,Ecuador,EC,Active,988,BolA­var,Active
+62,Ecuador,EC,Active,1003,Orellana,Active
+62,Ecuador,EC,Active,1001,Morona-Santiago,Active
+62,Ecuador,EC,Active,999,Los RA­os,Active
+62,Ecuador,EC,Active,997,Imbabura,Active
+62,Ecuador,EC,Active,995,Galapagos,Active
+62,Ecuador,EC,Active,1010,Zamora-Chinchipe,Active
+62,Ecuador,EC,Active,993,El Oro,Active
+62,Ecuador,EC,Active,1008,SucumbA­os,Active
+62,Ecuador,EC,Active,991,Chimborazo,Active
+62,Ecuador,EC,Active,1006,Santa Elena,Active
+62,Ecuador,EC,Active,989,Carchi,Active
+62,Ecuador,EC,Active,1004,Pastaza,Active
+67,Estonia,EE,Active,1070,Hiiumaa,Active
+67,Estonia,EE,Active,1083,Varumaa,Active
+67,Estonia,EE,Active,1081,Valgamaa,Active
+67,Estonia,EE,Active,1079,Saaremaa,Active
+67,Estonia,EE,Active,1077,Palvamaa,Active
+67,Estonia,EE,Active,1075,Laanemaa,Active
+67,Estonia,EE,Active,1073,Jagevamaa,Active
+67,Estonia,EE,Active,1071,Ida-Virumaa,Active
+67,Estonia,EE,Active,1069,Harjumaa,Active
+67,Estonia,EE,Active,1082,Viljandimaa,Active
+67,Estonia,EE,Active,1080,Tartumaa,Active
+67,Estonia,EE,Active,1078,Raplamaa,Active
+67,Estonia,EE,Active,1076,Parnumaa,Active
+67,Estonia,EE,Active,1074,Laane-Virumaa,Active
+67,Estonia,EE,Active,1072,Jarvamaa,Active
+63,Egypt,EG,Active,1019,Al Minufiyah,Active
+63,Egypt,EG,Active,1038,Shamal Sina',Active
+63,Egypt,EG,Active,1017,Al Isma`iliyah,Active
+63,Egypt,EG,Active,1036,Matruh,Active
+63,Egypt,EG,Active,1015,Al Gharbiyah,Active
+63,Egypt,EG,Active,1034,Janub Sina',Active
+63,Egypt,EG,Active,1013,Al Buhayrah,Active
+63,Egypt,EG,Active,1032,Dumyat,Active
+63,Egypt,EG,Active,1011,Ad Daqahliyah,Active
+63,Egypt,EG,Active,1030,Bani Suwayf,Active
+63,Egypt,EG,Active,1028,Aswan,Active
+63,Egypt,EG,Active,1024,al-Uqsur,Active
+63,Egypt,EG,Active,1026,As Sadis min Uktubar,Active
+63,Egypt,EG,Active,1022,Al Qalyubiyah,Active
+63,Egypt,EG,Active,1020,Al Minya,Active
+63,Egypt,EG,Active,1039,Suhaj,Active
+63,Egypt,EG,Active,1018,Al Jizah,Active
+63,Egypt,EG,Active,1037,Qina,Active
+63,Egypt,EG,Active,4469,ALL [Placeholder],Active
+63,Egypt,EG,Active,1016,Al Iskandariyah,Active
+63,Egypt,EG,Active,1035,Kafr ash Shaykh,Active
+63,Egypt,EG,Active,1014,Al Fayyum,Active
+63,Egypt,EG,Active,1033,Haulwan,Active
+63,Egypt,EG,Active,1012,Al Bahr al Ahmar,Active
+63,Egypt,EG,Active,1031,Bur Sa`id,Active
+63,Egypt,EG,Active,1029,Asyut,Active
+63,Egypt,EG,Active,1027,Ash Sharqiyah,Active
+63,Egypt,EG,Active,1023,Al Wadi al Jadid,Active
+63,Egypt,EG,Active,1025,As Suways,Active
+63,Egypt,EG,Active,1021,Al Qahirah,Active
+242,Western Sahara,EH,Active,4370,Es Semara,Active
+242,Western Sahara,EH,Active,4371,Laayoune,Active
+242,Western Sahara,EH,Active,4369,Boujdour,Active
+242,Western Sahara,EH,Active,4372,Oued el Dahab,Active
+66,Eritrea,ER,Active,1068,Semenawi Keyih Bahri [Semien-Keih-Bahri],Active
+66,Eritrea,ER,Active,1066,Gash-Barka,Active
+66,Eritrea,ER,Active,1064,Debub,Active
+66,Eritrea,ER,Active,1067,Maakel [Maekel],Active
+66,Eritrea,ER,Active,1065,Debubawi Keyih Bahri [Debub-Keih-Bahri],Active
+66,Eritrea,ER,Active,1063,Anseba,Active
+205,Spain,ES,Active,3374,Navarra,Active
+205,Spain,ES,Active,3372,Madrid,Active
+205,Spain,ES,Active,3370,Islas Baleares,Active
+205,Spain,ES,Active,3385,Pais Vasco,Active
+205,Spain,ES,Active,3383,Extremadura,Active
+205,Spain,ES,Active,3381,Castilla y Leon,Active
+205,Spain,ES,Active,3379,Canarias,Active
+205,Spain,ES,Active,3377,Andalucia,Active
+205,Spain,ES,Active,3375,Asturias,Active
+205,Spain,ES,Active,3373,Murcia,Active
+205,Spain,ES,Active,3371,La Rioja,Active
+205,Spain,ES,Active,3386,Comunidad Valenciana,Active
+205,Spain,ES,Active,3384,Galicia,Active
+205,Spain,ES,Active,3382,Catalonia,Active
+205,Spain,ES,Active,3380,Castilla-La Mancha,Active
+205,Spain,ES,Active,3378,Aragon,Active
+205,Spain,ES,Active,3376,Cantabria,Active
+68,Ethiopia,ET,Active,1085,Afar,Active
+68,Ethiopia,ET,Active,1094,YeDebub Biheroch Bihereseboch na Hizboch,Active
+68,Ethiopia,ET,Active,1092,Sumale,Active
+68,Ethiopia,ET,Active,1090,Hareri Hizb,Active
+68,Ethiopia,ET,Active,1088,Dire Dawa,Active
+68,Ethiopia,ET,Active,1086,Amara,Active
+68,Ethiopia,ET,Active,1084,Adis Abeba,Active
+68,Ethiopia,ET,Active,1093,Tigray,Active
+68,Ethiopia,ET,Active,1091,Oromiya,Active
+68,Ethiopia,ET,Active,1089,Gambela Hizboch,Active
+68,Ethiopia,ET,Active,1087,Binshangul Gumuz,Active
+72,Finland,FI,Active,4649,Kainuu,Active
+72,Finland,FI,Active,1102,Ita-Suomen laani,Deleted
+72,Finland,FI,Active,4614,Pohjois-Savo,Deleted
+72,Finland,FI,Active,4647,Central Ostrobothnia,Active
+72,Finland,FI,Active,1100,Ahvenanmaan laani,Deleted
+72,Finland,FI,Active,4612,Päijät-Häme,Deleted
+72,Finland,FI,Active,4645,Southern Ostrobothnia,Active
+72,Finland,FI,Active,4610,Kymenlaakso,Active
+72,Finland,FI,Active,4643,Finland Proper,Active
+72,Finland,FI,Active,4576,Ostrobothnia (region),Deleted
+72,Finland,FI,Active,4641,Northern Ostrobothnia,Active
+72,Finland,FI,Active,4656,South Karelia,Active
+72,Finland,FI,Active,4574,Pirkanmaa,Active
+72,Finland,FI,Active,4654,Uusimaa,Active
+72,Finland,FI,Active,4652,Päijänne Tavastia,Active
+72,Finland,FI,Active,1105,Oulun laani,Deleted
+72,Finland,FI,Active,4617,Uusimaa,Active
+72,Finland,FI,Active,4650,Satakunta,Active
+72,Finland,FI,Active,1103,Lapin laani,Deleted
+72,Finland,FI,Active,4615,North Karelia,Active
+72,Finland,FI,Active,4648,North Karelia,Active
+72,Finland,FI,Active,1101,Etela-Suomen laani,Deleted
+72,Finland,FI,Active,4613,Satakunta,Active
+72,Finland,FI,Active,4646,Lapland,Active
+72,Finland,FI,Active,4611,Tavastia Proper,Active
+72,Finland,FI,Active,4644,Pirkanmaa,Active
+72,Finland,FI,Active,4431,Finland ALL STATES [Placeholder],Active
+72,Finland,FI,Active,4577,Southwest Finland,Deleted
+72,Finland,FI,Active,4642,Tavastia Proper,Active
+72,Finland,FI,Active,4657,Southern Savonia,Active
+72,Finland,FI,Active,4575,Central Finland,Active
+72,Finland,FI,Active,4640,Ostrobothnia,Active
+72,Finland,FI,Active,4655,Northern Savo,Active
+72,Finland,FI,Active,4573,Northern Ostrobothnia,Active
+72,Finland,FI,Active,4653,Central Finland,Active
+72,Finland,FI,Active,4651,Kymenlaakso,Active
+72,Finland,FI,Active,1104,Lansi-Suomen laani,Deleted
+72,Finland,FI,Active,4616,South Karelia,Active
+71,Fiji,FJ,Active,1098,Rotuma,Active
+71,Fiji,FJ,Active,1096,Eastern,Active
+71,Fiji,FJ,Active,1099,Western,Active
+71,Fiji,FJ,Active,1097,Northern,Active
+71,Fiji,FJ,Active,1095,Central,Active
+142,"Micronesia, Federated States of",FM,Active,2291,Yap,Active
+142,"Micronesia, Federated States of",FM,Active,2289,Kosrae,Active
+142,"Micronesia, Federated States of",FM,Active,2290,Pohnpei,Active
+142,"Micronesia, Federated States of",FM,Active,2288,Chuuk,Active
+73,France,FR,Active,1117,Limousin,Active
+73,France,FR,Active,1115,Ile-de-France,Active
+73,France,FR,Active,1113,Corsica,Active
+73,France,FR,Active,1111,Centre,Active
+73,France,FR,Active,1126,Provence-Alpes-Cote d'Azur,Active
+73,France,FR,Active,1109,Brittany,Active
+73,France,FR,Active,1124,Picardie,Active
+73,France,FR,Active,1107,Aquitaine,Active
+73,France,FR,Active,1122,Normandy - Upper,Active
+73,France,FR,Active,1120,Nord-Pas-de-Calais,Active
+73,France,FR,Active,1118,Lorraine,Active
+73,France,FR,Active,1116,Languedoc-Roussillon,Active
+73,France,FR,Active,1114,Franche-Comte,Active
+73,France,FR,Active,1112,Champagne-Ardenne,Active
+73,France,FR,Active,4558,Alsace-Champagne-Ardenne-Lorraine,Active
+73,France,FR,Active,1127,Rhone-Alpes,Active
+73,France,FR,Active,1110,Burgundy,Active
+73,France,FR,Active,1125,Poitou-Charentes,Active
+73,France,FR,Active,1108,Auvergne,Active
+73,France,FR,Active,1123,Pays de la Loire,Active
+73,France,FR,Active,1106,Alsace,Active
+73,France,FR,Active,1121,Normandy - Lower,Active
+73,France,FR,Active,1119,Midi-Pyrenees,Active
+77,Gabon,GA,Active,1217,Moyen-OgoouAc,Active
+77,Gabon,GA,Active,1215,Estuaire,Active
+77,Gabon,GA,Active,1222,OgoouAc-Maritime,Active
+77,Gabon,GA,Active,1220,OgoouAc-Ivindo,Active
+77,Gabon,GA,Active,1218,NgouniAc,Active
+77,Gabon,GA,Active,1216,Haut-OgoouAc,Active
+77,Gabon,GA,Active,1223,Woleu-Ntem,Active
+77,Gabon,GA,Active,1221,OgoouAc-Lolo,Active
+77,Gabon,GA,Active,1219,Nyanga,Active
+231,United Kingdom,GB,Active,4419,Wales ,Active
+231,United Kingdom,GB,Active,4417,Northern Ireland ,Active
+231,United Kingdom,GB,Active,4415,England,Active
+231,United Kingdom,GB,Active,4557,Jersey,Active
+231,United Kingdom,GB,Active,4418,Scotland ,Active
+231,United Kingdom,GB,Active,4416,Isle Of Man ,Active
+231,United Kingdom,GB,Active,4414,Channel Islands,Active
+231,United Kingdom,GB,Active,4555,Guernsey,Active
+85,Grenada,GD,Active,1330,Southern Grenadine Islands,Active
+85,Grenada,GD,Active,1328,Saint Mark,Active
+85,Grenada,GD,Active,1326,Saint George,Active
+85,Grenada,GD,Active,1324,Saint Andrew,Active
+85,Grenada,GD,Active,1329,Saint Patrick,Active
+85,Grenada,GD,Active,1327,Saint John,Active
+85,Grenada,GD,Active,1325,Saint David,Active
+79,Georgia,GE,Active,1232,Guria,Active
+79,Georgia,GE,Active,1230,Abkhazia,Active
+79,Georgia,GE,Active,1241,Tbilisi,Active
+79,Georgia,GE,Active,1239,Samtskhe-Javakheti,Active
+79,Georgia,GE,Active,1237,Racha-Lechkhumi [and] Kvemo Svaneti,Active
+79,Georgia,GE,Active,1235,Kvemo Kartli,Active
+79,Georgia,GE,Active,1233,Imereti,Active
+79,Georgia,GE,Active,1231,Ajaria,Active
+79,Georgia,GE,Active,1240,Shida Kartli,Active
+79,Georgia,GE,Active,1238,Samegrelo-Zemo Svaneti,Active
+79,Georgia,GE,Active,1236,Mtskheta-Mtianeti,Active
+79,Georgia,GE,Active,1234,Kakheti,Active
+81,Ghana,GH,Active,1264,Upper East,Active
+81,Ghana,GH,Active,1262,Greater Accra,Active
+81,Ghana,GH,Active,1260,Central,Active
+81,Ghana,GH,Active,1258,Ashanti,Active
+81,Ghana,GH,Active,1267,Western,Active
+81,Ghana,GH,Active,1265,Upper West,Active
+81,Ghana,GH,Active,1263,Northern,Active
+81,Ghana,GH,Active,1261,Eastern,Active
+81,Ghana,GH,Active,1259,Brong-Ahafo,Active
+81,Ghana,GH,Active,1266,Volta,Active
+84,Greenland,GL,Active,1322,Qaasuitsup Kommunia (kl),Active
+84,Greenland,GL,Active,1320,Kommune Kujalleq (kl),Active
+84,Greenland,GL,Active,1323,Qeqqata Kommunia (kl),Active
+84,Greenland,GL,Active,1321,Kommuneqarfik Sermersooq (kl),Active
+78,Gambia,GM,Active,1228,Upper River,Active
+78,Gambia,GM,Active,1226,MacCarthy Island,Active
+78,Gambia,GM,Active,1224,Banjul,Active
+78,Gambia,GM,Active,1229,Western,Active
+78,Gambia,GM,Active,1227,North Bank,Active
+78,Gambia,GM,Active,1225,Lower River,Active
+90,Guinea,GN,Active,1364,Fria,Active
+90,Guinea,GN,Active,1379,Mamou,Active
+90,Guinea,GN,Active,1362,Faranah,Active
+90,Guinea,GN,Active,1377,Macenta,Active
+90,Guinea,GN,Active,1360,Dinguiraye,Active
+90,Guinea,GN,Active,1375,Lola,Active
+90,Guinea,GN,Active,1358,Dabola,Active
+90,Guinea,GN,Active,1373,KAcrouanAc,Active
+90,Guinea,GN,Active,1356,Conakry,Active
+90,Guinea,GN,Active,1371,Koundara,Active
+90,Guinea,GN,Active,1354,Boffa,Active
+90,Guinea,GN,Active,1386,Yomou,Active
+90,Guinea,GN,Active,1369,Kissidougou,Active
+90,Guinea,GN,Active,1384,TouguAc,Active
+90,Guinea,GN,Active,1367,Kankan,Active
+90,Guinea,GN,Active,1382,Pita,Active
+90,Guinea,GN,Active,1365,Gaoual,Active
+90,Guinea,GN,Active,1380,Mandiana,Active
+90,Guinea,GN,Active,1363,ForAccariah,Active
+90,Guinea,GN,Active,1378,Mali,Active
+90,Guinea,GN,Active,1361,DubrAcka,Active
+90,Guinea,GN,Active,1376,LAclouma,Active
+90,Guinea,GN,Active,1359,Dalaba,Active
+90,Guinea,GN,Active,1374,LabAc,Active
+90,Guinea,GN,Active,1357,Coyah,Active
+90,Guinea,GN,Active,1372,Kouroussa,Active
+90,Guinea,GN,Active,1355,BokAc,Active
+90,Guinea,GN,Active,1370,Koubia,Active
+90,Guinea,GN,Active,1353,Beyla,Active
+90,Guinea,GN,Active,1385,TAclimAclAc,Active
+90,Guinea,GN,Active,1368,Kindia,Active
+90,Guinea,GN,Active,1383,Siguiri,Active
+90,Guinea,GN,Active,1366,GuAckAcdou,Active
+90,Guinea,GN,Active,1381,NzAcrAckorAc,Active
+65,Equatorial Guinea,GQ,Active,1062,Wele-Nzas,Active
+65,Equatorial Guinea,GQ,Active,1060,Regian Continental,Active
+65,Equatorial Guinea,GQ,Active,1058,Kie-Ntem,Active
+65,Equatorial Guinea,GQ,Active,1056,Bioko Sur,Active
+65,Equatorial Guinea,GQ,Active,1054,Annoban,Active
+65,Equatorial Guinea,GQ,Active,1061,Regian Insular,Active
+65,Equatorial Guinea,GQ,Active,1059,Litoral,Active
+65,Equatorial Guinea,GQ,Active,1057,Centro Sur,Active
+65,Equatorial Guinea,GQ,Active,1055,Bioko Norte,Active
+83,Greece,GR,Active,1281,Evrytania,Active
+83,Greece,GR,Active,1296,Kilkis,Active
+83,Greece,GR,Active,1315,Thessaloniki,Active
+83,Greece,GR,Active,4582,Crete,Active
+83,Greece,GR,Active,4471,ALL [Placeholder],Active
+83,Greece,GR,Active,1279,Drama,Active
+83,Greece,GR,Active,1294,Kefallonia,Active
+83,Greece,GR,Active,1313,Serres,Active
+83,Greece,GR,Active,1277,Chios,Active
+83,Greece,GR,Active,1292,Kastoria,Active
+83,Greece,GR,Active,1311,Rodopi,Active
+83,Greece,GR,Active,1275,Chalkidiki,Active
+83,Greece,GR,Active,1307,Pella,Active
+83,Greece,GR,Active,1290,Irakleio,Active
+83,Greece,GR,Active,1309,Preveza,Active
+83,Greece,GR,Active,1273,Arta,Active
+83,Greece,GR,Active,1305,Magnisia,Active
+83,Greece,GR,Active,1288,Imathia,Active
+83,Greece,GR,Active,1271,Argolida,Active
+83,Greece,GR,Active,4621,Central Macedonia,Active
+83,Greece,GR,Active,1303,Lefkada,Active
+83,Greece,GR,Active,1286,Grevena,Active
+83,Greece,GR,Active,1269,Agio Oros,Active
+83,Greece,GR,Active,1301,Larisa,Active
+83,Greece,GR,Active,1284,Fokida,Active
+83,Greece,GR,Active,1299,Kyklades,Active
+83,Greece,GR,Active,1318,Xanthi,Active
+83,Greece,GR,Active,1282,Evvoia,Active
+83,Greece,GR,Active,1297,Korinthia,Active
+83,Greece,GR,Active,1316,Trikala,Active
+83,Greece,GR,Active,4583,Thessaly,Active
+83,Greece,GR,Active,1280,Evros,Active
+83,Greece,GR,Active,1295,Kerkyra,Active
+83,Greece,GR,Active,1314,Thesprotia,Active
+83,Greece,GR,Active,4581,Central Macedonia,Active
+83,Greece,GR,Active,1278,Dodekanisos,Active
+83,Greece,GR,Active,1293,Kavala,Active
+83,Greece,GR,Active,1312,Samos,Active
+83,Greece,GR,Active,1276,Chania,Active
+83,Greece,GR,Active,1308,Pieria,Active
+83,Greece,GR,Active,1291,Karditsa,Active
+83,Greece,GR,Active,1310,Rethymno,Active
+83,Greece,GR,Active,1274,Attiki,Active
+83,Greece,GR,Active,1306,Messinia,Active
+83,Greece,GR,Active,1289,Ioannina,Active
+83,Greece,GR,Active,1272,Arkadia,Active
+83,Greece,GR,Active,1304,Lesvos,Active
+83,Greece,GR,Active,1287,Ileia,Active
+83,Greece,GR,Active,1270,Aitolia kai Akarnania,Active
+83,Greece,GR,Active,1302,Lasithi,Active
+83,Greece,GR,Active,1285,Fthiotida,Active
+83,Greece,GR,Active,1268,AchaAa,Active
+83,Greece,GR,Active,1300,Lakonia,Active
+83,Greece,GR,Active,1319,Zakynthos,Active
+83,Greece,GR,Active,1283,Florina,Active
+83,Greece,GR,Active,1298,Kozani,Active
+83,Greece,GR,Active,1317,Voiotia,Active
+83,Greece,GR,Active,4584,Western Greece,Active
+88,Guatemala,GT,Active,1332,Baja Verapaz,Active
+88,Guatemala,GT,Active,1347,San Marcos,Active
+88,Guatemala,GT,Active,1345,Retalhuleu,Active
+88,Guatemala,GT,Active,1343,Quetzaltenango,Active
+88,Guatemala,GT,Active,1341,Jutiapa,Active
+88,Guatemala,GT,Active,1339,Izabal,Active
+88,Guatemala,GT,Active,4519,ALL [Placeholder],Active
+88,Guatemala,GT,Active,1337,Guatemala,Active
+88,Guatemala,GT,Active,1352,Zacapa,Active
+88,Guatemala,GT,Active,1335,El Progreso,Active
+88,Guatemala,GT,Active,1350,SuchitepAcquez,Active
+88,Guatemala,GT,Active,1333,Chimaltenango,Active
+88,Guatemala,GT,Active,1348,Santa Rosa,Active
+88,Guatemala,GT,Active,1331,Alta Verapaz,Active
+88,Guatemala,GT,Active,1346,SacatepAcquez,Active
+88,Guatemala,GT,Active,1344,QuichAc,Active
+88,Guatemala,GT,Active,1342,PetAcn,Active
+88,Guatemala,GT,Active,1340,Jalapa,Active
+88,Guatemala,GT,Active,1338,Huehuetenango,Active
+88,Guatemala,GT,Active,1336,Escuintla,Active
+88,Guatemala,GT,Active,1351,Totonicapan,Active
+88,Guatemala,GT,Active,1334,Chiquimula,Active
+88,Guatemala,GT,Active,1349,Solola,Active
+91,Guinea-Bissau,GW,Active,1394,Quinara,Active
+91,Guinea-Bissau,GW,Active,1392,Gaba,Active
+91,Guinea-Bissau,GW,Active,1390,Bolama,Active
+91,Guinea-Bissau,GW,Active,1388,Biombo,Active
+91,Guinea-Bissau,GW,Active,1395,Tombali,Active
+91,Guinea-Bissau,GW,Active,1393,Oio,Active
+91,Guinea-Bissau,GW,Active,1391,Cacheu,Active
+91,Guinea-Bissau,GW,Active,1389,Bissau,Active
+91,Guinea-Bissau,GW,Active,1387,Bafata,Active
+92,Guyana,GY,Active,1396,Barima-Waini,Active
+92,Guyana,GY,Active,1405,Upper Takutu-Upper Essequibo,Active
+92,Guyana,GY,Active,1403,Potaro-Siparuni,Active
+92,Guyana,GY,Active,1401,Mahaica-Berbice,Active
+92,Guyana,GY,Active,1399,East Berbice-Corentyne,Active
+92,Guyana,GY,Active,1397,Cuyuni-Mazaruni,Active
+92,Guyana,GY,Active,1404,Upper Demerara-Berbice,Active
+92,Guyana,GY,Active,1402,Pomeroon-Supenaam,Active
+92,Guyana,GY,Active,1400,Essequibo Islands-West Demerara,Active
+92,Guyana,GY,Active,1398,Demerara-Mahaica,Active
+97,Hong Kong,HK,Active,4595,Southern District,Active
+97,Hong Kong,HK,Active,4593,Yau Tsim Mong District,Active
+97,Hong Kong,HK,Active,4591,Yuen Long District,Active
+97,Hong Kong,HK,Active,4589,Tsuen Wan District,Active
+97,Hong Kong,HK,Active,4587,Sai Kung District,Active
+97,Hong Kong,HK,Active,4594,Central and Western District,Active
+97,Hong Kong,HK,Active,4592,Sham Shui Po District,Active
+97,Hong Kong,HK,Active,4590,Tuen Mun District,Active
+97,Hong Kong,HK,Active,4588,Sha Tin District,Active
+97,Hong Kong,HK,Active,4586,Islands District,Active
+97,Hong Kong,HK,Active,4421,Hong Kong [PLACEHOLDER],Active
+96,Honduras,HN,Active,1428,Ocotepeque,Active
+96,Honduras,HN,Active,1426,La Paz,Active
+96,Honduras,HN,Active,1424,Intibuca,Active
+96,Honduras,HN,Active,1422,Francisco Morazan,Active
+96,Honduras,HN,Active,4523,ALL [Placeholder],Active
+96,Honduras,HN,Active,1420,CortAcs,Active
+96,Honduras,HN,Active,1418,Comayagua,Active
+96,Honduras,HN,Active,1416,Choluteca,Active
+96,Honduras,HN,Active,1431,Valle,Active
+96,Honduras,HN,Active,1429,Olancho,Active
+96,Honduras,HN,Active,1427,Lempira,Active
+96,Honduras,HN,Active,1425,Islas de la BahA­a,Active
+96,Honduras,HN,Active,1423,Gracias a Dios,Active
+96,Honduras,HN,Active,1421,El ParaA­so,Active
+96,Honduras,HN,Active,1419,Copan,Active
+96,Honduras,HN,Active,1417,Colan,Active
+96,Honduras,HN,Active,1432,Yoro,Active
+96,Honduras,HN,Active,1415,Atlantida,Active
+96,Honduras,HN,Active,1430,Santa Barbara,Active
+53,Croatia,HR,Active,858,Splitsko-dalmatinska aupanija,Active
+53,Croatia,HR,Active,856,Primorsko-goranska aupanija,Active
+53,Croatia,HR,Active,854,Osjecko-baranjska aupanija,Active
+53,Croatia,HR,Active,852,Licko-senjska aupanija,Active
+53,Croatia,HR,Active,850,Koprivnicko-kriaevacka aupanija,Active
+53,Croatia,HR,Active,848,Istarska aupanija,Active
+53,Croatia,HR,Active,863,Zagrebacka aupanija,Active
+53,Croatia,HR,Active,846,Dubrovacko-neretvanska aupanija,Active
+53,Croatia,HR,Active,861,Vukovarsko-srijemska aupanija,Active
+53,Croatia,HR,Active,844,Bjelovarsko-bilogorska aupanija,Active
+53,Croatia,HR,Active,859,Varaadinska aupanija,Active
+53,Croatia,HR,Active,857,Sisacko-moslavacka aupanija,Active
+53,Croatia,HR,Active,855,Poaeako-slavonska aupanija,Active
+53,Croatia,HR,Active,853,Medimurska aupanija,Active
+53,Croatia,HR,Active,851,Krapinsko-zagorska aupanija,Active
+53,Croatia,HR,Active,849,Karlovacka aupanija,Active
+53,Croatia,HR,Active,864,A ibensko-kninska aupanija,Active
+53,Croatia,HR,Active,847,Grad Zagreb,Active
+53,Croatia,HR,Active,862,Zadarska aupanija,Active
+53,Croatia,HR,Active,845,Brodsko-posavska aupanija,Active
+53,Croatia,HR,Active,860,Viroviticko-podravska aupanija,Active
+93,Haiti,HT,Active,1411,Nord-Ouest,Active
+93,Haiti,HT,Active,1409,Nord,Active
+93,Haiti,HT,Active,1407,Centre,Active
+93,Haiti,HT,Active,1414,Sud-Est,Active
+93,Haiti,HT,Active,1412,Ouest,Active
+93,Haiti,HT,Active,1410,Nord-Est,Active
+93,Haiti,HT,Active,1408,Grande-Anse,Active
+93,Haiti,HT,Active,1406,Artibonite,Active
+93,Haiti,HT,Active,1413,Sud,Active
+98,Hungary,HU,Active,1460,Salgatarjan,Active
+98,Hungary,HU,Active,1475,Zalaegerszeg,Active
+98,Hungary,HU,Active,1443,Erd,Active
+98,Hungary,HU,Active,1458,Pest,Active
+98,Hungary,HU,Active,1473,VeszprAcm City,Active
+98,Hungary,HU,Active,1441,Dunaajvaros,Active
+98,Hungary,HU,Active,1456,NyA­regyhaza,Active
+98,Hungary,HU,Active,4531,ALL [Placeholder],Active
+98,Hungary,HU,Active,1471,Vas,Active
+98,Hungary,HU,Active,1439,Csongrad,Active
+98,Hungary,HU,Active,1454,Miskolc,Active
+98,Hungary,HU,Active,1469,Tatabanya,Active
+98,Hungary,HU,Active,1437,BAckAcs,Active
+98,Hungary,HU,Active,1452,KecskemAct,Active
+98,Hungary,HU,Active,1467,Szombathely,Active
+98,Hungary,HU,Active,1435,Budapest,Active
+98,Hungary,HU,Active,1450,Jasz-Nagykun-Szolnok,Active
+98,Hungary,HU,Active,1465,Szekszard,Active
+98,Hungary,HU,Active,1433,Baranya,Active
+98,Hungary,HU,Active,1448,Heves,Active
+98,Hungary,HU,Active,1463,Szabolcs-Szatmar-Bereg,Active
+98,Hungary,HU,Active,1446,Gyor-Moson-Sopron,Active
+98,Hungary,HU,Active,1461,Somogy,Active
+98,Hungary,HU,Active,1444,FejAcr,Active
+98,Hungary,HU,Active,1459,PAccs,Active
+98,Hungary,HU,Active,1474,Zala,Active
+98,Hungary,HU,Active,1442,Eger,Active
+98,Hungary,HU,Active,1457,Nagrad,Active
+98,Hungary,HU,Active,1472,VeszprAcm,Active
+98,Hungary,HU,Active,1440,Debrecen,Active
+98,Hungary,HU,Active,1455,Nagykanizsa,Active
+98,Hungary,HU,Active,1470,Tolna,Active
+98,Hungary,HU,Active,1438,BAckAcscsaba,Active
+98,Hungary,HU,Active,1453,Komarom-Esztergom,Active
+98,Hungary,HU,Active,1468,SzAckesfehAcrvar,Active
+98,Hungary,HU,Active,1436,Bacs-Kiskun,Active
+98,Hungary,HU,Active,1451,Kaposvar,Active
+98,Hungary,HU,Active,1466,Szolnok,Active
+98,Hungary,HU,Active,1434,Borsod-Abaaj-ZemplAcn,Active
+98,Hungary,HU,Active,1449,Hadmezovasarhely,Active
+98,Hungary,HU,Active,1464,Szeged,Active
+98,Hungary,HU,Active,1447,Hajda-Bihar,Active
+98,Hungary,HU,Active,1462,Sopron,Active
+98,Hungary,HU,Active,1445,Gyor,Active
+101,Indonesia,ID,Active,1543,Riau,Active
+101,Indonesia,ID,Active,4441,ALL [Placeholder],Active
+101,Indonesia,ID,Active,1526,Jakarta Raya,Active
+101,Indonesia,ID,Active,1541,Papua,Active
+101,Indonesia,ID,Active,1524,Bengkulu,Active
+101,Indonesia,ID,Active,1539,Nusa Tenggara Barat,Active
+101,Indonesia,ID,Active,1522,Bangka Belitung,Active
+101,Indonesia,ID,Active,1537,Maluku,Active
+101,Indonesia,ID,Active,1520,Aceh,Active
+101,Indonesia,ID,Active,1552,Yogyakarta,Active
+101,Indonesia,ID,Active,1535,Kepulauan Riau,Active
+101,Indonesia,ID,Active,1550,Sumatera Selatan,Active
+101,Indonesia,ID,Active,1533,Kalimantan Tengah,Active
+101,Indonesia,ID,Active,1548,Sulawesi Utara,Active
+101,Indonesia,ID,Active,1531,Kalimantan Barat,Active
+101,Indonesia,ID,Active,1546,Sulawesi Tengah,Active
+101,Indonesia,ID,Active,1529,Jawa Tengah,Active
+101,Indonesia,ID,Active,1544,Sulawesi Barat,Active
+101,Indonesia,ID,Active,1527,Jambi,Active
+101,Indonesia,ID,Active,1542,Papua Barat,Active
+101,Indonesia,ID,Active,1525,Gorontalo,Active
+101,Indonesia,ID,Active,1540,Nusa Tenggara Timur,Active
+101,Indonesia,ID,Active,1523,Banten,Active
+101,Indonesia,ID,Active,1538,Maluku Utara,Active
+101,Indonesia,ID,Active,1521,Bali,Active
+101,Indonesia,ID,Active,1536,Lampung,Active
+101,Indonesia,ID,Active,1551,Sumatera Utara,Active
+101,Indonesia,ID,Active,1534,Kalimantan Timur,Active
+101,Indonesia,ID,Active,1549,Sumatera Barat,Active
+101,Indonesia,ID,Active,1532,Kalimantan Selatan,Active
+101,Indonesia,ID,Active,1547,Sulawesi Tenggara,Active
+101,Indonesia,ID,Active,4423,Indonesia [PLACEHOLDER],Active
+101,Indonesia,ID,Active,1530,Jawa Timur,Active
+101,Indonesia,ID,Active,1545,Sulawesi Selatan,Active
+101,Indonesia,ID,Active,1528,Jawa Barat,Active
+104,Ireland,IE,Active,1607,Dublin,Active
+104,Ireland,IE,Active,1622,Sligo,Active
+104,Ireland,IE,Active,1605,Cork,Active
+104,Ireland,IE,Active,1620,Offaly,Active
+104,Ireland,IE,Active,1603,Cavan,Active
+104,Ireland,IE,Active,1618,Meath,Active
+104,Ireland,IE,Active,1616,Louth,Active
+104,Ireland,IE,Active,1614,Limerick,Active
+104,Ireland,IE,Active,4424,Ireland [PLACEHOLDER],Active
+104,Ireland,IE,Active,1612,Laois,Active
+104,Ireland,IE,Active,4572,Northern Ireland,Active
+104,Ireland,IE,Active,1627,Wicklow,Active
+104,Ireland,IE,Active,1610,Kildare,Active
+104,Ireland,IE,Active,1625,Westmeath,Active
+104,Ireland,IE,Active,1608,Galway,Active
+104,Ireland,IE,Active,1623,Tipperary,Active
+104,Ireland,IE,Active,1606,Donegal,Active
+104,Ireland,IE,Active,1621,Roscommon,Active
+104,Ireland,IE,Active,1604,Clare,Active
+104,Ireland,IE,Active,1619,Monaghan,Active
+104,Ireland,IE,Active,1602,Carlow,Active
+104,Ireland,IE,Active,1617,Mayo,Active
+104,Ireland,IE,Active,1615,Longford,Active
+104,Ireland,IE,Active,1613,Leitrim,Active
+104,Ireland,IE,Active,1611,Kilkenny,Active
+104,Ireland,IE,Active,1626,Wexford,Active
+104,Ireland,IE,Active,1609,Kerry,Active
+104,Ireland,IE,Active,1624,Waterford,Active
+106,Israel,IL,Active,1633,Yerushalayim,Active
+106,Israel,IL,Active,1631,HaZafon,Active
+106,Israel,IL,Active,1629,Haifa,Active
+106,Israel,IL,Active,4511,ALL [Placeholder],Active
+106,Israel,IL,Active,1632,Tel-Aviv,Active
+106,Israel,IL,Active,1630,HaMerkaz,Active
+106,Israel,IL,Active,1628,HaDarom,Active
+100,India,IN,Active,1492,Dadra and Nagar Haveli,Active
+100,India,IN,Active,1511,Pondicherry,Active
+100,India,IN,Active,1507,Meghalaya,Active
+100,India,IN,Active,1490,Chandigarh,Active
+100,India,IN,Active,1505,Maharashtra,Active
+100,India,IN,Active,1488,Assam,Active
+100,India,IN,Active,1503,Lakshadweep,Active
+100,India,IN,Active,1486,Andhra Pradesh,Active
+100,India,IN,Active,1501,Karnataka,Active
+100,India,IN,Active,1499,Jammu and Kashmir,Active
+100,India,IN,Active,1518,Uttaranchal,Active
+100,India,IN,Active,1497,Haryana,Active
+100,India,IN,Active,1516,Tripura,Active
+100,India,IN,Active,1495,Goa,Active
+100,India,IN,Active,1514,Sikkim,Active
+100,India,IN,Active,1493,Daman and Diu,Active
+100,India,IN,Active,1512,Punjab,Active
+100,India,IN,Active,1508,Mizoram,Active
+100,India,IN,Active,1491,Chhattisgarh,Active
+100,India,IN,Active,1510,Orissa,Active
+100,India,IN,Active,1506,Manipur,Active
+100,India,IN,Active,1489,Bihar,Active
+100,India,IN,Active,1504,Madhya Pradesh,Active
+100,India,IN,Active,1487,Arunachal Pradesh,Active
+100,India,IN,Active,1502,Kerala,Active
+100,India,IN,Active,1485,Andaman and Nicobar Islands,Active
+100,India,IN,Active,1500,Jharkhand,Active
+100,India,IN,Active,1519,West Bengal,Active
+100,India,IN,Active,1498,Himachal Pradesh,Active
+100,India,IN,Active,1517,Uttar Pradesh,Active
+100,India,IN,Active,1496,Gujarat,Active
+100,India,IN,Active,1515,Tamil Nadu,Active
+100,India,IN,Active,4513,ALL [Placeholder],Active
+100,India,IN,Active,1494,Delhi,Active
+100,India,IN,Active,1513,Rajasthan,Active
+100,India,IN,Active,1509,Nagaland,Active
+103,Iraq,IQ,Active,1590,As Sulaymaniyah,Active
+103,Iraq,IQ,Active,1588,An Najaf,Active
+103,Iraq,IQ,Active,1586,Al Muthanna,Active
+103,Iraq,IQ,Active,1601,Wasit,Active
+103,Iraq,IQ,Active,1584,Al Anbar,Active
+103,Iraq,IQ,Active,1599,Ninawa,Active
+103,Iraq,IQ,Active,1597,Karbala',Active
+103,Iraq,IQ,Active,1595,Dhi Qar,Active
+103,Iraq,IQ,Active,1593,Baghdad,Active
+103,Iraq,IQ,Active,1591,At Ta'mim,Active
+103,Iraq,IQ,Active,1589,Arbil,Active
+103,Iraq,IQ,Active,1587,Al Qadisiyah,Active
+103,Iraq,IQ,Active,1585,Al Basrah,Active
+103,Iraq,IQ,Active,1600,Salah ad Din,Active
+103,Iraq,IQ,Active,1598,Maysan,Active
+103,Iraq,IQ,Active,1596,Diyala,Active
+103,Iraq,IQ,Active,1594,Dahuk,Active
+103,Iraq,IQ,Active,1592,Babil,Active
+102,Iran,IR,Active,1575,Markazi,Active
+102,Iran,IR,Active,1558,Esfahan,Active
+102,Iran,IR,Active,1573,Kordestan,Active
+102,Iran,IR,Active,1556,Bushehr,Active
+102,Iran,IR,Active,1571,Khuzestan,Active
+102,Iran,IR,Active,1554,AzÂ¯arbayjan-e Gharbi,Active
+102,Iran,IR,Active,1569,Khorasan-e Razavi,Active
+102,Iran,IR,Active,1567,Khorasan,Active
+102,Iran,IR,Active,1582,Yazd,Active
+102,Iran,IR,Active,1565,Kerman,Active
+102,Iran,IR,Active,1580,Sistan va Baluchestan,Active
+102,Iran,IR,Active,1563,Hormozgan,Active
+102,Iran,IR,Active,1578,Qom,Active
+102,Iran,IR,Active,1561,Golestan,Active
+102,Iran,IR,Active,1576,Mazandaran,Active
+102,Iran,IR,Active,1559,Fars,Active
+102,Iran,IR,Active,1574,Lorestan,Active
+102,Iran,IR,Active,4473,ALL [Placeholder],Active
+102,Iran,IR,Active,1557,Chahar Mahaall va Bakhtiari,Active
+102,Iran,IR,Active,1572,Kohkiluyeh va Buyer Ahmad,Active
+102,Iran,IR,Active,1555,AzÂ¯arbayjan-e Sharqi,Active
+102,Iran,IR,Active,1570,Khorasan-e Shemali,Active
+102,Iran,IR,Active,1553,Ardabil,Active
+102,Iran,IR,Active,1568,Khorasan-e Janubi,Active
+102,Iran,IR,Active,1583,Zanjan,Active
+102,Iran,IR,Active,1566,Kermanshah,Active
+102,Iran,IR,Active,1581,Tehran,Active
+102,Iran,IR,Active,1564,Ilam,Active
+102,Iran,IR,Active,1579,Semnan,Active
+102,Iran,IR,Active,1562,Hamadan,Active
+102,Iran,IR,Active,1577,Qazvin,Active
+102,Iran,IR,Active,1560,Gilan,Active
+99,Iceland,IS,Active,1484,Vesturland,Active
+99,Iceland,IS,Active,1482,Suaurnes,Active
+99,Iceland,IS,Active,1480,ReykjavA­k,Active
+99,Iceland,IS,Active,1478,Noraurland eystra,Active
+99,Iceland,IS,Active,1476,Austurland,Active
+99,Iceland,IS,Active,1483,Vestfirair,Active
+99,Iceland,IS,Active,1481,Suaurland,Active
+99,Iceland,IS,Active,1479,Noraurland vestra,Active
+99,Iceland,IS,Active,1477,Hafuaborgarsvaai utan ReykjavA­kur,Active
+107,Italy,IT,Active,1639,Friuli-Venezia Giulia,Active
+107,Italy,IT,Active,1637,Campania,Active
+107,Italy,IT,Active,1652,Valle d'Aosta,Active
+107,Italy,IT,Active,1635,Basilicata,Active
+107,Italy,IT,Active,1650,Trentino-Alto Adige,Active
+107,Italy,IT,Active,1648,Sicilia,Active
+107,Italy,IT,Active,1646,Puglia,Active
+107,Italy,IT,Active,1644,Molise,Active
+107,Italy,IT,Active,1642,Lombardia,Active
+107,Italy,IT,Active,1640,Lazio,Active
+107,Italy,IT,Active,1638,Emilia-Romagna,Active
+107,Italy,IT,Active,1653,Veneto,Active
+107,Italy,IT,Active,1636,Calabria,Active
+107,Italy,IT,Active,1651,Umbria,Active
+107,Italy,IT,Active,1634,Abruzzi,Active
+107,Italy,IT,Active,1649,Toscana,Active
+107,Italy,IT,Active,1647,Sardegna,Active
+107,Italy,IT,Active,1645,Piemonte,Active
+107,Italy,IT,Active,1643,Marche,Active
+107,Italy,IT,Active,1641,Liguria,Active
+108,Jamaica,JM,Active,1764,Clarendon,Active
+108,Jamaica,JM,Active,1777,Westmoreland,Active
+108,Jamaica,JM,Active,1775,Saint Thomas,Active
+108,Jamaica,JM,Active,1773,Saint James,Active
+108,Jamaica,JM,Active,1771,Saint Catherine,Active
+108,Jamaica,JM,Active,1769,Saint Andrew,Active
+108,Jamaica,JM,Active,1767,Manchester,Active
+108,Jamaica,JM,Active,1765,Hanover,Active
+108,Jamaica,JM,Active,1776,Trelawny,Active
+108,Jamaica,JM,Active,1774,Saint Mary,Active
+108,Jamaica,JM,Active,1772,Saint Elizabeth,Active
+108,Jamaica,JM,Active,1770,Saint Ann,Active
+108,Jamaica,JM,Active,1768,Portland,Active
+108,Jamaica,JM,Active,1766,Kingston,Active
+111,Jordan,JO,Active,4475,ALL [Placeholder],Active
+111,Jordan,JO,Active,1832,Az Zarqa',Active
+111,Jordan,JO,Active,1830,Aqaba,Active
+111,Jordan,JO,Active,1828,Al Karak,Active
+111,Jordan,JO,Active,1826,Amman,Active
+111,Jordan,JO,Active,1835,Ma`an,Active
+111,Jordan,JO,Active,1833,Irbid,Active
+111,Jordan,JO,Active,1831,At Tafilah,Active
+111,Jordan,JO,Active,1829,Al Mafraq,Active
+111,Jordan,JO,Active,1827,Al Balqa',Active
+111,Jordan,JO,Active,1825,Ajlun,Active
+111,Jordan,JO,Active,1836,Madaba,Active
+111,Jordan,JO,Active,1834,Jarash,Active
+109,Japan,JP,Active,1781,Ehime,Active
+109,Japan,JP,Active,1813,Chiba,Active
+109,Japan,JP,Active,1796,Kumamoto,Active
+109,Japan,JP,Active,1779,Akita,Active
+109,Japan,JP,Active,1811,Shimane,Active
+109,Japan,JP,Active,1794,Kagoshima,Active
+109,Japan,JP,Active,1809,Saitama,Active
+109,Japan,JP,Active,1792,Iwate,Active
+109,Japan,JP,Active,1807,Okinawa,Active
+109,Japan,JP,Active,1790,Ibaraki,Active
+109,Japan,JP,Active,1805,Niigata,Active
+109,Japan,JP,Active,1824,Osaka,Active
+109,Japan,JP,Active,1788,Fukushima,Active
+109,Japan,JP,Active,1820,Yamagata,Active
+109,Japan,JP,Active,1803,Nagasaki,Active
+109,Japan,JP,Active,1822,Yamanashi,Active
+109,Japan,JP,Active,1786,Fukui,Active
+109,Japan,JP,Active,1818,Tokyo,Active
+109,Japan,JP,Active,1801,Miyazaki,Active
+109,Japan,JP,Active,1784,Hiroshima,Active
+109,Japan,JP,Active,1816,Tottori,Active
+109,Japan,JP,Active,1799,Mie,Active
+109,Japan,JP,Active,1782,Gifu,Active
+109,Japan,JP,Active,1814,Tokushima,Active
+109,Japan,JP,Active,1797,Kyoto,Active
+109,Japan,JP,Active,1780,Aomori,Active
+109,Japan,JP,Active,1812,Shizuoka,Active
+109,Japan,JP,Active,1795,Kanagawa,Active
+109,Japan,JP,Active,1778,Aichi,Active
+109,Japan,JP,Active,1810,Shiga,Active
+109,Japan,JP,Active,1793,Kagawa,Active
+109,Japan,JP,Active,1808,Saga,Active
+109,Japan,JP,Active,1791,Ishikawa,Active
+109,Japan,JP,Active,1806,Okayama,Active
+109,Japan,JP,Active,1789,Hyogo,Active
+109,Japan,JP,Active,1804,Nara,Active
+109,Japan,JP,Active,1823,Oita,Active
+109,Japan,JP,Active,1787,Fukuoka,Active
+109,Japan,JP,Active,1819,Wakayama,Active
+109,Japan,JP,Active,1802,Nagano,Active
+109,Japan,JP,Active,1821,Yamaguchi,Active
+109,Japan,JP,Active,1785,Hokkaido,Active
+109,Japan,JP,Active,1817,Toyama,Active
+109,Japan,JP,Active,1800,Miyagi,Active
+109,Japan,JP,Active,1783,Gunma,Active
+109,Japan,JP,Active,1815,Tochigi,Active
+109,Japan,JP,Active,1798,Kochi,Active
+113,Kenya,KE,Active,1860,Rift Valley,Active
+113,Kenya,KE,Active,1858,North-Eastern,Active
+113,Kenya,KE,Active,1856,Eastern,Active
+113,Kenya,KE,Active,1854,Central,Active
+113,Kenya,KE,Active,4533,ALL [Placeholder],Active
+113,Kenya,KE,Active,1861,Western,Active
+113,Kenya,KE,Active,1859,Nyanza,Active
+113,Kenya,KE,Active,1857,Nairobi,Active
+113,Kenya,KE,Active,1855,Coast,Active
+118,Kyrgyzstan,KG,Active,1905,Ysyk-Kal,Active
+118,Kyrgyzstan,KG,Active,1903,Osh,Active
+118,Kyrgyzstan,KG,Active,1901,Jalal-Abad,Active
+118,Kyrgyzstan,KG,Active,1899,Bishkek,Active
+118,Kyrgyzstan,KG,Active,1904,Talas,Active
+118,Kyrgyzstan,KG,Active,1902,Naryn,Active
+118,Kyrgyzstan,KG,Active,1900,Cha,Active
+118,Kyrgyzstan,KG,Active,1898,Batken,Active
+36,Cambodia,KH,Active,629,Phnom Penh [Phnum PAcnh],Active
+36,Cambodia,KH,Active,627,Mondol Kiri [Mandal Kiri],Active
+36,Cambodia,KH,Active,625,Krong Pailin [Krong Pailin],Active
+36,Cambodia,KH,Active,623,Kracheh [KrachAch],Active
+36,Cambodia,KH,Active,621,Kandaal [Kandal],Active
+36,Cambodia,KH,Active,636,Svaay Rieng [Svay Rieng],Active
+36,Cambodia,KH,Active,619,Kampong Thum [Kampang Thum],Active
+36,Cambodia,KH,Active,634,Siem Reab [SiemrAcab],Active
+36,Cambodia,KH,Active,617,Kampong Chhnang [Kampang Chhnang],Active
+36,Cambodia,KH,Active,632,Prey Veaeng [Prey Vang],Active
+36,Cambodia,KH,Active,615,Banteay Mean Chey [BantAcay MAcanchey],Active
+36,Cambodia,KH,Active,630,Pousaat [Pouthisat],Active
+36,Cambodia,KH,Active,628,Otdar Mean Chey [Otdar MAcanchey],Active
+36,Cambodia,KH,Active,626,Krong Preah Sihanouk [Krong Preah Sihanouk],Active
+36,Cambodia,KH,Active,624,Krong Kaeb [Krong Kab],Active
+36,Cambodia,KH,Active,622,Kaoh Kong [Kaah Kong],Active
+36,Cambodia,KH,Active,637,Taakaev [Takav],Active
+36,Cambodia,KH,Active,620,Kampot [Kampat],Active
+36,Cambodia,KH,Active,635,Stueng Traeng [StA“ng Trang],Active
+36,Cambodia,KH,Active,618,Kampong Spueu [Kampang SpA“],Active
+36,Cambodia,KH,Active,633,Rotanak Kiri [Ratanakiri],Active
+36,Cambodia,KH,Active,616,Kampong Chaam [Kampang Cham],Active
+36,Cambodia,KH,Active,631,Preah Vihear [Preah VihAcar],Active
+36,Cambodia,KH,Active,4543,ALL [Placeholder],Active
+36,Cambodia,KH,Active,614,Baat Dambang [Batdambang],Active
+114,Kiribati,KI,Active,1864,Phoenix Islands,Active
+114,Kiribati,KI,Active,1862,Gilbert Islands,Active
+114,Kiribati,KI,Active,1863,Line Islands,Active
+48,Comoros,KM,Active,814,Moahala (Muhili),Active
+48,Comoros,KM,Active,812,Andjazadja,Active
+48,Comoros,KM,Active,813,Andjouan (Anjwan),Active
+185,St Kitts and Nevis,KN,Active,2998,Trinity Palmetto Point,Active
+185,St Kitts and Nevis,KN,Active,2996,Saint Thomas Lowland,Active
+185,St Kitts and Nevis,KN,Active,2994,Saint Paul Charlestown,Active
+185,St Kitts and Nevis,KN,Active,2992,Saint Mary Cayon,Active
+185,St Kitts and Nevis,KN,Active,2990,Saint John Capisterre,Active
+185,St Kitts and Nevis,KN,Active,2988,Saint George Gingerland,Active
+185,St Kitts and Nevis,KN,Active,2986,Saint Anne Sandy Point,Active
+185,St Kitts and Nevis,KN,Active,2997,Saint Thomas Middle Island,Active
+185,St Kitts and Nevis,KN,Active,2995,Saint Peter Basseterre,Active
+185,St Kitts and Nevis,KN,Active,2993,Saint Paul Capisterre,Active
+185,St Kitts and Nevis,KN,Active,2991,Saint John Figtree,Active
+185,St Kitts and Nevis,KN,Active,2989,Saint James Windward,Active
+185,St Kitts and Nevis,KN,Active,2987,Saint George Basseterre,Active
+185,St Kitts and Nevis,KN,Active,2985,Christ Church Nichola Town,Active
+115,"Korea, North",KP,Active,1875,Yanggang-do,Active
+115,"Korea, North",KP,Active,1873,Pyongan-namdo,Active
+115,"Korea, North",KP,Active,1871,Nason,Active
+115,"Korea, North",KP,Active,1869,Hwanghae-namdo,Active
+115,"Korea, North",KP,Active,1867,Hamgyong-namdo,Active
+115,"Korea, North",KP,Active,1865,Chagang-do,Active
+115,"Korea, North",KP,Active,1874,Pyongyang,Active
+115,"Korea, North",KP,Active,1872,Pyongan-bukdo,Active
+115,"Korea, North",KP,Active,4425,North Korea [PLACEHOLDER],Active
+115,"Korea, North",KP,Active,1870,Kangwon-do,Active
+115,"Korea, North",KP,Active,1868,Hwanghae-bukto,Active
+115,"Korea, North",KP,Active,1866,Hamgyong-bukdo,Active
+116,"Korea, Republic of",KR,Active,1879,Daegu Gwang'yeogsi [Taegu-Kwangyokshi],Active
+116,"Korea, Republic of",KR,Active,1877,Chungcheongbugdo [Ch'ungch'ongbuk-do],Active
+116,"Korea, Republic of",KR,Active,1890,Seoul Teugbyeolsi [Seoul-T'ukpyolshi],Active
+116,"Korea, Republic of",KR,Active,1888,Jeonrabugdo[Chollabuk-do],Active
+116,"Korea, Republic of",KR,Active,1886,Incheon Gwang'yeogsi [Inch'n-Kwangyokshi],Active
+116,"Korea, Republic of",KR,Active,1884,Gyeongsangbugdo [Kyongsangbuk-do],Active
+116,"Korea, Republic of",KR,Active,1882,Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi],Active
+116,"Korea, Republic of",KR,Active,1880,Daejeon Gwang'yeogsi [Taejon-Kwangyokshi],Active
+116,"Korea, Republic of",KR,Active,1878,Chungcheongnamdo [Ch'ungch'ongnam-do],Active
+116,"Korea, Republic of",KR,Active,1876,Busan Gwang'yeogsi [Pusan-Kwangyokshi],Active
+116,"Korea, Republic of",KR,Active,1891,Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi],Active
+116,"Korea, Republic of",KR,Active,1889,Jeonranamdo [Chollanam-do],Active
+116,"Korea, Republic of",KR,Active,1887,Jejudo [Cheju-do],Active
+116,"Korea, Republic of",KR,Active,1885,Gyeongsangnamdo [Kyongsangnam-do],Active
+116,"Korea, Republic of",KR,Active,1883,Gyeonggido [Kyonggi-do],Active
+116,"Korea, Republic of",KR,Active,1881,Gang'weondo [Kang-won-do],Active
+117,Kuwait,KW,Active,1896,Hawalli,Active
+117,Kuwait,KW,Active,1894,Al Jahrah,Active
+117,Kuwait,KW,Active,1892,Al Ahmadi,Active
+117,Kuwait,KW,Active,1897,Mubarak al-Kabir,Active
+117,Kuwait,KW,Active,4477,ALL [Placeholder],Active
+117,Kuwait,KW,Active,1895,Al Kuwayt,Active
+117,Kuwait,KW,Active,1893,Al Farwaniyah,Active
+40,Cayman Islands,KY,Active,689,North Side,Active
+40,Cayman Islands,KY,Active,687,George Town,Active
+40,Cayman Islands,KY,Active,685,Cayman Brac,Active
+40,Cayman Islands,KY,Active,690,West Bay,Active
+40,Cayman Islands,KY,Active,688,Little Cayman,Active
+40,Cayman Islands,KY,Active,686,East End,Active
+40,Cayman Islands,KY,Active,684,Bodden Town,Active
+112,Kazakhstan,KZ,Active,1847,Pavlodar oblysy,Active
+112,Kazakhstan,KZ,Active,1845,Mangghystau oblysy,Active
+112,Kazakhstan,KZ,Active,1843,Batys Qazaqstan oblysy,Active
+112,Kazakhstan,KZ,Active,1841,Astana,Active
+112,Kazakhstan,KZ,Active,1839,Aqmola oblysy,Active
+112,Kazakhstan,KZ,Active,1837,Almaty,Active
+112,Kazakhstan,KZ,Active,1852,Soltastik Qazaqstan oblysy,Active
+112,Kazakhstan,KZ,Active,1850,Qyzylorda oblysy,Active
+112,Kazakhstan,KZ,Active,1848,Qaraghandy oblysy,Active
+112,Kazakhstan,KZ,Active,1846,Ongtastik Qazaqstan oblysy,Active
+112,Kazakhstan,KZ,Active,1844,Bayqongyr,Active
+112,Kazakhstan,KZ,Active,1842,Atyrau oblysy,Active
+112,Kazakhstan,KZ,Active,1840,Aqtabe oblysy,Active
+112,Kazakhstan,KZ,Active,1838,Almaty oblysy,Active
+112,Kazakhstan,KZ,Active,1853,Zhambyl oblysy,Active
+112,Kazakhstan,KZ,Active,1851,Shyghys Qazaqstan oblysy,Active
+112,Kazakhstan,KZ,Active,1849,Qostanay oblysy,Active
+119,Laos,LA,Active,1911,Khammouan,Active
+119,Laos,LA,Active,1909,Champasak [Champassak],Active
+119,Laos,LA,Active,1907,BokAo,Active
+119,Laos,LA,Active,1922,Xiangkhoang [Xieng Khouang],Active
+119,Laos,LA,Active,1920,Xaignabouli [Sayaboury],Active
+119,Laos,LA,Active,1918,Vientiane,Active
+119,Laos,LA,Active,1916,Salavan [Saravane],Active
+119,Laos,LA,Active,1914,Oudamxai [Oudomsai],Active
+119,Laos,LA,Active,1912,Louang Namtha,Active
+119,Laos,LA,Active,1910,Houaphan,Active
+119,Laos,LA,Active,1908,Bolikhamxai [Borikhane],Active
+119,Laos,LA,Active,1923,XAckong [SAckong],Active
+119,Laos,LA,Active,1906,Attapu [Attopeu],Active
+119,Laos,LA,Active,1921,Xaisamboun,Active
+119,Laos,LA,Active,1919,Vientiane Prefecture,Active
+119,Laos,LA,Active,1917,SavannakhAct,Active
+119,Laos,LA,Active,1915,Phangsali [Phong Saly],Active
+119,Laos,LA,Active,1913,Louangphabang [Louang Prabang],Active
+121,Lebanon,LB,Active,1960,Loubnane ech Chemali,Active
+121,Lebanon,LB,Active,1958,El BAcqaa,Active
+121,Lebanon,LB,Active,1961,Loubnane ej Jnoabi,Active
+121,Lebanon,LB,Active,1959,Jabal Loubnane,Active
+121,Lebanon,LB,Active,1957,Beirut,Active
+121,Lebanon,LB,Active,4479,ALL [Placeholder],Active
+121,Lebanon,LB,Active,1962,NabatayAc,Active
+125,Liechtenstein,LI,Active,2020,Vaduz,Active
+125,Liechtenstein,LI,Active,2018,Triesen,Active
+125,Liechtenstein,LI,Active,2016,Schaan,Active
+125,Liechtenstein,LI,Active,2014,Planken,Active
+125,Liechtenstein,LI,Active,2012,Gamprin,Active
+125,Liechtenstein,LI,Active,2010,Balzers,Active
+125,Liechtenstein,LI,Active,2019,Triesenberg,Active
+125,Liechtenstein,LI,Active,2017,Schellenberg,Active
+125,Liechtenstein,LI,Active,2015,Ruggell,Active
+125,Liechtenstein,LI,Active,2013,Mauren,Active
+125,Liechtenstein,LI,Active,2011,Eschen,Active
+206,Sri Lanka,LK,Active,3441,Puttalama,Active
+206,Sri Lanka,LK,Active,3424,Badulla,Active
+206,Sri Lanka,LK,Active,3439,Moaragala,Active
+206,Sri Lanka,LK,Active,3422,Ampara,Active
+206,Sri Lanka,LK,Active,3437,Matale,Active
+206,Sri Lanka,LK,Active,3435,Mannarama,Active
+206,Sri Lanka,LK,Active,3433,Madakalapuva,Active
+206,Sri Lanka,LK,Active,3431,Kuruagala,Active
+206,Sri Lanka,LK,Active,3446,Yapanaya,Active
+206,Sri Lanka,LK,Active,3429,Kegalla,Active
+206,Sri Lanka,LK,Active,3444,Trikuamalaya,Active
+206,Sri Lanka,LK,Active,3427,Hambantoa,Active
+206,Sri Lanka,LK,Active,3442,Poonnaruva,Active
+206,Sri Lanka,LK,Active,3425,Gampaha,Active
+206,Sri Lanka,LK,Active,3440,Nuvara Eliya,Active
+206,Sri Lanka,LK,Active,3423,Anuradhapura,Active
+206,Sri Lanka,LK,Active,3438,Matara,Active
+206,Sri Lanka,LK,Active,3436,Mulativ,Active
+206,Sri Lanka,LK,Active,3434,Mahanuvara,Active
+206,Sri Lanka,LK,Active,3432,Koamba,Active
+206,Sri Lanka,LK,Active,3430,Kilinochchi,Active
+206,Sri Lanka,LK,Active,3445,Vavuniyava,Active
+206,Sri Lanka,LK,Active,3428,Kalutara,Active
+206,Sri Lanka,LK,Active,3443,Ratnapura,Active
+206,Sri Lanka,LK,Active,3426,Galla,Active
+123,Liberia,LR,Active,1975,Gbarpolu,Active
+123,Liberia,LR,Active,1973,Bomi,Active
+123,Liberia,LR,Active,1986,Rivercess,Active
+123,Liberia,LR,Active,1984,Nimba,Active
+123,Liberia,LR,Active,1982,Maryland,Active
+123,Liberia,LR,Active,1980,Lofa,Active
+123,Liberia,LR,Active,1978,Grand Gedeh,Active
+123,Liberia,LR,Active,1976,Grand Bassa,Active
+123,Liberia,LR,Active,1974,Bong,Active
+123,Liberia,LR,Active,1987,Sinoe,Active
+123,Liberia,LR,Active,1985,River Gee,Active
+123,Liberia,LR,Active,1983,Montserrado,Active
+123,Liberia,LR,Active,1981,Margibi,Active
+123,Liberia,LR,Active,1979,Grand Kru,Active
+123,Liberia,LR,Active,1977,Grand Cape Mount,Active
+122,Lesotho,LS,Active,1971,Quthing,Active
+122,Lesotho,LS,Active,1969,Mokhotlong,Active
+122,Lesotho,LS,Active,1967,Maseru,Active
+122,Lesotho,LS,Active,1965,Leribe,Active
+122,Lesotho,LS,Active,1963,Berea,Active
+122,Lesotho,LS,Active,1972,Thaba-Tseka,Active
+122,Lesotho,LS,Active,1970,Qacha's Nek,Active
+122,Lesotho,LS,Active,1968,Mohale's Hoek,Active
+122,Lesotho,LS,Active,1966,Mafeteng,Active
+122,Lesotho,LS,Active,1964,Butha-Buthe,Active
+126,"Lithuania, Republic of",LT,Active,2026,Taurages Apskritis,Active
+126,"Lithuania, Republic of",LT,Active,2024,Marijampoles Apskritis,Active
+126,"Lithuania, Republic of",LT,Active,2022,Kauno Apskritis,Active
+126,"Lithuania, Republic of",LT,Active,4559,Šiauliai County,Active
+126,"Lithuania, Republic of",LT,Active,2029,Vilniaus Apskritis,Active
+126,"Lithuania, Republic of",LT,Active,2027,Telaiu Apskritis,Active
+126,"Lithuania, Republic of",LT,Active,2025,Paneveaio Apskritis,Active
+126,"Lithuania, Republic of",LT,Active,2021,Alytaus Apskritis,Active
+126,"Lithuania, Republic of",LT,Active,2023,Klaipedos Apskritis,Active
+126,"Lithuania, Republic of",LT,Active,2030,A iauliu Apskritis,Active
+126,"Lithuania, Republic of",LT,Active,2028,Utenos Apskritis,Active
+127,Luxembourg,LU,Active,2033,Luxembourg (fr),Active
+127,Luxembourg,LU,Active,2031,Diekirch,Active
+127,Luxembourg,LU,Active,2032,Grevenmacher,Active
+120,Latvia,LV,Active,1928,Cesu Aprinkis,Active
+120,Latvia,LV,Active,1943,Madonas Aprinkis,Active
+120,Latvia,LV,Active,1926,Balvu Aprinkis,Active
+120,Latvia,LV,Active,1941,Limbaau Aprinkis,Active
+120,Latvia,LV,Active,1924,Aizkraukles Aprinkis,Active
+120,Latvia,LV,Active,1956,Ventspils Aprinkis,Active
+120,Latvia,LV,Active,1939,Liepaja,Active
+120,Latvia,LV,Active,1954,Valmieras Aprinkis,Active
+120,Latvia,LV,Active,4608,Semigallia,Active
+120,Latvia,LV,Active,1937,Kraslavas Aprinkis,Active
+120,Latvia,LV,Active,1952,Tukuma Aprinkis,Active
+120,Latvia,LV,Active,4606,Kurzeme Region,Active
+120,Latvia,LV,Active,1935,Jelgavas Aprinkis,Active
+120,Latvia,LV,Active,1950,Saldus Aprinkis,Active
+120,Latvia,LV,Active,1933,Jekabpils Aprinkis,Active
+120,Latvia,LV,Active,1948,Riga,Active
+120,Latvia,LV,Active,1931,Dobeles Aprinkis,Active
+120,Latvia,LV,Active,1946,Rezekne,Active
+120,Latvia,LV,Active,1929,Daugavpils,Active
+120,Latvia,LV,Active,1944,Ogres Aprinkis,Active
+120,Latvia,LV,Active,1927,Bauskas Aprinkis,Active
+120,Latvia,LV,Active,1942,Ludzas Aprinkis,Active
+120,Latvia,LV,Active,1925,Aluksnes Aprinkis,Active
+120,Latvia,LV,Active,1940,Liepajas Aprinkis,Active
+120,Latvia,LV,Active,1955,Ventspils,Active
+120,Latvia,LV,Active,4609,Vidzeme,Active
+120,Latvia,LV,Active,1938,Kuldigas Aprinkis,Active
+120,Latvia,LV,Active,1953,Valkas Aprinkis,Active
+120,Latvia,LV,Active,4607,Latgale,Active
+120,Latvia,LV,Active,1936,Jurmala,Active
+120,Latvia,LV,Active,1951,Talsu Aprinkis,Active
+120,Latvia,LV,Active,1934,Jelgava,Active
+120,Latvia,LV,Active,1949,Rigas Aprinkis,Active
+120,Latvia,LV,Active,1932,Gulbenes Aprinkis,Active
+120,Latvia,LV,Active,1947,Rezeknes Aprinkis,Active
+120,Latvia,LV,Active,1930,Daugavpils Aprinkis,Active
+120,Latvia,LV,Active,1945,Preilu Aprinkis,Active
+124,Libya,LY,Active,1992,Al Jufrah,Active
+124,Libya,LY,Active,2007,Tarabulus,Active
+124,Libya,LY,Active,1990,Al Jabal al Gharbi,Active
+124,Libya,LY,Active,2005,Sabha,Active
+124,Libya,LY,Active,1988,Al Butnan,Active
+124,Libya,LY,Active,2003,Murzuq,Active
+124,Libya,LY,Active,2001,Ghat,Active
+124,Libya,LY,Active,1999,Banghazi,Active
+124,Libya,LY,Active,1997,An Nuqat al Khams,Active
+124,Libya,LY,Active,1995,Al Marqab,Active
+124,Libya,LY,Active,1993,Al Kufrah,Active
+124,Libya,LY,Active,2008,Wadi al ayat,Active
+124,Libya,LY,Active,1991,Al Jifarah,Active
+124,Libya,LY,Active,2006,Surt,Active
+124,Libya,LY,Active,1989,Al Jabal al Akhar,Active
+124,Libya,LY,Active,2004,Nalut,Active
+124,Libya,LY,Active,2002,Misratah,Active
+124,Libya,LY,Active,2000,Darnah,Active
+124,Libya,LY,Active,1998,Az Zawiyah,Active
+124,Libya,LY,Active,1996,Al Wahaat,Active
+124,Libya,LY,Active,1994,Al Marj,Active
+124,Libya,LY,Active,2009,Wadi ash Shati,Active
+148,Morocco,MA,Active,2414,Taroudant,Active
+148,Morocco,MA,Active,2382,Chichaoua,Active
+148,Morocco,MA,Active,2397,KAcnitra,Active
+148,Morocco,MA,Active,2412,Taounate,Active
+148,Morocco,MA,Active,2380,Boulemane,Active
+148,Morocco,MA,Active,2395,Khenifra,Active
+148,Morocco,MA,Active,2410,Sidi Kacem,Active
+148,Morocco,MA,Active,2378,Berkane,Active
+148,Morocco,MA,Active,2393,Kelaat es Sraghna,Active
+148,Morocco,MA,Active,2408,Sefrou,Active
+148,Morocco,MA,Active,2376,Ben Slimane,Active
+148,Morocco,MA,Active,2391,Ifrane,Active
+148,Morocco,MA,Active,2406,Oued ed Dahab (EH),Active
+148,Morocco,MA,Active,2374,Assa-Zag,Active
+148,Morocco,MA,Active,2389,Figuig,Active
+148,Morocco,MA,Active,2404,Nouaceur,Active
+148,Morocco,MA,Active,2372,Al Haouz,Active
+148,Morocco,MA,Active,2387,Es Smara (EH),Active
+148,Morocco,MA,Active,2402,Moulay Yacoub,Active
+148,Morocco,MA,Active,2417,Tiznit,Active
+148,Morocco,MA,Active,4481,ALL [Placeholder],Active
+148,Morocco,MA,Active,2385,El Jadida,Active
+148,Morocco,MA,Active,2400,Laayounea,Active
+148,Morocco,MA,Active,2415,Tata,Active
+148,Morocco,MA,Active,2383,Chtouka-Ait Baha,Active
+148,Morocco,MA,Active,2398,Laayoune-Boujdour-Sakia El Hamra,Active
+148,Morocco,MA,Active,2413,Taourirt,Active
+148,Morocco,MA,Active,2381,Chefchaouen,Active
+148,Morocco,MA,Active,2396,Khouribga,Active
+148,Morocco,MA,Active,2411,Tan-Tan,Active
+148,Morocco,MA,Active,2379,Boujdour (EH),Active
+148,Morocco,MA,Active,2394,Khemisset,Active
+148,Morocco,MA,Active,2409,Settat,Active
+148,Morocco,MA,Active,2377,Beni Mellal,Active
+148,Morocco,MA,Active,2392,Jrada,Active
+148,Morocco,MA,Active,2407,Safi,Active
+148,Morocco,MA,Active,2375,Azilal,Active
+148,Morocco,MA,Active,2390,Guelmim,Active
+148,Morocco,MA,Active,2405,Ouarzazate,Active
+148,Morocco,MA,Active,2373,Al HoceAma,Active
+148,Morocco,MA,Active,2388,Essaouira,Active
+148,Morocco,MA,Active,2403,Nador,Active
+148,Morocco,MA,Active,2418,Zagora,Active
+148,Morocco,MA,Active,2386,Errachidia,Active
+148,Morocco,MA,Active,2401,Mediouna,Active
+148,Morocco,MA,Active,2416,Taza,Active
+148,Morocco,MA,Active,2384,El Hajeb,Active
+148,Morocco,MA,Active,2399,Larache,Active
+143,"Moldova, Republic of",MD,Active,2318,Rascani,Active
+143,"Moldova, Republic of",MD,Active,2301,Calarasi,Active
+143,"Moldova, Republic of",MD,Active,2316,Orhei,Active
+143,"Moldova, Republic of",MD,Active,2299,Cimislia,Active
+143,"Moldova, Republic of",MD,Active,2314,Nisporeni,Active
+143,"Moldova, Republic of",MD,Active,2297,Cantemir,Active
+143,"Moldova, Republic of",MD,Active,2312,Ialoveni,Active
+143,"Moldova, Republic of",MD,Active,2295,Balti,Active
+143,"Moldova, Republic of",MD,Active,2327,Soldanesti,Active
+143,"Moldova, Republic of",MD,Active,2310,Glodeni,Active
+143,"Moldova, Republic of",MD,Active,2293,Basarabeasca,Active
+143,"Moldova, Republic of",MD,Active,2325,Tighina,Active
+143,"Moldova, Republic of",MD,Active,2308,Falesti,Active
+143,"Moldova, Republic of",MD,Active,2323,Taraclia,Active
+143,"Moldova, Republic of",MD,Active,2306,Edinet,Active
+143,"Moldova, Republic of",MD,Active,2321,"Stanga Nistrului, unitatea teritoriala din",Active
+143,"Moldova, Republic of",MD,Active,2304,Drochia,Active
+143,"Moldova, Republic of",MD,Active,2319,Soroca,Active
+143,"Moldova, Republic of",MD,Active,2302,Causeni,Active
+143,"Moldova, Republic of",MD,Active,2317,Rezina,Active
+143,"Moldova, Republic of",MD,Active,2300,Criuleni,Active
+143,"Moldova, Republic of",MD,Active,2315,Ocnita,Active
+143,"Moldova, Republic of",MD,Active,2298,Chisinau,Active
+143,"Moldova, Republic of",MD,Active,2313,Leova,Active
+143,"Moldova, Republic of",MD,Active,2296,Cahul,Active
+143,"Moldova, Republic of",MD,Active,2328,Stefan Voda,Active
+143,"Moldova, Republic of",MD,Active,2311,Hancesti,Active
+143,"Moldova, Republic of",MD,Active,2294,Briceni,Active
+143,"Moldova, Republic of",MD,Active,2326,Ungheni,Active
+143,"Moldova, Republic of",MD,Active,2309,"Gagauzia, Unitatea teritoriala autonoma (UTAG)",Active
+143,"Moldova, Republic of",MD,Active,2292,Anenii Noi,Active
+143,"Moldova, Republic of",MD,Active,2324,Telenesti,Active
+143,"Moldova, Republic of",MD,Active,2307,Floresti,Active
+143,"Moldova, Republic of",MD,Active,2322,Sangerei,Active
+143,"Moldova, Republic of",MD,Active,2305,Dubasari,Active
+143,"Moldova, Republic of",MD,Active,2320,Straseni,Active
+143,"Moldova, Republic of",MD,Active,2303,Donduseni,Active
+146,Montenegro,ME,Active,2365,Pluaine,Active
+146,Montenegro,ME,Active,2363,Plav,Active
+146,Montenegro,ME,Active,2361,Mojkovac,Active
+146,Montenegro,ME,Active,2359,Kolaain,Active
+146,Montenegro,ME,Active,2357,Danilovgrad,Active
+146,Montenegro,ME,Active,2355,Budva,Active
+146,Montenegro,ME,Active,2370,A avnik,Active
+146,Montenegro,ME,Active,2353,Berane,Active
+146,Montenegro,ME,Active,2368,Tivat,Active
+146,Montenegro,ME,Active,2351,Andrijevica,Active
+146,Montenegro,ME,Active,2366,Podgorica,Active
+146,Montenegro,ME,Active,2364,Pljevlja,Active
+146,Montenegro,ME,Active,2362,NikaicÂ´,Active
+146,Montenegro,ME,Active,2360,Kotor,Active
+146,Montenegro,ME,Active,2358,Herceg-Novi,Active
+146,Montenegro,ME,Active,2356,Cetinje,Active
+146,Montenegro,ME,Active,2371,aabljak,Active
+146,Montenegro,ME,Active,2354,Bijelo Polje,Active
+146,Montenegro,ME,Active,2369,Ulcinj,Active
+146,Montenegro,ME,Active,2352,Bar,Active
+146,Montenegro,ME,Active,2367,Roaaje,Active
+130,Madagascar,MG,Active,2122,Mahajanga,Active
+130,Madagascar,MG,Active,2120,Antsiranana,Active
+130,Madagascar,MG,Active,2123,Toamasina,Active
+130,Madagascar,MG,Active,2121,Fianarantsoa,Active
+130,Madagascar,MG,Active,2119,Antananarivo,Active
+130,Madagascar,MG,Active,2124,Toliara,Active
+136,Marshall Islands,MH,Active,2203,Ailuk,Active
+136,Marshall Islands,MH,Active,2218,Mili,Active
+136,Marshall Islands,MH,Active,2216,Maloelap,Active
+136,Marshall Islands,MH,Active,2214,Likiep,Active
+136,Marshall Islands,MH,Active,2212,Lae,Active
+136,Marshall Islands,MH,Active,2210,Kili,Active
+136,Marshall Islands,MH,Active,2208,Jabat,Active
+136,Marshall Islands,MH,Active,2206,Ebon,Active
+136,Marshall Islands,MH,Active,2225,Wotje,Active
+136,Marshall Islands,MH,Active,2221,Rongelap,Active
+136,Marshall Islands,MH,Active,2204,Arno,Active
+136,Marshall Islands,MH,Active,2223,Utirik,Active
+136,Marshall Islands,MH,Active,2219,Namdrik,Active
+136,Marshall Islands,MH,Active,2202,Ailinglaplap,Active
+136,Marshall Islands,MH,Active,2217,Mejit,Active
+136,Marshall Islands,MH,Active,2215,Majuro,Active
+136,Marshall Islands,MH,Active,2213,Lib,Active
+136,Marshall Islands,MH,Active,2211,Kwajalein,Active
+136,Marshall Islands,MH,Active,2209,Jaluit,Active
+136,Marshall Islands,MH,Active,2207,Enewetak,Active
+136,Marshall Islands,MH,Active,2222,Ujae,Active
+136,Marshall Islands,MH,Active,2205,Aur,Active
+136,Marshall Islands,MH,Active,2224,Wotho,Active
+136,Marshall Islands,MH,Active,2220,Namu,Active
+129,Macedonia,MK,Active,2107,Vasilevo,Active
+129,Macedonia,MK,Active,2043,Cair a,Active
+129,Macedonia,MK,Active,2075,Kumanovo,Active
+129,Macedonia,MK,Active,2090,Prilep,Active
+129,Macedonia,MK,Active,2058,Gevgelija,Active
+129,Macedonia,MK,Active,2105,Tetovo,Active
+129,Macedonia,MK,Active,2041,Brvenica,Active
+129,Macedonia,MK,Active,2073,Krivogaatani,Active
+129,Macedonia,MK,Active,2088,Petrovec,Active
+129,Macedonia,MK,Active,2056,Drugovo,Active
+129,Macedonia,MK,Active,2103,Sveti Nikole,Active
+129,Macedonia,MK,Active,2039,Bogovinje,Active
+129,Macedonia,MK,Active,2071,Kratovo,Active
+129,Macedonia,MK,Active,2086,Oslomej,Active
+129,Macedonia,MK,Active,2118,aelino,Active
+129,Macedonia,MK,Active,2054,Dojran,Active
+129,Macedonia,MK,Active,2101,Strumica,Active
+129,Macedonia,MK,Active,2037,Bitola,Active
+129,Macedonia,MK,Active,2069,Kocani,Active
+129,Macedonia,MK,Active,2084,Novo Selo,Active
+129,Macedonia,MK,Active,2116,A tip,Active
+129,Macedonia,MK,Active,2052,Demir Hisar,Active
+129,Macedonia,MK,Active,2099,Staro Nagoricane,Active
+129,Macedonia,MK,Active,2035,Aracinovo,Active
+129,Macedonia,MK,Active,2067,Kicevo,Active
+129,Macedonia,MK,Active,2114,Zelenikovo,Active
+129,Macedonia,MK,Active,2050,Debarca,Active
+129,Macedonia,MK,Active,2082,Negotino,Active
+129,Macedonia,MK,Active,2097,Skopje,Active
+129,Macedonia,MK,Active,2065,Karpoa a,Active
+129,Macedonia,MK,Active,2112,Vrapciate,Active
+129,Macedonia,MK,Active,2048,Cucer Sandevo,Active
+129,Macedonia,MK,Active,2080,Mavrovo-i-Rostuaa,Active
+129,Macedonia,MK,Active,2095,Rosoman,Active
+129,Macedonia,MK,Active,2063,Jegunovce,Active
+129,Macedonia,MK,Active,2110,Vinica,Active
+129,Macedonia,MK,Active,2046,Centar aupa,Active
+129,Macedonia,MK,Active,2078,Makedonska Kamenica,Active
+129,Macedonia,MK,Active,2093,Rankovce,Active
+129,Macedonia,MK,Active,2061,Gradsko,Active
+129,Macedonia,MK,Active,2108,Veles,Active
+129,Macedonia,MK,Active,2044,Caaka,Active
+129,Macedonia,MK,Active,2076,Lipkovo,Active
+129,Macedonia,MK,Active,2091,Probiatip,Active
+129,Macedonia,MK,Active,2059,Gjorce Petrov a,Active
+129,Macedonia,MK,Active,2106,Valandovo,Active
+129,Macedonia,MK,Active,2042,Butel a,Active
+129,Macedonia,MK,Active,2074,Kruaevo,Active
+129,Macedonia,MK,Active,2089,Plasnica,Active
+129,Macedonia,MK,Active,2057,Gazi Baba a,Active
+129,Macedonia,MK,Active,2104,Tearce,Active
+129,Macedonia,MK,Active,2040,Bosilovo,Active
+129,Macedonia,MK,Active,2072,Kriva Palanka,Active
+129,Macedonia,MK,Active,2087,Pehcevo,Active
+129,Macedonia,MK,Active,2055,Dolneni,Active
+129,Macedonia,MK,Active,2102,Studenicani,Active
+129,Macedonia,MK,Active,2038,Bogdanci,Active
+129,Macedonia,MK,Active,2070,Konce,Active
+129,Macedonia,MK,Active,2085,Ohrid,Active
+129,Macedonia,MK,Active,2117,A uto Orizari a,Active
+129,Macedonia,MK,Active,2053,Demir Kapija,Active
+129,Macedonia,MK,Active,2100,Struga,Active
+129,Macedonia,MK,Active,2036,Berovo,Active
+129,Macedonia,MK,Active,2068,Kisela Voda a,Active
+129,Macedonia,MK,Active,2115,Zrnovci,Active
+129,Macedonia,MK,Active,2051,Delcevo,Active
+129,Macedonia,MK,Active,2083,Novaci,Active
+129,Macedonia,MK,Active,2098,Sopiate,Active
+129,Macedonia,MK,Active,2034,Aerodrom a,Active
+129,Macedonia,MK,Active,2066,Kavadarci,Active
+129,Macedonia,MK,Active,2113,Zajas,Active
+129,Macedonia,MK,Active,2049,Debar,Active
+129,Macedonia,MK,Active,2081,Mogila,Active
+129,Macedonia,MK,Active,2096,Saraj a,Active
+129,Macedonia,MK,Active,2064,Karbinci,Active
+129,Macedonia,MK,Active,2111,Vraneatica,Active
+129,Macedonia,MK,Active,2047,Ceainovo-Obleaevo,Active
+129,Macedonia,MK,Active,2079,Makedonski Brod,Active
+129,Macedonia,MK,Active,2094,Resen,Active
+129,Macedonia,MK,Active,2062,Ilinden,Active
+129,Macedonia,MK,Active,2109,Vevcani,Active
+129,Macedonia,MK,Active,2045,Centar a,Active
+129,Macedonia,MK,Active,2077,Lozovo,Active
+129,Macedonia,MK,Active,2092,Radovia,Active
+129,Macedonia,MK,Active,2060,Gostivar,Active
+134,Mali,ML,Active,2201,Tombouctou,Active
+134,Mali,ML,Active,2199,Sikasso,Active
+134,Mali,ML,Active,2197,Koulikoro,Active
+134,Mali,ML,Active,2195,Kayes,Active
+134,Mali,ML,Active,2193,Bamako,Active
+134,Mali,ML,Active,2200,SAcgou,Active
+134,Mali,ML,Active,2198,Mopti,Active
+134,Mali,ML,Active,2196,Kidal,Active
+134,Mali,ML,Active,2194,Gao,Active
+150,Myanmar,MM,Active,2433,Kachin,Active
+150,Myanmar,MM,Active,2431,Bago,Active
+150,Myanmar,MM,Active,2442,Tanintharyi,Active
+150,Myanmar,MM,Active,2440,Sagaing,Active
+150,Myanmar,MM,Active,2438,Mon,Active
+150,Myanmar,MM,Active,2436,Magway,Active
+150,Myanmar,MM,Active,2434,Kayah,Active
+150,Myanmar,MM,Active,2432,Chin,Active
+150,Myanmar,MM,Active,2430,Ayeyarwady,Active
+150,Myanmar,MM,Active,2443,Yangon,Active
+150,Myanmar,MM,Active,2441,Shan,Active
+150,Myanmar,MM,Active,2439,Rakhine,Active
+150,Myanmar,MM,Active,2437,Mandalay,Active
+150,Myanmar,MM,Active,4547,ALL [Placeholder],Active
+150,Myanmar,MM,Active,2435,Kayin,Active
+145,Mongolia,MN,Active,2350,A–varhangay,Active
+145,Mongolia,MN,Active,2333,Darhan uul,Active
+145,Mongolia,MN,Active,2348,Uvs,Active
+145,Mongolia,MN,Active,2331,Bayanhongor,Active
+145,Mongolia,MN,Active,2346,Tav,Active
+145,Mongolia,MN,Active,2329,Arhangay,Active
+145,Mongolia,MN,Active,2344,Selenge,Active
+145,Mongolia,MN,Active,2342,Havsgal,Active
+145,Mongolia,MN,Active,2340,Hentiy,Active
+145,Mongolia,MN,Active,2338,Govi-Altay,Active
+145,Mongolia,MN,Active,4545,ALL [Placeholder],Active
+145,Mongolia,MN,Active,2336,Dundgovi,Active
+145,Mongolia,MN,Active,2334,Dornod,Active
+145,Mongolia,MN,Active,2349,A–mnagovi,Active
+145,Mongolia,MN,Active,2332,Bulgan,Active
+145,Mongolia,MN,Active,2347,Ulaanbaatar,Active
+145,Mongolia,MN,Active,2330,Bayan-A–lgiy,Active
+145,Mongolia,MN,Active,2345,Sahbaatar,Active
+145,Mongolia,MN,Active,2343,Orhon,Active
+145,Mongolia,MN,Active,2341,Hovd,Active
+145,Mongolia,MN,Active,2339,Govi-Samber,Active
+145,Mongolia,MN,Active,2337,Dzavhan,Active
+145,Mongolia,MN,Active,2335,Dornogovi,Active
+128,Macau,MO,Active,4560,Ilhas,Active
+128,Macau,MO,Active,4517,Macao All,Active
+138,Mauritania,MR,Active,2237,Tiris Zemmour,Active
+138,Mauritania,MR,Active,2235,Nouakchott,Active
+138,Mauritania,MR,Active,2233,Hodh el Gharbi,Active
+138,Mauritania,MR,Active,2231,Guidimaka,Active
+138,Mauritania,MR,Active,2229,Dakhlet Nouadhibou,Active
+138,Mauritania,MR,Active,2227,Assaba,Active
+138,Mauritania,MR,Active,2238,Trarza,Active
+138,Mauritania,MR,Active,2236,Tagant,Active
+138,Mauritania,MR,Active,2234,Inchiri,Active
+138,Mauritania,MR,Active,2232,Hodh ech Chargui,Active
+138,Mauritania,MR,Active,2230,Gorgol,Active
+138,Mauritania,MR,Active,2228,Brakna,Active
+138,Mauritania,MR,Active,2226,Adrar,Active
+139,Mauritius,MU,Active,2254,Savanne,Active
+139,Mauritius,MU,Active,2252,RiviAre du Rempart,Active
+139,Mauritius,MU,Active,2250,Port Louis District,Active
+139,Mauritius,MU,Active,2248,Plaines Wilhems,Active
+139,Mauritius,MU,Active,2246,Moka,Active
+139,Mauritius,MU,Active,2244,Flacq,Active
+139,Mauritius,MU,Active,2242,Cargados Carajos Shoals [Saint Brandon Islands],Active
+139,Mauritius,MU,Active,2240,Beau Bassin-Rose Hill,Active
+139,Mauritius,MU,Active,2255,Vacoas-Phoenix,Active
+139,Mauritius,MU,Active,2253,Rodrigues Island,Active
+139,Mauritius,MU,Active,2251,Quatre Bornes,Active
+139,Mauritius,MU,Active,2249,Port Louis City,Active
+139,Mauritius,MU,Active,2247,Pamplemousses,Active
+139,Mauritius,MU,Active,2245,Grand Port,Active
+139,Mauritius,MU,Active,2243,Curepipe,Active
+139,Mauritius,MU,Active,2241,Black River,Active
+139,Mauritius,MU,Active,2239,Agalega Islands,Active
+133,Maldives,MV,Active,2186,Meemu,Active
+133,Maldives,MV,Active,2184,Lhaviyani,Active
+133,Maldives,MV,Active,2182,Kaafu,Active
+133,Maldives,MV,Active,2180,Haa Alif,Active
+133,Maldives,MV,Active,2178,Gaafu Dhaalu,Active
+133,Maldives,MV,Active,2176,Faafu,Active
+133,Maldives,MV,Active,2191,Thaa,Active
+133,Maldives,MV,Active,2174,Baa,Active
+133,Maldives,MV,Active,2189,Seenu,Active
+133,Maldives,MV,Active,2172,Alif,Active
+133,Maldives,MV,Active,2187,Noonu,Active
+133,Maldives,MV,Active,2185,Male,Active
+133,Maldives,MV,Active,2183,Laamu,Active
+133,Maldives,MV,Active,2181,Haa Dhaalu,Active
+133,Maldives,MV,Active,2179,Gnaviyani,Active
+133,Maldives,MV,Active,2177,Gaaf Alif,Active
+133,Maldives,MV,Active,2192,Vaavu,Active
+133,Maldives,MV,Active,2175,Dhaalu,Active
+133,Maldives,MV,Active,2190,Shaviyani,Active
+133,Maldives,MV,Active,2173,Alif Dhaal,Active
+133,Maldives,MV,Active,2188,Raa,Active
+131,Malawi,MW,Active,2139,Mchinji,Active
+131,Malawi,MW,Active,2154,Thyolo,Active
+131,Malawi,MW,Active,2137,Machinga,Active
+131,Malawi,MW,Active,2152,Salima,Active
+131,Malawi,MW,Active,2135,Likoma,Active
+131,Malawi,MW,Active,2150,Phalombe,Active
+131,Malawi,MW,Active,2133,Karonga,Active
+131,Malawi,MW,Active,2148,Ntcheu,Active
+131,Malawi,MW,Active,2131,Dedza,Active
+131,Malawi,MW,Active,2146,Northern Region,Active
+131,Malawi,MW,Active,2129,Chiradzulu,Active
+131,Malawi,MW,Active,2144,Nkhata Bay,Active
+131,Malawi,MW,Active,2127,Central Region,Active
+131,Malawi,MW,Active,2142,Mzimba,Active
+131,Malawi,MW,Active,2125,Balaka,Active
+131,Malawi,MW,Active,2140,Mulanje,Active
+131,Malawi,MW,Active,2155,Zomba,Active
+131,Malawi,MW,Active,2138,Mangochi,Active
+131,Malawi,MW,Active,2153,Southern Region,Active
+131,Malawi,MW,Active,2136,Lilongwe,Active
+131,Malawi,MW,Active,2151,Rumphi,Active
+131,Malawi,MW,Active,2134,Kasungu,Active
+131,Malawi,MW,Active,2149,Ntchisi,Active
+131,Malawi,MW,Active,2132,Dowa,Active
+131,Malawi,MW,Active,2147,Nsanje,Active
+131,Malawi,MW,Active,2130,Chitipa,Active
+131,Malawi,MW,Active,2145,Nkhotakota,Active
+131,Malawi,MW,Active,2128,Chikwawa,Active
+131,Malawi,MW,Active,2143,Neno,Active
+131,Malawi,MW,Active,2126,Blantyre,Active
+131,Malawi,MW,Active,2141,Mwanza,Active
+141,Mexico,MX,Active,2286,Yucatan,Active
+141,Mexico,MX,Active,2269,Jalisco,Active
+141,Mexico,MX,Active,2284,Tlaxcala,Active
+141,Mexico,MX,Active,2267,Guerrero,Active
+141,Mexico,MX,Active,2282,Tabasco,Active
+141,Mexico,MX,Active,2265,Durango,Active
+141,Mexico,MX,Active,2280,Sinaloa,Active
+141,Mexico,MX,Active,2263,Colima,Active
+141,Mexico,MX,Active,2278,Quintana Roo,Active
+141,Mexico,MX,Active,2261,Chihuahua,Active
+141,Mexico,MX,Active,2276,Puebla,Active
+141,Mexico,MX,Active,2259,Campeche,Active
+141,Mexico,MX,Active,2274,Nuevo Leon,Active
+141,Mexico,MX,Active,2257,Baja California,Active
+141,Mexico,MX,Active,2272,Mexico,Active
+141,Mexico,MX,Active,2287,Zacatecas,Active
+141,Mexico,MX,Active,4443,ALL [Placeholder],Inactive
+141,Mexico,MX,Active,2270,Michoacan,Active
+141,Mexico,MX,Active,2285,Veracruz,Active
+141,Mexico,MX,Active,2268,Hidalgo,Active
+141,Mexico,MX,Active,2283,Tamaulipas,Active
+141,Mexico,MX,Active,2266,Guanajuato,Active
+141,Mexico,MX,Active,2281,Sonora,Active
+141,Mexico,MX,Active,2264,Distrito Federal,Active
+141,Mexico,MX,Active,2279,San Luis Potos,Active
+141,Mexico,MX,Active,2262,Coahuila,Active
+141,Mexico,MX,Active,2277,Queretaro,Active
+141,Mexico,MX,Active,2260,Chiapas,Active
+141,Mexico,MX,Active,2275,Oaxaca,Active
+141,Mexico,MX,Active,2258,Baja California Sur,Active
+141,Mexico,MX,Active,2273,Nayarit,Active
+141,Mexico,MX,Active,2256,Aguascalientes,Active
+141,Mexico,MX,Active,2271,Morelos,Active
+132,Malaysia,MY,Active,2171,Wilayah Persekutuan Putrajaya,Active
+132,Malaysia,MY,Active,2169,Wilayah Persekutuan Kuala Lumpur,Active
+132,Malaysia,MY,Active,2167,Selangor,Active
+132,Malaysia,MY,Active,2165,Sabah,Active
+132,Malaysia,MY,Active,2163,Perlis,Active
+132,Malaysia,MY,Active,2161,Pahang,Active
+132,Malaysia,MY,Active,2159,Melaka,Active
+132,Malaysia,MY,Active,2157,Kedah,Active
+132,Malaysia,MY,Active,2170,Wilayah Persekutuan Labuan,Active
+132,Malaysia,MY,Active,2168,Terengganu,Active
+132,Malaysia,MY,Active,2166,Sarawak,Active
+132,Malaysia,MY,Active,2164,Pulau Pinang,Active
+132,Malaysia,MY,Active,2162,Perak,Active
+132,Malaysia,MY,Active,2160,Negeri Sembilan,Active
+132,Malaysia,MY,Active,2158,Kelantan,Active
+132,Malaysia,MY,Active,2156,Johor,Active
+149,Mozambique,MZ,Active,2429,ZambAczia,Active
+149,Mozambique,MZ,Active,2427,Sofala,Active
+149,Mozambique,MZ,Active,2423,Maputo,Active
+149,Mozambique,MZ,Active,2425,Nampula,Active
+149,Mozambique,MZ,Active,2421,Inhambane,Active
+149,Mozambique,MZ,Active,2419,Cabo Delgado,Active
+149,Mozambique,MZ,Active,2428,Tete,Active
+149,Mozambique,MZ,Active,2426,Niassa,Active
+149,Mozambique,MZ,Active,2422,Manica,Active
+149,Mozambique,MZ,Active,2424,Maputo City,Active
+149,Mozambique,MZ,Active,2420,Gaza,Active
+151,Namibia,NA,Active,2448,Khomas,Active
+151,Namibia,NA,Active,2446,Hardap,Active
+151,Namibia,NA,Active,2444,Caprivi,Active
+151,Namibia,NA,Active,2455,Oshikoto,Active
+151,Namibia,NA,Active,2453,Omusati,Active
+151,Namibia,NA,Active,2451,Okavango,Active
+151,Namibia,NA,Active,2449,Kunene,Active
+151,Namibia,NA,Active,2447,Karas,Active
+151,Namibia,NA,Active,2445,Erongo,Active
+151,Namibia,NA,Active,2456,Otjozondjupa,Active
+151,Namibia,NA,Active,2454,Oshana,Active
+151,Namibia,NA,Active,2452,Omaheke,Active
+151,Namibia,NA,Active,2450,Ohangwena,Active
+159,Niger,NE,Active,2540,Zinder,Active
+159,Niger,NE,Active,2538,Tahoua,Active
+159,Niger,NE,Active,2536,Maradi,Active
+159,Niger,NE,Active,2534,Diffa,Active
+159,Niger,NE,Active,2539,TillabAcri,Active
+159,Niger,NE,Active,2537,Niamey,Active
+159,Niger,NE,Active,2535,Dosso,Active
+159,Niger,NE,Active,2533,Agadez,Active
+160,Nigeria,NG,Active,2561,Katsina,Active
+160,Nigeria,NG,Active,2544,Akwa Ibom,Active
+160,Nigeria,NG,Active,2576,Yobe,Active
+160,Nigeria,NG,Active,2559,Kaduna,Active
+160,Nigeria,NG,Active,2542,Abuja Federal Capital Territory,Active
+160,Nigeria,NG,Active,2574,Sokoto,Active
+160,Nigeria,NG,Active,2557,Imo,Active
+160,Nigeria,NG,Active,2572,Plateau,Active
+160,Nigeria,NG,Active,2555,Enugu,Active
+160,Nigeria,NG,Active,2570,Osun,Active
+160,Nigeria,NG,Active,2553,Edo,Active
+160,Nigeria,NG,Active,2568,Ogun,Active
+160,Nigeria,NG,Active,2551,Delta,Active
+160,Nigeria,NG,Active,2566,Nassarawa,Active
+160,Nigeria,NG,Active,4515,ALL [Placeholder],Active
+160,Nigeria,NG,Active,2549,Borno,Active
+160,Nigeria,NG,Active,2564,Kwara,Active
+160,Nigeria,NG,Active,2547,Bayelsa,Active
+160,Nigeria,NG,Active,2562,Kebbi,Active
+160,Nigeria,NG,Active,2545,Anambra,Active
+160,Nigeria,NG,Active,2577,Zamfara,Active
+160,Nigeria,NG,Active,2560,Kano,Active
+160,Nigeria,NG,Active,2543,Adamawa,Active
+160,Nigeria,NG,Active,2575,Taraba,Active
+160,Nigeria,NG,Active,2558,Jigawa,Active
+160,Nigeria,NG,Active,2541,Abia,Active
+160,Nigeria,NG,Active,2573,Rivers,Active
+160,Nigeria,NG,Active,2556,Gombe,Active
+160,Nigeria,NG,Active,2571,Oyo,Active
+160,Nigeria,NG,Active,2554,Ekiti,Active
+160,Nigeria,NG,Active,2569,Ondo,Active
+160,Nigeria,NG,Active,2552,Ebonyi,Active
+160,Nigeria,NG,Active,2567,Niger,Active
+160,Nigeria,NG,Active,2550,Cross River,Active
+160,Nigeria,NG,Active,2565,Lagos,Active
+160,Nigeria,NG,Active,2548,Benue,Active
+160,Nigeria,NG,Active,2563,Kogi,Active
+160,Nigeria,NG,Active,2546,Bauchi,Active
+158,Nicaragua,NI,Active,2529,Matagalpa,Active
+158,Nicaragua,NI,Active,2527,Managua,Active
+158,Nicaragua,NI,Active,2525,Lean,Active
+158,Nicaragua,NI,Active,2523,Granada,Active
+158,Nicaragua,NI,Active,2521,Chontales,Active
+158,Nicaragua,NI,Active,2519,Carazo,Active
+158,Nicaragua,NI,Active,2517,Atlantico Sura,Active
+158,Nicaragua,NI,Active,2532,RA­o San Juan,Active
+158,Nicaragua,NI,Active,2530,Nueva Segovia,Active
+158,Nicaragua,NI,Active,2528,Masaya,Active
+158,Nicaragua,NI,Active,2526,Madriz,Active
+158,Nicaragua,NI,Active,2524,Jinotega,Active
+158,Nicaragua,NI,Active,2522,EstelA­,Active
+158,Nicaragua,NI,Active,4525,ALL [Placeholder],Active
+158,Nicaragua,NI,Active,2520,Chinandega,Active
+158,Nicaragua,NI,Active,2518,Boaco,Active
+158,Nicaragua,NI,Active,2516,Atlantico Nortea,Active
+158,Nicaragua,NI,Active,2531,Rivas,Active
+154,Netherlands,NL,Active,2495,Zeeland,Active
+154,Netherlands,NL,Active,2493,Overijssel,Active
+154,Netherlands,NL,Active,2491,Noord-Brabant,Active
+154,Netherlands,NL,Active,2489,Groningen,Active
+154,Netherlands,NL,Active,2487,Friesland,Active
+154,Netherlands,NL,Active,2485,Drenthe,Active
+154,Netherlands,NL,Active,2496,Zuid-Holland,Active
+154,Netherlands,NL,Active,2494,Utrecht,Active
+154,Netherlands,NL,Active,2492,Noord-Holland,Active
+154,Netherlands,NL,Active,2490,Limburg,Active
+154,Netherlands,NL,Active,2488,Gelderland,Active
+154,Netherlands,NL,Active,2486,Flevoland,Active
+164,Norway,NO,Active,2593,Sor-Trondelag,Active
+164,Norway,NO,Active,2591,Sogn og Fjordane,Active
+164,Norway,NO,Active,2589,Oslo,Active
+164,Norway,NO,Active,2587,Nordland,Active
+164,Norway,NO,Active,4429,Norway ALL STATES [PLACEHOLDER],Active
+164,Norway,NO,Active,2585,More og Romsdal,Active
+164,Norway,NO,Active,2583,Hordaland,Active
+164,Norway,NO,Active,2598,Ostfold,Active
+164,Norway,NO,Active,2581,Finnmark,Active
+164,Norway,NO,Active,2596,Vest-Agder,Active
+164,Norway,NO,Active,2579,Aust-Agder,Active
+164,Norway,NO,Active,2594,Telemark,Active
+164,Norway,NO,Active,2592,Svalbard (Arctic Region) (See also country code SJ),Active
+164,Norway,NO,Active,2590,Rogaland,Active
+164,Norway,NO,Active,2588,Oppland,Active
+164,Norway,NO,Active,2586,Nord-Trondelag,Active
+164,Norway,NO,Active,2584,Jan Mayen (Arctic Region) (See also country code SJ),Active
+164,Norway,NO,Active,2582,Hedmark,Active
+164,Norway,NO,Active,2597,Vestfold,Active
+164,Norway,NO,Active,2580,Buskerud,Active
+164,Norway,NO,Active,2595,Troms,Active
+164,Norway,NO,Active,2578,Akershus,Active
+153,Nepal,NP,Active,2480,Mechi,Active
+153,Nepal,NP,Active,2478,Lumbini,Active
+153,Nepal,NP,Active,2476,Karnali,Active
+153,Nepal,NP,Active,2474,Gandaki,Active
+153,Nepal,NP,Active,2472,Bheri,Active
+153,Nepal,NP,Active,2483,Sagarmatha,Active
+153,Nepal,NP,Active,2481,Narayani,Active
+153,Nepal,NP,Active,2479,Mahakali,Active
+153,Nepal,NP,Active,2477,Kosi [Koshi],Active
+153,Nepal,NP,Active,2475,Janakpur,Active
+153,Nepal,NP,Active,2473,Dhawalagiri,Active
+153,Nepal,NP,Active,2471,Bagmati,Active
+153,Nepal,NP,Active,2484,Seti,Active
+153,Nepal,NP,Active,2482,Rapti,Active
+152,Nauru,NR,Active,2465,Ewa,Active
+152,Nauru,NR,Active,2463,Buada,Active
+152,Nauru,NR,Active,2461,Baiti,Active
+152,Nauru,NR,Active,2459,Anetan,Active
+152,Nauru,NR,Active,2457,Aiwo,Active
+152,Nauru,NR,Active,2470,Yaren,Active
+152,Nauru,NR,Active,2468,Nibok,Active
+152,Nauru,NR,Active,2466,Ijuw,Active
+152,Nauru,NR,Active,2464,Denigomodu,Active
+152,Nauru,NR,Active,2462,Boe,Active
+152,Nauru,NR,Active,2460,Anibare,Active
+152,Nauru,NR,Active,2458,Anabar,Active
+152,Nauru,NR,Active,2469,Uaboe,Active
+152,Nauru,NR,Active,2467,Meneng,Active
+157,New Zealand,NZ,Active,2497,Auckland,Active
+157,New Zealand,NZ,Active,2512,Tasman District,Active
+157,New Zealand,NZ,Active,2510,Southland,Active
+157,New Zealand,NZ,Active,2508,Otago,Active
+157,New Zealand,NZ,Active,2506,North Island,Active
+157,New Zealand,NZ,Active,2504,Marlborough District,Active
+157,New Zealand,NZ,Active,2502,Hawkes's Bay,Active
+157,New Zealand,NZ,Active,2500,Chatham Islands Territory,Active
+157,New Zealand,NZ,Active,2515,West Coast,Active
+157,New Zealand,NZ,Active,2498,Bay of Plenty,Active
+157,New Zealand,NZ,Active,2513,Waikato,Active
+157,New Zealand,NZ,Active,2511,Taranaki,Active
+157,New Zealand,NZ,Active,2509,South Island,Active
+157,New Zealand,NZ,Active,2507,Northland,Active
+157,New Zealand,NZ,Active,2505,Nelson City,Active
+157,New Zealand,NZ,Active,2503,Manawatu-Wanganui,Active
+157,New Zealand,NZ,Active,2501,Gisborne District,Active
+157,New Zealand,NZ,Active,2499,Canterbury,Active
+157,New Zealand,NZ,Active,2514,Wellington,Active
+165,Oman,OM,Active,2606,Musandam,Active
+165,Oman,OM,Active,2604,Aza Zaahirah,Active
+165,Oman,OM,Active,2602,Al Wusta,Active
+165,Oman,OM,Active,2600,Al Batinah,Active
+165,Oman,OM,Active,2607,Zaufar,Active
+165,Oman,OM,Active,2605,Masqat,Active
+165,Oman,OM,Active,2603,Ash Sharqiyah,Active
+165,Oman,OM,Active,2601,Al Buraymi,Active
+165,Oman,OM,Active,2599,Ad Dakhiliyah,Active
+165,Oman,OM,Active,4483,ALL [Placeholder],Active
+169,Panama,PA,Active,2642,Veraguas,Active
+169,Panama,PA,Active,2640,Ngabe-BuglAc,Active
+169,Panama,PA,Active,2638,Herrera,Active
+169,Panama,PA,Active,4413,Kuna Yala,Active
+169,Panama,PA,Active,2636,DariAcn,Active
+169,Panama,PA,Active,2634,CoclAc,Active
+169,Panama,PA,Active,4485,ALL [Placeholder],Active
+169,Panama,PA,Active,2632,Bocas del Toro,Active
+169,Panama,PA,Active,2641,Panama,Active
+169,Panama,PA,Active,2639,Los Santos,Active
+169,Panama,PA,Active,2637,Embera,Active
+169,Panama,PA,Active,2635,Colan,Active
+169,Panama,PA,Active,2633,ChiriquA­,Active
+172,Peru,PE,Active,2691,Ica,Active
+172,Peru,PE,Active,2706,Ucayali,Active
+172,Peru,PE,Active,2689,Huancavelica,Active
+172,Peru,PE,Active,2704,Tacna,Active
+172,Peru,PE,Active,2687,Cusco [Cuzco],Active
+172,Peru,PE,Active,2702,Puno,Active
+172,Peru,PE,Active,2685,Ayacucho,Active
+172,Peru,PE,Active,2700,Pasco,Active
+172,Peru,PE,Active,2683,ApurA­mac,Active
+172,Peru,PE,Active,2698,Moquegua,Active
+172,Peru,PE,Active,2681,Amazonas,Active
+172,Peru,PE,Active,2696,Loreto,Active
+172,Peru,PE,Active,2694,Lambayeque,Active
+172,Peru,PE,Active,2692,JunA­n,Active
+172,Peru,PE,Active,2690,Huanuco,Active
+172,Peru,PE,Active,2705,Tumbes,Active
+172,Peru,PE,Active,2688,El Callao,Active
+172,Peru,PE,Active,2703,San MartA­n,Active
+172,Peru,PE,Active,2686,Cajamarca,Active
+172,Peru,PE,Active,4461,ALL [Placeholder],Active
+172,Peru,PE,Active,2701,Piura,Active
+172,Peru,PE,Active,2684,Arequipa,Active
+172,Peru,PE,Active,2699,Municipalidad Metropolitana de Lima,Active
+172,Peru,PE,Active,2682,Ancash,Active
+172,Peru,PE,Active,2697,Madre de Dios,Active
+172,Peru,PE,Active,2695,Lima,Active
+172,Peru,PE,Active,2693,La Libertad,Active
+170,Papua New Guinea,PG,Active,2644,Chimbu,Active
+170,Papua New Guinea,PG,Active,2659,Southern Highlands,Active
+170,Papua New Guinea,PG,Active,2657,Northern,Active
+170,Papua New Guinea,PG,Active,2655,New Ireland,Active
+170,Papua New Guinea,PG,Active,2653,Morobe,Active
+170,Papua New Guinea,PG,Active,2651,Manus,Active
+170,Papua New Guinea,PG,Active,2649,Gulf,Active
+170,Papua New Guinea,PG,Active,2647,Eastern Highlands,Active
+170,Papua New Guinea,PG,Active,2662,Western Highlands,Active
+170,Papua New Guinea,PG,Active,2645,East New Britain,Active
+170,Papua New Guinea,PG,Active,2660,West New Britain,Active
+170,Papua New Guinea,PG,Active,2643,Central,Active
+170,Papua New Guinea,PG,Active,2658,Sandaun [West Sepik],Active
+170,Papua New Guinea,PG,Active,2656,North Solomons,Active
+170,Papua New Guinea,PG,Active,2654,National Capital District (Port Moresby),Active
+170,Papua New Guinea,PG,Active,2652,Milne Bay,Active
+170,Papua New Guinea,PG,Active,2650,Madang,Active
+170,Papua New Guinea,PG,Active,2648,Enga,Active
+170,Papua New Guinea,PG,Active,2646,East Sepik,Active
+170,Papua New Guinea,PG,Active,2661,Western,Active
+173,Philippines,PH,Active,2708,Agusan del Norte,Active
+173,Philippines,PH,Active,2740,Cordillera Administrative Region (CAR),Active
+173,Philippines,PH,Active,2772,Negros Oriental,Active
+173,Philippines,PH,Active,2804,Zamboanga Sibuguey [Zamboanga Sibugay],Active
+173,Philippines,PH,Active,2723,Bohol,Active
+173,Philippines,PH,Active,2755,Kalinga,Active
+173,Philippines,PH,Active,2787,Siquijor,Active
+173,Philippines,PH,Active,2738,Central Visayas (Region VII),Active
+173,Philippines,PH,Active,2770,National Capital Region,Active
+173,Philippines,PH,Active,2802,Zamboanga del Sur,Active
+173,Philippines,PH,Active,2721,Bicol (Region V),Active
+173,Philippines,PH,Active,2753,Iloilo,Active
+173,Philippines,PH,Active,2785,Sarangani,Active
+173,Philippines,PH,Active,2736,Cebu,Active
+173,Philippines,PH,Active,2768,Misamis Oriental,Active
+173,Philippines,PH,Active,2800,Zambales,Active
+173,Philippines,PH,Active,2719,Batangas,Active
+173,Philippines,PH,Active,2751,Ilocos Norte,Active
+173,Philippines,PH,Active,2783,Rizal,Active
+173,Philippines,PH,Active,2734,Catanduanes,Active
+173,Philippines,PH,Active,2766,Mindoro Oriental,Active
+173,Philippines,PH,Active,2798,Western Samar,Active
+173,Philippines,PH,Active,2717,Bataan,Active
+173,Philippines,PH,Active,2749,Ifugao,Active
+173,Philippines,PH,Active,2781,Quezon,Active
+173,Philippines,PH,Active,2732,Capiz,Active
+173,Philippines,PH,Active,2764,MIMAROPA (Region IV-B),Active
+173,Philippines,PH,Active,2796,Tarlac,Active
+173,Philippines,PH,Active,4426,Philippines [PLACEHOLDER],Active
+173,Philippines,PH,Active,2715,Autonomous Region in Muslim Mindanao (ARMM),Active
+173,Philippines,PH,Active,2747,Eastern Visayas (Region VIII),Active
+173,Philippines,PH,Active,2779,Pampanga,Active
+173,Philippines,PH,Active,2730,Camarines Sur,Active
+173,Philippines,PH,Active,2762,Marinduque,Active
+173,Philippines,PH,Active,2794,Surigao del Norte,Active
+173,Philippines,PH,Active,2713,Apayao,Active
+173,Philippines,PH,Active,2745,Dinagat Islands,Active
+173,Philippines,PH,Active,2777,Nueva Vizcaya,Active
+173,Philippines,PH,Active,2728,CALABARZON (Region IV-A),Active
+173,Philippines,PH,Active,2760,Leyte,Active
+173,Philippines,PH,Active,2792,Sultan Kudarat,Active
+173,Philippines,PH,Active,2711,Albay,Active
+173,Philippines,PH,Active,2743,Davao del Sur,Active
+173,Philippines,PH,Active,2775,Northern Samar,Active
+173,Philippines,PH,Active,2726,Cagayan,Active
+173,Philippines,PH,Active,2758,Lanao del Norte,Active
+173,Philippines,PH,Active,2790,South Cotabato,Active
+173,Philippines,PH,Active,4585,Metro Manila,Active
+173,Philippines,PH,Active,2709,Agusan del Sur,Active
+173,Philippines,PH,Active,2741,Davao (Region XI),Active
+173,Philippines,PH,Active,2773,North Cotabato,Active
+173,Philippines,PH,Active,2724,Bukidnon,Active
+173,Philippines,PH,Active,2756,La Union,Active
+173,Philippines,PH,Active,2788,Soccsksargen (Region XII),Active
+173,Philippines,PH,Active,2707,Abra,Active
+173,Philippines,PH,Active,2739,Compostela Valley,Active
+173,Philippines,PH,Active,2771,Negros Occidental,Active
+173,Philippines,PH,Active,2803,Zamboanga Peninsula (Region IX),Active
+173,Philippines,PH,Active,2722,Biliran,Active
+173,Philippines,PH,Active,2754,Isabela,Active
+173,Philippines,PH,Active,2786,Shariff Kabunsuan,Active
+173,Philippines,PH,Active,2737,Central Luzon (Region III),Active
+173,Philippines,PH,Active,2769,Mountain Province,Active
+173,Philippines,PH,Active,2801,Zamboanga del Norte,Active
+173,Philippines,PH,Active,2720,Benguet,Active
+173,Philippines,PH,Active,2752,Ilocos Sur,Active
+173,Philippines,PH,Active,2784,Romblon,Active
+173,Philippines,PH,Active,2735,Cavite,Active
+173,Philippines,PH,Active,2767,Misamis Occidental,Active
+173,Philippines,PH,Active,2799,Western Visayas (Region VI),Active
+173,Philippines,PH,Active,2718,Batanes,Active
+173,Philippines,PH,Active,2750,Ilocos (Region I),Active
+173,Philippines,PH,Active,2782,Quirino,Active
+173,Philippines,PH,Active,2733,Caraga (Region XIII),Active
+173,Philippines,PH,Active,2765,Mindoro Occidental,Active
+173,Philippines,PH,Active,2797,Tawi-Tawi,Active
+173,Philippines,PH,Active,2716,Basilan,Active
+173,Philippines,PH,Active,2748,Guimaras,Active
+173,Philippines,PH,Active,2780,Pangasinan,Active
+173,Philippines,PH,Active,2731,Camiguin,Active
+173,Philippines,PH,Active,2763,Masbate,Active
+173,Philippines,PH,Active,2795,Surigao del Sur,Active
+173,Philippines,PH,Active,2714,Aurora,Active
+173,Philippines,PH,Active,2746,Eastern Samar,Active
+173,Philippines,PH,Active,2778,Palawan,Active
+173,Philippines,PH,Active,2729,Camarines Norte,Active
+173,Philippines,PH,Active,2761,Maguindanao,Active
+173,Philippines,PH,Active,2793,Sulu,Active
+173,Philippines,PH,Active,2712,Antique,Active
+173,Philippines,PH,Active,2744,Davao Oriental,Active
+173,Philippines,PH,Active,2776,Nueva Ecija,Active
+173,Philippines,PH,Active,4449,ALL [Placeholder],Active
+173,Philippines,PH,Active,2727,Cagayan Valley (Region II),Active
+173,Philippines,PH,Active,2759,Lanao del Sur,Active
+173,Philippines,PH,Active,2791,Southern Leyte,Active
+173,Philippines,PH,Active,2710,Aklan,Active
+173,Philippines,PH,Active,2742,Davao del Norte,Active
+173,Philippines,PH,Active,2774,Northern Mindanao (Region X),Active
+173,Philippines,PH,Active,2725,Bulacan,Active
+173,Philippines,PH,Active,2757,Laguna,Active
+173,Philippines,PH,Active,2789,Sorsogon,Active
+166,Pakistan,PK,Active,2608,Azad Kashmir,Active
+166,Pakistan,PK,Active,2615,Sind (en),Active
+166,Pakistan,PK,Active,2613,Northern Areas,Active
+166,Pakistan,PK,Active,2611,Islamabad,Active
+166,Pakistan,PK,Active,2609,Baluchistan (en),Active
+166,Pakistan,PK,Active,2614,Punjab,Active
+166,Pakistan,PK,Active,2612,North-West Frontier,Active
+166,Pakistan,PK,Active,2610,Federally Administered Tribal Areas,Active
+175,Poland,PL,Active,4567,Silesian Voivodeship,Active
+175,Poland,PL,Active,2819,Wielkopolskie,Active
+175,Poland,PL,Active,4563,Łódź Voivodeship,Active
+175,Poland,PL,Active,4565,Lesser Poland Voivodeship,Active
+175,Poland,PL,Active,2817,Swietokrzyskie,Active
+175,Poland,PL,Active,4561,Lower Silesian Voivodeship,Active
+175,Poland,PL,Active,2815,Pomorskie,Active
+175,Poland,PL,Active,2813,Podkarpackie,Active
+175,Poland,PL,Active,2811,Mazowieckie,Active
+175,Poland,PL,Active,2809,Ladzkie,Active
+175,Poland,PL,Active,2807,Lubelskie,Active
+175,Poland,PL,Active,4568,Greater Poland Voivodeship,Active
+175,Poland,PL,Active,2805,Dolnoslaskie,Active
+175,Poland,PL,Active,2820,Zachodniopomorskie,Active
+175,Poland,PL,Active,4566,Pomeranian Voivodeship,Active
+175,Poland,PL,Active,2818,Warminsko-mazurskie,Active
+175,Poland,PL,Active,4562,Kuyavian-Pomeranian Voivodeship,Active
+175,Poland,PL,Active,4564,Lublin Voivodeship,Active
+175,Poland,PL,Active,2816,Slaskie,Active
+175,Poland,PL,Active,2814,Podlaskie,Active
+175,Poland,PL,Active,2812,Opolskie,Active
+175,Poland,PL,Active,2810,Malopolskie,Active
+175,Poland,PL,Active,4487,ALL [Placeholder],Active
+175,Poland,PL,Active,2808,Lubuskie,Active
+175,Poland,PL,Active,4569,West Pomeranian Voivodeship,Active
+175,Poland,PL,Active,2806,Kujawsko-pomorskie,Active
+177,Puerto Rico,PR,Active,4455,ALL [Placeholder],Active
+176,Portugal,PT,Active,2838,Vila Real,Active
+176,Portugal,PT,Active,2836,Setabal,Active
+176,Portugal,PT,Active,2834,Regiao Autanoma dos AAsores,Active
+176,Portugal,PT,Active,2832,Porto,Active
+176,Portugal,PT,Active,2830,Lisboa,Active
+176,Portugal,PT,Active,4489,ALL [Placeholder],Active
+176,Portugal,PT,Active,2828,Guarda,Active
+176,Portugal,PT,Active,2824,BraganAsa,Active
+176,Portugal,PT,Active,2826,Coimbra,Active
+176,Portugal,PT,Active,2822,Beja,Active
+176,Portugal,PT,Active,2839,Viseu,Active
+176,Portugal,PT,Active,2837,Viana do Castelo,Active
+176,Portugal,PT,Active,2835,SantarAcm,Active
+176,Portugal,PT,Active,2833,Regiao Autanoma da Madeira,Active
+176,Portugal,PT,Active,2831,Portalegre,Active
+176,Portugal,PT,Active,2829,Leiria,Active
+176,Portugal,PT,Active,2825,Castelo Branco,Active
+176,Portugal,PT,Active,2827,Faro,Active
+176,Portugal,PT,Active,2823,Braga,Active
+176,Portugal,PT,Active,2821,Aveiro,Active
+176,Portugal,PT,Active,2840,avora,Active
+167,Palau,PW,Active,2627,Ngchesar,Active
+167,Palau,PW,Active,2623,Ngaraard,Active
+167,Palau,PW,Active,2625,Ngardmau,Active
+167,Palau,PW,Active,2621,Koror,Active
+167,Palau,PW,Active,2619,Hatobohei,Active
+167,Palau,PW,Active,2617,Airai,Active
+167,Palau,PW,Active,2630,Peleliu,Active
+167,Palau,PW,Active,2628,Ngeremlengui,Active
+167,Palau,PW,Active,2624,Ngarchelong,Active
+167,Palau,PW,Active,2626,Ngatpang,Active
+167,Palau,PW,Active,2622,Melekeok,Active
+167,Palau,PW,Active,2620,Kayangel,Active
+167,Palau,PW,Active,2618,Angaur,Active
+167,Palau,PW,Active,2616,Aimeliik,Active
+167,Palau,PW,Active,2631,Sonsorol,Active
+167,Palau,PW,Active,2629,Ngiwal,Active
+171,Paraguay,PY,Active,2676,Misiones,Active
+171,Paraguay,PY,Active,2674,Guaira,Active
+171,Paraguay,PY,Active,2672,Concepcian,Active
+171,Paraguay,PY,Active,2670,Canindeya,Active
+171,Paraguay,PY,Active,2668,Caaguaza,Active
+171,Paraguay,PY,Active,2666,Asuncian,Active
+171,Paraguay,PY,Active,2664,Alto Parana,Active
+171,Paraguay,PY,Active,2679,San Pedro,Active
+171,Paraguay,PY,Active,2677,ParaguarA­,Active
+171,Paraguay,PY,Active,4507,ALL [Placeholder],Active
+171,Paraguay,PY,Active,2675,Itapaa,Active
+171,Paraguay,PY,Active,2673,Cordillera,Active
+171,Paraguay,PY,Active,2671,Central,Active
+171,Paraguay,PY,Active,2669,Caazapa,Active
+171,Paraguay,PY,Active,2667,Boqueran,Active
+171,Paraguay,PY,Active,2665,Amambay,Active
+171,Paraguay,PY,Active,2680,A‘eembuca,Active
+171,Paraguay,PY,Active,2663,Alto Paraguay,Active
+171,Paraguay,PY,Active,2678,Presidente Hayes,Active
+178,Qatar,QA,Active,2849,Umm Sa'id,Active
+178,Qatar,QA,Active,2847,Jariyan al Batnah,Active
+178,Qatar,QA,Active,2845,Al Wakrah,Active
+178,Qatar,QA,Active,2843,Al Jumayliyah,Active
+178,Qatar,QA,Active,2841,Ad Dawhah,Active
+178,Qatar,QA,Active,2850,Umm Salal,Active
+178,Qatar,QA,Active,2848,Madinat ash Shamal,Active
+178,Qatar,QA,Active,4491,ALL [Placeholder],Active
+178,Qatar,QA,Active,2846,Ar Rayyan,Active
+178,Qatar,QA,Active,2844,Al Khawr,Active
+178,Qatar,QA,Active,2842,Al Ghuwayriyah,Active
+179,Romania,RO,Active,2855,Bihor,Active
+179,Romania,RO,Active,2887,Teleorman,Active
+179,Romania,RO,Active,2870,Giurgiu,Active
+179,Romania,RO,Active,2853,Arges,Active
+179,Romania,RO,Active,4535,ALL [Placeholder],Active
+179,Romania,RO,Active,2885,Sibiu,Active
+179,Romania,RO,Active,2868,Dambovita,Active
+179,Romania,RO,Active,2851,Alba,Active
+179,Romania,RO,Active,2883,Salaj,Active
+179,Romania,RO,Active,2866,Covasna,Active
+179,Romania,RO,Active,2881,Olt,Active
+179,Romania,RO,Active,2864,Cluj,Active
+179,Romania,RO,Active,2879,Mures,Active
+179,Romania,RO,Active,2862,Calarasi,Active
+179,Romania,RO,Active,2877,Maramures,Active
+179,Romania,RO,Active,2860,Bucuresti,Active
+179,Romania,RO,Active,2892,Valcea,Active
+179,Romania,RO,Active,2875,Iasi,Active
+179,Romania,RO,Active,2858,Braila,Active
+179,Romania,RO,Active,2890,Vaslui,Active
+179,Romania,RO,Active,2873,Hunedoara,Active
+179,Romania,RO,Active,2856,Bistrita-Nasaud,Active
+179,Romania,RO,Active,2888,Timis,Active
+179,Romania,RO,Active,2871,Gorj,Active
+179,Romania,RO,Active,2854,Bacau,Active
+179,Romania,RO,Active,2886,Suceava,Active
+179,Romania,RO,Active,2869,Galati,Active
+179,Romania,RO,Active,2852,Arad,Active
+179,Romania,RO,Active,2884,Satu Mare,Active
+179,Romania,RO,Active,2867,Dolj,Active
+179,Romania,RO,Active,2882,Prahova,Active
+179,Romania,RO,Active,2865,Constanta,Active
+179,Romania,RO,Active,2880,Neamt,Active
+179,Romania,RO,Active,2863,Caras-Severin,Active
+179,Romania,RO,Active,2878,Mehedinti,Active
+179,Romania,RO,Active,2861,Buzau,Active
+179,Romania,RO,Active,2876,Ilfov,Active
+179,Romania,RO,Active,2859,Brasov,Active
+179,Romania,RO,Active,2891,Vrancea,Active
+179,Romania,RO,Active,2874,Ialomita,Active
+179,Romania,RO,Active,2857,Botosani,Active
+179,Romania,RO,Active,2889,Tulcea,Active
+179,Romania,RO,Active,2872,Harghita,Active
+195,Serbia,RS,Active,3066,Niaavski okrug,Active
+195,Serbia,RS,Active,3081,ZapadnobaAki okrug,Active
+195,Serbia,RS,Active,3064,Macvanski okrug,Active
+195,Serbia,RS,Active,3079,TopliAki okrug,Active
+195,Serbia,RS,Active,3062,Kosovsko-Mitrovacki okrug,Active
+195,Serbia,RS,Active,3077,Srednjebanatski okrug,Active
+195,Serbia,RS,Active,3060,Kolubarski okrug,Active
+195,Serbia,RS,Active,3075,Severnobanatski okrug,Active
+195,Serbia,RS,Active,3058,Juanobanatski okrug 04,Active
+195,Serbia,RS,Active,3073,Rasinski okrug,Active
+195,Serbia,RS,Active,3056,Branicevski okrug,Active
+195,Serbia,RS,Active,3071,Prizrenski okrug,Active
+195,Serbia,RS,Active,3054,Belgrade,Active
+195,Serbia,RS,Active,3069,Podunavski okrug,Active
+195,Serbia,RS,Active,3067,Pecki okrug,Active
+195,Serbia,RS,Active,3082,Zlatiborski okrug,Active
+195,Serbia,RS,Active,3065,Moravicki okrug,Active
+195,Serbia,RS,Active,3080,ZajeAarski okrug,Active
+195,Serbia,RS,Active,3063,Kosovsko-Pomoravski okrug,Active
+195,Serbia,RS,Active,3078,Sremski okrug,Active
+195,Serbia,RS,Active,3061,Kosovski okrug,Active
+195,Serbia,RS,Active,3076,Severnobacki okrug,Active
+195,Serbia,RS,Active,3059,Juanobanatski okrug 06,Active
+195,Serbia,RS,Active,3074,Raaka okrug,Active
+195,Serbia,RS,Active,3057,Jablanicki okrug,Active
+195,Serbia,RS,Active,3072,Pcinjski okrug,Active
+195,Serbia,RS,Active,3055,Borski okrug,Active
+195,Serbia,RS,Active,3070,Pomoravski okrug,Active
+195,Serbia,RS,Active,3068,Pirotski okrug,Active
+195,Serbia,RS,Active,3083,A umadijski okrug,Active
+180,Russia,RU,Active,2919,Khabarovskiy kray,Active
+180,Russia,RU,Active,2951,"Sakha, Respublika [Yakutiya]",Active
+180,Russia,RU,Active,2934,"Mordoviya, Respublika",Active
+180,Russia,RU,Active,2966,"Tyva, Respublika [Tuva]",Active
+180,Russia,RU,Active,2902,"Buryatiya, Respublika",Active
+180,Russia,RU,Active,2917,"Kareliya, Respublika",Active
+180,Russia,RU,Active,2949,Rostovskaya oblast',Active
+180,Russia,RU,Active,2932,Magadanskaya oblast',Active
+180,Russia,RU,Active,2964,Tverskaya oblast',Active
+180,Russia,RU,Active,2900,Belgorodskaya oblast',Active
+180,Russia,RU,Active,4580,Perm Krai,Active
+180,Russia,RU,Active,2915,Kamchatskaya oblast',Active
+180,Russia,RU,Active,2947,Primorskiy kray,Active
+180,Russia,RU,Active,2930,Leningradskaya oblast',Active
+180,Russia,RU,Active,2962,Tomskaya oblast',Active
+180,Russia,RU,Active,2898,Astrakhanskaya oblast',Active
+180,Russia,RU,Active,2945,Penzenskaya oblast',Active
+180,Russia,RU,Active,2913,"Kalmykiya, Respublika",Active
+180,Russia,RU,Active,2928,Kurganskaya oblast',Active
+180,Russia,RU,Active,2960,Tambovskaya oblast',Active
+180,Russia,RU,Active,2896,Amurskaya oblast',Active
+180,Russia,RU,Active,2943,Orenburgskaya oblast',Active
+180,Russia,RU,Active,2975,Yevreyskaya avtonomnaya oblast',Active
+180,Russia,RU,Active,2911,Kabardino-Balkarskaya Respublika,Active
+180,Russia,RU,Active,2926,Krasnodarskiy kray,Active
+180,Russia,RU,Active,2958,Stavropol'skiy kray,Active
+180,Russia,RU,Active,2894,"Altay, Respublika",Active
+180,Russia,RU,Active,2941,Novosibirskaya oblast',Active
+180,Russia,RU,Active,2973,Yamalo-Nenetskiy avtonomnyy okrug,Active
+180,Russia,RU,Active,2909,Irkutskaya oblast',Active
+180,Russia,RU,Active,2924,Komi-Permyak,Active
+180,Russia,RU,Active,2956,"Severnaya Osetiya, Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya]",Active
+180,Russia,RU,Active,4451,ALL [Placeholder],Active
+180,Russia,RU,Active,2939,Nizhegorodskaya oblast',Active
+180,Russia,RU,Active,2971,Vologodskaya oblast',Active
+180,Russia,RU,Active,2907,"Dagestan, Respublika",Active
+180,Russia,RU,Active,2922,Kirovskaya oblast',Active
+180,Russia,RU,Active,2954,Sankt-Peterburg,Active
+180,Russia,RU,Active,2937,Murmanskaya oblast',Active
+180,Russia,RU,Active,2969,Vladimirskaya oblast',Active
+180,Russia,RU,Active,2905,Chukotskiy avtonomnyy okrug,Active
+180,Russia,RU,Active,2920,"Khakasiya, Respublika",Active
+180,Russia,RU,Active,2952,Sakhalinskaya oblast',Active
+180,Russia,RU,Active,2935,Moskovskaya oblast',Active
+180,Russia,RU,Active,2967,Udmurtskaya Respublika,Active
+180,Russia,RU,Active,2903,Chechenskaya Respublika,Active
+180,Russia,RU,Active,2918,Kemerovskaya oblast',Active
+180,Russia,RU,Active,2950,Ryazanskaya oblast',Active
+180,Russia,RU,Active,2933,"Mariy El, Respublika",Active
+180,Russia,RU,Active,2965,Tyumenskaya oblast',Active
+180,Russia,RU,Active,2901,Bryanskaya oblast',Active
+180,Russia,RU,Active,2916,Karachayevo-Cherkesskaya Respublika,Active
+180,Russia,RU,Active,2948,Pskovskaya oblast',Active
+180,Russia,RU,Active,2931,Lipetskaya oblast',Active
+180,Russia,RU,Active,2963,Tul'skaya oblast',Active
+180,Russia,RU,Active,2899,"Bashkortostan, Respublika",Active
+180,Russia,RU,Active,2914,Kaluzhskaya oblast',Active
+180,Russia,RU,Active,2946,Perm,Active
+180,Russia,RU,Active,2929,Kurskaya oblast',Active
+180,Russia,RU,Active,2961,"Tatarstan, Respublika",Active
+180,Russia,RU,Active,2897,Arkhangel'skaya oblast',Active
+180,Russia,RU,Active,2944,Orlovskaya oblast',Active
+180,Russia,RU,Active,2976,Zabajkal'skij kraj,Active
+180,Russia,RU,Active,2912,Kaliningradskaya oblast',Active
+180,Russia,RU,Active,2927,Krasnoyarskiy kray,Active
+180,Russia,RU,Active,2959,Sverdlovskaya oblast',Active
+180,Russia,RU,Active,2895,Altayskiy kray,Active
+180,Russia,RU,Active,2942,Omskaya oblast',Active
+180,Russia,RU,Active,2974,Yaroslavskaya oblast',Active
+180,Russia,RU,Active,2910,Ivanovskaya oblast',Active
+180,Russia,RU,Active,2925,Kostromskaya oblast',Active
+180,Russia,RU,Active,2957,Smolenskaya oblast',Active
+180,Russia,RU,Active,2893,"Adygeya, Respublika",Active
+180,Russia,RU,Active,2940,Novgorodskaya oblast',Active
+180,Russia,RU,Active,2972,Voronezhskaya oblast',Active
+180,Russia,RU,Active,2908,Ingushskaya Respublika [Respublika Ingushetiya],Active
+180,Russia,RU,Active,2923,"Komi, Respublika",Active
+180,Russia,RU,Active,2955,Saratovskaya oblast',Active
+180,Russia,RU,Active,2938,Nenetskiy avtonomnyy okrug,Active
+180,Russia,RU,Active,2970,Volgogradskaya oblast',Active
+180,Russia,RU,Active,2906,Chuvashskaya Respublika,Active
+180,Russia,RU,Active,2921,Khanty-Mansiyskiy avtonomnyy okrug [Yugra],Active
+180,Russia,RU,Active,2953,Samarskaya oblast',Active
+180,Russia,RU,Active,2936,Moskva,Active
+180,Russia,RU,Active,2968,Ul'yanovskaya oblast',Active
+180,Russia,RU,Active,2904,Chelyabinskaya oblast',Active
+181,Rwanda,RW,Active,2981,Ville de Kigali,Active
+181,Rwanda,RW,Active,2979,Ouest,Active
+181,Rwanda,RW,Active,2977,Est,Active
+181,Rwanda,RW,Active,2980,Sud,Active
+181,Rwanda,RW,Active,2978,Nord,Active
+193,Saudi Arabia,SA,Active,3034,Ar Riya,Active
+193,Saudi Arabia,SA,Active,3032,Al Madinah,Active
+193,Saudi Arabia,SA,Active,3030,Al Baah,Active
+193,Saudi Arabia,SA,Active,3028,Asir,Active
+193,Saudi Arabia,SA,Active,4493,ALL [Placeholder],Active
+193,Saudi Arabia,SA,Active,3039,Tabuk,Active
+193,Saudi Arabia,SA,Active,3037,Makkah,Active
+193,Saudi Arabia,SA,Active,3035,Ash Sharqiyah,Active
+193,Saudi Arabia,SA,Active,3033,Al Qasim,Active
+193,Saudi Arabia,SA,Active,3031,Al Jawf,Active
+193,Saudi Arabia,SA,Active,3029,Al udud ash Shamaliyah,Active
+193,Saudi Arabia,SA,Active,3027,a'il,Active
+193,Saudi Arabia,SA,Active,3038,Najran,Active
+193,Saudi Arabia,SA,Active,3036,Jizan,Active
+201,Solomon Islands,SB,Active,3342,Western,Active
+201,Solomon Islands,SB,Active,3340,Rennell and Bellona,Active
+201,Solomon Islands,SB,Active,3338,Makira,Active
+201,Solomon Islands,SB,Active,3336,Guadalcanal,Active
+201,Solomon Islands,SB,Active,3334,Central,Active
+201,Solomon Islands,SB,Active,3341,Temotu,Active
+201,Solomon Islands,SB,Active,3339,Malaita,Active
+201,Solomon Islands,SB,Active,3337,Isabel,Active
+201,Solomon Islands,SB,Active,3335,Choiseul,Active
+201,Solomon Islands,SB,Active,3333,Capital Territory (Honiara),Active
+196,Seychelles,SC,Active,3098,Grand Anse Praslin,Active
+196,Seychelles,SC,Active,3096,Glacis,Active
+196,Seychelles,SC,Active,3094,Cascade,Active
+196,Seychelles,SC,Active,3092,Bel Air,Active
+196,Seychelles,SC,Active,3107,Saint Louis,Active
+196,Seychelles,SC,Active,3090,Baie Sainte Anne,Active
+196,Seychelles,SC,Active,3105,Port Glaud,Active
+196,Seychelles,SC,Active,3088,Au Cap,Active
+196,Seychelles,SC,Active,3103,Plaisance,Active
+196,Seychelles,SC,Active,3086,Anse Royale,Active
+196,Seychelles,SC,Active,3101,Mont Buxton,Active
+196,Seychelles,SC,Active,3084,Anse aux Pins,Active
+196,Seychelles,SC,Active,3099,La Digue,Active
+196,Seychelles,SC,Active,3097,Grand Anse Mahe,Active
+196,Seychelles,SC,Active,3095,English River,Active
+196,Seychelles,SC,Active,3093,Bel Ombre,Active
+196,Seychelles,SC,Active,3108,Takamaka,Active
+196,Seychelles,SC,Active,3091,Beau Vallon,Active
+196,Seychelles,SC,Active,3106,Roche Caiman,Active
+196,Seychelles,SC,Active,3089,Baie Lazare,Active
+196,Seychelles,SC,Active,3104,Pointe La Rue,Active
+196,Seychelles,SC,Active,3087,Anse atoile,Active
+196,Seychelles,SC,Active,3102,Mont Fleuri,Active
+196,Seychelles,SC,Active,3085,Anse Boileau,Active
+196,Seychelles,SC,Active,3100,Les Mamelles,Active
+207,Sudan,SD,Active,3456,An Nil al Azraq,Active
+207,Sudan,SD,Active,3454,An Nil,Active
+207,Sudan,SD,Active,3471,Sinnar,Active
+207,Sudan,SD,Active,3452,Al Qaarif,Active
+207,Sudan,SD,Active,3469,Shamal Kurdufan,Active
+207,Sudan,SD,Active,3450,Al Jazirah,Active
+207,Sudan,SD,Active,3448,Al Bar al Amar,Active
+207,Sudan,SD,Active,3467,Shamal Bar al Ghazal,Active
+207,Sudan,SD,Active,3463,Janub Darfur,Active
+207,Sudan,SD,Active,3465,Junqali,Active
+207,Sudan,SD,Active,3461,Gharb Darfur,Active
+207,Sudan,SD,Active,3459,Gharb al Istiwa'iyah,Active
+207,Sudan,SD,Active,3457,Ash Shamaliyah,Active
+207,Sudan,SD,Active,3455,An Nil al Abya,Active
+207,Sudan,SD,Active,3472,Warab,Active
+207,Sudan,SD,Active,3453,Al Wadah,Active
+207,Sudan,SD,Active,3470,Sharq al Istiwa'iyah,Active
+207,Sudan,SD,Active,3451,Al Khartum,Active
+207,Sudan,SD,Active,3468,Shamal Darfur,Active
+207,Sudan,SD,Active,3449,Al Buayrat,Active
+207,Sudan,SD,Active,3464,Janub Kurdufan,Active
+207,Sudan,SD,Active,3447,Aali an Nil,Active
+207,Sudan,SD,Active,3466,Kassala,Active
+207,Sudan,SD,Active,3462,Gharb Kurdufan,Active
+207,Sudan,SD,Active,3460,Gharb Bar al Ghazal,Active
+207,Sudan,SD,Active,3458,Bar al Jabal,Active
+211,Sweden,SE,Active,3492,Jamtlands lan,Active
+211,Sweden,SE,Active,3507,Ostergotlands lan,Active
+211,Sweden,SE,Active,3490,Gavleborgs lan,Active
+211,Sweden,SE,Active,3505,Vastra Gotalands lan,Active
+211,Sweden,SE,Active,3488,Dalarnas lan,Active
+211,Sweden,SE,Active,3503,Vasternorrlands lan,Active
+211,Sweden,SE,Active,3501,Varmlands lan,Active
+211,Sweden,SE,Active,3499,Sodermanlands lan,Active
+211,Sweden,SE,Active,3497,Skane lan,Active
+211,Sweden,SE,Active,3495,Kronobergs lan,Active
+211,Sweden,SE,Active,3493,Jonkopings lan,Active
+211,Sweden,SE,Active,3491,Hallands lan,Active
+211,Sweden,SE,Active,3506,Orebro lan,Active
+211,Sweden,SE,Active,3489,Gotlands lan,Active
+211,Sweden,SE,Active,3504,Vastmanlands lan,Active
+211,Sweden,SE,Active,3487,Blekinge lan,Active
+211,Sweden,SE,Active,3502,Vasterbottens lan,Active
+211,Sweden,SE,Active,3500,Uppsala lan,Active
+211,Sweden,SE,Active,3498,Stockholms lan,Active
+211,Sweden,SE,Active,3496,Norrbottens lan,Active
+211,Sweden,SE,Active,3494,Kalmar lan,Active
+198,Singapore,SG,Active,3113,Singapore - No State,Active
+198,Singapore,SG,Active,4420,Singapore [PLACEHOLDER],Active
+184,Saint Helena,SH,Active,2983,Saint Helena,Active
+184,Saint Helena,SH,Active,2984,Tristan da Cunha,Active
+184,Saint Helena,SH,Active,2982,Ascension,Active
+200,Slovenia,SI,Active,3226,Moravce,Active
+200,Slovenia,SI,Active,4599,Drava Statistical Region,Active
+200,Slovenia,SI,Active,3130,Borovnica,Active
+200,Slovenia,SI,Active,3245,Poljcane,Active
+200,Slovenia,SI,Active,3162,Gornja Radgona,Active
+200,Slovenia,SI,Active,3277,Srediace ob Dravi,Active
+200,Slovenia,SI,Active,3194,Kranjska Gora,Active
+200,Slovenia,SI,Active,3309,Zrece,Active
+200,Slovenia,SI,Active,3228,Mozirje,Active
+200,Slovenia,SI,Active,3145,Crnomelj,Active
+200,Slovenia,SI,Active,3260,Rence-Vogrsko,Active
+200,Slovenia,SI,Active,3177,Izola/Isola,Active
+200,Slovenia,SI,Active,3292,Trzin,Active
+200,Slovenia,SI,Active,3209,Loaka dolina,Active
+200,Slovenia,SI,Active,3325,A oatanj,Active
+200,Slovenia,SI,Active,4597,Littoral–Inner Carniola Statistical Region,Active
+200,Slovenia,SI,Active,3128,Bloke,Active
+200,Slovenia,SI,Active,3243,Podlehnik,Active
+200,Slovenia,SI,Active,3160,Gorianica,Active
+200,Slovenia,SI,Active,3275,Sodraaica,Active
+200,Slovenia,SI,Active,3192,Kozje,Active
+200,Slovenia,SI,Active,3307,Zagorje ob Savi,Active
+200,Slovenia,SI,Active,3224,Mislinja,Active
+200,Slovenia,SI,Active,3143,Crenaovci,Active
+200,Slovenia,SI,Active,3258,Ravne na Koroakem,Active
+200,Slovenia,SI,Active,3175,Ilirska Bistrica,Active
+200,Slovenia,SI,Active,3290,Trebnje,Active
+200,Slovenia,SI,Active,3207,Logatec,Active
+200,Slovenia,SI,Active,3322,A martno ob Paki,Active
+200,Slovenia,SI,Active,3126,Bistrica ob Sotli,Active
+200,Slovenia,SI,Active,3241,Pivka,Active
+200,Slovenia,SI,Active,3158,Duplek,Active
+200,Slovenia,SI,Active,3273,Slovenska Bistrica,Active
+200,Slovenia,SI,Active,3190,Kosanjevica na Krki,Active
+200,Slovenia,SI,Active,3305,Vrhnika,Active
+200,Slovenia,SI,Active,3222,Miren-Kostanjevica,Active
+200,Slovenia,SI,Active,3141,Cerkvenjak,Active
+200,Slovenia,SI,Active,3256,Radlje ob Dravi,Active
+200,Slovenia,SI,Active,3173,Idrija,Active
+200,Slovenia,SI,Active,3288,Tolmin,Active
+200,Slovenia,SI,Active,3205,Ljutomer,Active
+200,Slovenia,SI,Active,3320,A marje pri Jelaah,Active
+200,Slovenia,SI,Active,3124,Beltinci,Active
+200,Slovenia,SI,Active,3239,Pesnica,Active
+200,Slovenia,SI,Active,3156,Dornava,Active
+200,Slovenia,SI,Active,3271,Seaana,Active
+200,Slovenia,SI,Active,3188,Komenda,Active
+200,Slovenia,SI,Active,3303,Vojnik,Active
+200,Slovenia,SI,Active,3220,Meaica,Active
+200,Slovenia,SI,Active,3139,Cerknica,Active
+200,Slovenia,SI,Active,3254,Radece,Active
+200,Slovenia,SI,Active,3171,Hrastnik,Active
+200,Slovenia,SI,Active,3286,Tabor,Active
+200,Slovenia,SI,Active,3203,Ljubljana,Active
+200,Slovenia,SI,Active,3318,A kofja Loka,Active
+200,Slovenia,SI,Active,3122,Ajdovacina,Active
+200,Slovenia,SI,Active,3237,Ormoa,Active
+200,Slovenia,SI,Active,3154,Dolenjske Toplice,Active
+200,Slovenia,SI,Active,3269,Semic,Active
+200,Slovenia,SI,Active,3186,Kocevje,Active
+200,Slovenia,SI,Active,3301,Vitanje,Active
+200,Slovenia,SI,Active,3218,Mengea,Active
+200,Slovenia,SI,Active,3137,Celje,Active
+200,Slovenia,SI,Active,3252,Puconci,Active
+200,Slovenia,SI,Active,3169,Hodoa/Hodos,Active
+200,Slovenia,SI,Active,3284,Sveti Jurij v Slovenskih Goricah,Active
+200,Slovenia,SI,Active,3201,Lendava/Lendva,Active
+200,Slovenia,SI,Active,3316,A entrupert,Active
+200,Slovenia,SI,Active,3332,auaemberk,Active
+200,Slovenia,SI,Active,3235,Odranci,Active
+200,Slovenia,SI,Active,3152,Dobrovnik/Dobronak,Active
+200,Slovenia,SI,Active,3267,Ruae,Active
+200,Slovenia,SI,Active,3184,Kobarid,Active
+200,Slovenia,SI,Active,3299,Videm,Active
+200,Slovenia,SI,Active,3216,Markovci,Active
+200,Slovenia,SI,Active,4604,Coastal–Karst Statistical Region,Active
+200,Slovenia,SI,Active,3135,Breaice,Active
+200,Slovenia,SI,Active,3250,Prevalje,Active
+200,Slovenia,SI,Active,3167,Hajdina,Active
+200,Slovenia,SI,Active,3282,Sveti Andraa v Slovenskih goricah,Active
+200,Slovenia,SI,Active,3199,Laako,Active
+200,Slovenia,SI,Active,3314,A entjernej,Active
+200,Slovenia,SI,Active,3330,airi,Active
+200,Slovenia,SI,Active,3233,Nova Gorica,Active
+200,Slovenia,SI,Active,3150,Dobrna,Active
+200,Slovenia,SI,Active,3265,Rogaaka Slatina,Active
+200,Slovenia,SI,Active,3182,Kanal,Active
+200,Slovenia,SI,Active,3297,Velike Laace,Active
+200,Slovenia,SI,Active,3214,Makole,Active
+200,Slovenia,SI,Active,4602,Central Slovenia Statistical Region,Active
+200,Slovenia,SI,Active,3133,Brda,Active
+200,Slovenia,SI,Active,3248,Prebold,Active
+200,Slovenia,SI,Active,3165,Grad,Active
+200,Slovenia,SI,Active,3280,Sveta Ana,Active
+200,Slovenia,SI,Active,3197,Kungota,Active
+200,Slovenia,SI,Active,3312,A encur,Active
+200,Slovenia,SI,Active,3231,Naklo,Active
+200,Slovenia,SI,Active,3148,Dobje,Active
+200,Slovenia,SI,Active,3263,Ribnica na Pohorju,Active
+200,Slovenia,SI,Active,3180,Jurainci,Active
+200,Slovenia,SI,Active,3295,Velenje,Active
+200,Slovenia,SI,Active,3212,Lukovica,Active
+200,Slovenia,SI,Active,3328,aelezniki,Active
+200,Slovenia,SI,Active,3227,Moravske Toplice,Active
+200,Slovenia,SI,Active,4600,Savinja Statistical Region,Active
+200,Slovenia,SI,Active,3131,Bovec,Active
+200,Slovenia,SI,Active,3246,Polzela,Active
+200,Slovenia,SI,Active,3163,Gornji Grad,Active
+200,Slovenia,SI,Active,3278,Starae,Active
+200,Slovenia,SI,Active,3195,Kriaevci,Active
+200,Slovenia,SI,Active,3310,A alovci,Active
+200,Slovenia,SI,Active,3229,Murska Sobota,Active
+200,Slovenia,SI,Active,3146,Destrnik,Active
+200,Slovenia,SI,Active,3261,Recica ob Savinji,Active
+200,Slovenia,SI,Active,3178,Jesenice,Active
+200,Slovenia,SI,Active,3293,Traic,Active
+200,Slovenia,SI,Active,3210,Loaki Potok,Active
+200,Slovenia,SI,Active,3326,A tore,Active
+200,Slovenia,SI,Active,3225,Mokronog-Trebelno,Active
+200,Slovenia,SI,Active,4598,Mura Statistical Region,Active
+200,Slovenia,SI,Active,3129,Bohinj,Active
+200,Slovenia,SI,Active,3244,Podvelka,Active
+200,Slovenia,SI,Active,3161,Gorje,Active
+200,Slovenia,SI,Active,3276,Solcava,Active
+200,Slovenia,SI,Active,3193,Kranj,Active
+200,Slovenia,SI,Active,3308,Zavrc,Active
+200,Slovenia,SI,Active,3144,Crna na Koroakem,Active
+200,Slovenia,SI,Active,3259,Razkriaje,Active
+200,Slovenia,SI,Active,3176,Ivancna Gorica,Active
+200,Slovenia,SI,Active,3291,Trnovska vas,Active
+200,Slovenia,SI,Active,3208,Lovrenc na Pohorju,Active
+200,Slovenia,SI,Active,3324,A martno pri Litiji,Active
+200,Slovenia,SI,Active,4596,Southeast Slovenia Statistical Region,Active
+200,Slovenia,SI,Active,3127,Bled,Active
+200,Slovenia,SI,Active,3242,Podcetrtek,Active
+200,Slovenia,SI,Active,3159,Gorenja vas-Poljane,Active
+200,Slovenia,SI,Active,3274,Slovenske Konjice,Active
+200,Slovenia,SI,Active,3191,Kostel,Active
+200,Slovenia,SI,Active,3306,Vuzenica,Active
+200,Slovenia,SI,Active,3223,Mirna Pec,Active
+200,Slovenia,SI,Active,3142,Cirkulane,Active
+200,Slovenia,SI,Active,3257,Radovljica,Active
+200,Slovenia,SI,Active,3174,Ig,Active
+200,Slovenia,SI,Active,3289,Trbovlje,Active
+200,Slovenia,SI,Active,3206,Log-Dragomer,Active
+200,Slovenia,SI,Active,3321,A marjeake Toplice,Active
+200,Slovenia,SI,Active,3125,Benedikt,Active
+200,Slovenia,SI,Active,3240,Piran/Pirano,Active
+200,Slovenia,SI,Active,3157,Dravograd,Active
+200,Slovenia,SI,Active,3272,Slovenj Gradec,Active
+200,Slovenia,SI,Active,3189,Koper/Capodistria,Active
+200,Slovenia,SI,Active,3304,Vransko,Active
+200,Slovenia,SI,Active,3221,Miklava na Dravskem polju,Active
+200,Slovenia,SI,Active,3140,Cerkno,Active
+200,Slovenia,SI,Active,3255,Radenci,Active
+200,Slovenia,SI,Active,3172,Hrpelje-Kozina,Active
+200,Slovenia,SI,Active,3287,Tiaina,Active
+200,Slovenia,SI,Active,3204,Ljubno,Active
+200,Slovenia,SI,Active,3319,A kofljica,Active
+200,Slovenia,SI,Active,3123,Apace,Active
+200,Slovenia,SI,Active,3238,Osilnica,Active
+200,Slovenia,SI,Active,3155,Domaale,Active
+200,Slovenia,SI,Active,3270,Sevnica,Active
+200,Slovenia,SI,Active,3187,Komen,Active
+200,Slovenia,SI,Active,3302,Vodice,Active
+200,Slovenia,SI,Active,3219,Metlika,Active
+200,Slovenia,SI,Active,3138,Cerklje na Gorenjskem,Active
+200,Slovenia,SI,Active,3253,Race-Fram,Active
+200,Slovenia,SI,Active,3170,Horjul,Active
+200,Slovenia,SI,Active,3285,Sveti Tomaa,Active
+200,Slovenia,SI,Active,3202,Litija,Active
+200,Slovenia,SI,Active,3317,A kocjan,Active
+200,Slovenia,SI,Active,3236,Oplotnica,Active
+200,Slovenia,SI,Active,3153,Dol pri Ljubljani,Active
+200,Slovenia,SI,Active,3268,Selnica ob Dravi,Active
+200,Slovenia,SI,Active,3185,Kobilje,Active
+200,Slovenia,SI,Active,3300,Vipava,Active
+200,Slovenia,SI,Active,3217,Medvode,Active
+200,Slovenia,SI,Active,4605,Goriška Statistical Region,Active
+200,Slovenia,SI,Active,3136,Cankova,Active
+200,Slovenia,SI,Active,3251,Ptuj,Active
+200,Slovenia,SI,Active,3168,Hoce-Slivnica,Active
+200,Slovenia,SI,Active,3283,Sveti Jurij,Active
+200,Slovenia,SI,Active,3200,Lenart,Active
+200,Slovenia,SI,Active,3315,A entjur pri Celju,Active
+200,Slovenia,SI,Active,3331,airovnica,Active
+200,Slovenia,SI,Active,3234,Novo mesto,Active
+200,Slovenia,SI,Active,3151,Dobrova-Polhov Gradec,Active
+200,Slovenia,SI,Active,3266,Rogaaovci,Active
+200,Slovenia,SI,Active,3183,Kidricevo,Active
+200,Slovenia,SI,Active,3298,Veraej,Active
+200,Slovenia,SI,Active,3215,Maribor,Active
+200,Slovenia,SI,Active,4603,Upper Carniola Statistical Region,Active
+200,Slovenia,SI,Active,3134,Brezovica,Active
+200,Slovenia,SI,Active,3249,Preddvor,Active
+200,Slovenia,SI,Active,3166,Grosuplje,Active
+200,Slovenia,SI,Active,3281,Sveta Trojica v Slovenskih Goricah,Active
+200,Slovenia,SI,Active,3198,Kuzma,Active
+200,Slovenia,SI,Active,3313,A entilj,Active
+200,Slovenia,SI,Active,3232,Nazarje,Active
+200,Slovenia,SI,Active,3149,Dobrepolje,Active
+200,Slovenia,SI,Active,3264,Rogatec,Active
+200,Slovenia,SI,Active,3181,Kamnik,Active
+200,Slovenia,SI,Active,3296,Velika Polana,Active
+200,Slovenia,SI,Active,3213,Majaperk,Active
+200,Slovenia,SI,Active,3329,aetale,Active
+200,Slovenia,SI,Active,4601,Central Sava Statistical Region,Active
+200,Slovenia,SI,Active,3132,Braslovce,Active
+200,Slovenia,SI,Active,3247,Postojna,Active
+200,Slovenia,SI,Active,3164,Gornji Petrovci,Active
+200,Slovenia,SI,Active,3279,Straaa,Active
+200,Slovenia,SI,Active,3196,Krako,Active
+200,Slovenia,SI,Active,3311,A empeter-Vrtojba,Active
+200,Slovenia,SI,Active,3230,Muta,Active
+200,Slovenia,SI,Active,3147,Divaca,Active
+200,Slovenia,SI,Active,3262,Ribnica,Active
+200,Slovenia,SI,Active,3179,Jezersko,Active
+200,Slovenia,SI,Active,3294,Turniace,Active
+200,Slovenia,SI,Active,3211,Luce,Active
+200,Slovenia,SI,Active,3327,aalec,Active
+199,Slovakia,SK,Active,3120,Trnavska kraj,Active
+199,Slovakia,SK,Active,3118,Preaovska kraj,Active
+199,Slovakia,SK,Active,4570,Žilina Region,Active
+199,Slovakia,SK,Active,3116,Koaicka kraj,Active
+199,Slovakia,SK,Active,3114,Banskobystricka kraj,Active
+199,Slovakia,SK,Active,3121,ailinska kraj,Active
+199,Slovakia,SK,Active,3119,Trenciansky kraj,Active
+199,Slovakia,SK,Active,3117,Nitriansky kraj,Active
+199,Slovakia,SK,Active,3115,Bratislavska kraj,Active
+197,Sierra Leone,SL,Active,3111,Southern,Active
+197,Sierra Leone,SL,Active,3109,Eastern,Active
+197,Sierra Leone,SL,Active,3112,Western Area (Freetown),Active
+197,Sierra Leone,SL,Active,3110,Northern,Active
+191,San Marino,SM,Active,3024,Serravalle,Active
+191,San Marino,SM,Active,3022,Montegiardino,Active
+191,San Marino,SM,Active,3020,Faetano,Active
+191,San Marino,SM,Active,3018,Chiesanuova,Active
+191,San Marino,SM,Active,3016,Acquaviva,Active
+191,San Marino,SM,Active,3023,San Marino,Active
+191,San Marino,SM,Active,3021,Fiorentino,Active
+191,San Marino,SM,Active,3019,Domagnano,Active
+191,San Marino,SM,Active,3017,Borgo Maggiore,Active
+194,Senegal,SN,Active,3049,Saint-Louis,Active
+194,Senegal,SN,Active,3047,Louga,Active
+194,Senegal,SN,Active,3045,Kolda,Active
+194,Senegal,SN,Active,3043,Kaffrine,Active
+194,Senegal,SN,Active,3041,Diourbel,Active
+194,Senegal,SN,Active,3052,ThiAs,Active
+194,Senegal,SN,Active,3050,SAcdhiou,Active
+194,Senegal,SN,Active,3048,Matam,Active
+194,Senegal,SN,Active,3046,KAcdougou,Active
+194,Senegal,SN,Active,3044,Kaolack,Active
+194,Senegal,SN,Active,3042,Fatick,Active
+194,Senegal,SN,Active,3040,Dakar,Active
+194,Senegal,SN,Active,3053,Ziguinchor,Active
+194,Senegal,SN,Active,3051,Tambacounda,Active
+202,Somalia,SO,Active,3357,Shabeellaha Hoose,Active
+202,Somalia,SO,Active,3355,Sanaag,Active
+202,Somalia,SO,Active,3353,Mudug,Active
+202,Somalia,SO,Active,3351,Jubbada Dhexe,Active
+202,Somalia,SO,Active,3349,Gedo,Active
+202,Somalia,SO,Active,3347,Bay,Active
+202,Somalia,SO,Active,3345,Banaadir,Active
+202,Somalia,SO,Active,3360,Woqooyi Galbeed,Active
+202,Somalia,SO,Active,3343,Awdal,Active
+202,Somalia,SO,Active,3358,Sool,Active
+202,Somalia,SO,Active,3356,Shabeellaha Dhexe,Active
+202,Somalia,SO,Active,3354,Nugaal,Active
+202,Somalia,SO,Active,3352,Jubbada Hoose,Active
+202,Somalia,SO,Active,3350,Hiiraan,Active
+202,Somalia,SO,Active,3348,Galguduud,Active
+202,Somalia,SO,Active,3346,Bari,Active
+202,Somalia,SO,Active,3344,Bakool,Active
+202,Somalia,SO,Active,3359,Togdheer,Active
+208,Suriname,SR,Active,3475,Coronie,Active
+208,Suriname,SR,Active,3473,Brokopondo,Active
+208,Suriname,SR,Active,3482,Wanica,Active
+208,Suriname,SR,Active,3480,Saramacca,Active
+208,Suriname,SR,Active,3478,Para,Active
+208,Suriname,SR,Active,3476,Marowijne,Active
+208,Suriname,SR,Active,3474,Commewijne,Active
+208,Suriname,SR,Active,3481,Sipaliwini,Active
+208,Suriname,SR,Active,3479,Paramaribo,Active
+208,Suriname,SR,Active,3477,Nickerie,Active
+192,Sao Tome and Principe,ST,Active,3026,Sao TomAc,Active
+192,Sao Tome and Principe,ST,Active,3025,PrA­ncipe,Active
+64,El Salvador,SV,Active,1053,Usulutan,Active
+64,El Salvador,SV,Active,1051,Santa Ana,Active
+64,El Salvador,SV,Active,1049,San Salvador,Active
+64,El Salvador,SV,Active,1047,Morazan,Active
+64,El Salvador,SV,Active,1045,La Paz,Active
+64,El Salvador,SV,Active,1043,Cuscatlan,Active
+64,El Salvador,SV,Active,1041,Cabaaas,Active
+64,El Salvador,SV,Active,1052,Sonsonate,Active
+64,El Salvador,SV,Active,1050,San Vicente,Active
+64,El Salvador,SV,Active,1048,San Miguel,Active
+64,El Salvador,SV,Active,1046,La Unian,Active
+64,El Salvador,SV,Active,4521,ALL [Placeholder],Active
+64,El Salvador,SV,Active,1044,La Libertad,Active
+64,El Salvador,SV,Active,1042,Chalatenango,Active
+64,El Salvador,SV,Active,1040,Ahuachapan,Active
+213,Syria,SY,Active,3539,Al Qunaytirah,Active
+213,Syria,SY,Active,3537,Al asakah,Active
+213,Syria,SY,Active,3535,amah,Active
+213,Syria,SY,Active,3546,Rif Dimashq,Active
+213,Syria,SY,Active,3544,Dimashq,Active
+213,Syria,SY,Active,3542,Dara,Active
+213,Syria,SY,Active,3540,Ar Raqqah,Active
+213,Syria,SY,Active,3538,Al Ladhiqiyah,Active
+213,Syria,SY,Active,3536,ims,Active
+213,Syria,SY,Active,4495,ALL [Placeholder],Active
+213,Syria,SY,Active,3534,alab,Active
+213,Syria,SY,Active,3547,Tartus,Active
+213,Syria,SY,Active,3545,Idlib,Active
+213,Syria,SY,Active,3543,Dayr az Zawr,Active
+213,Syria,SY,Active,3541,As Suwayda',Active
+210,Swaziland,SZ,Active,3486,Shiselweni,Active
+210,Swaziland,SZ,Active,3484,Lubombo,Active
+210,Swaziland,SZ,Active,3485,Manzini,Active
+210,Swaziland,SZ,Active,3483,Hhohho,Active
+42,Chad,TD,Active,725,Tibasti,Active
+42,Chad,TD,Active,708,Al Bahaah,Active
+42,Chad,TD,Active,723,Shari Baqirmi,Active
+42,Chad,TD,Active,721,Salamat,Active
+42,Chad,TD,Active,719,Mayu Kibbi ash Sharqi,Active
+42,Chad,TD,Active,717,Mandul,Active
+42,Chad,TD,Active,715,Luqun ash Sharqi,Active
+42,Chad,TD,Active,713,Kanim,Active
+42,Chad,TD,Active,728,Wadi Fira,Active
+42,Chad,TD,Active,711,Burku,Active
+42,Chad,TD,Active,726,Tanjili,Active
+42,Chad,TD,Active,709,Al Buhaayrah,Active
+42,Chad,TD,Active,724,Sila,Active
+42,Chad,TD,Active,722,Shari al Awsa,Active
+42,Chad,TD,Active,720,Qira,Active
+42,Chad,TD,Active,718,Mayu Kibbi al Gharbi,Active
+42,Chad,TD,Active,716,Madinat Injamina,Active
+42,Chad,TD,Active,714,Luqun al Gharbi,Active
+42,Chad,TD,Active,729,ajjar Lamis,Active
+42,Chad,TD,Active,712,Innidi,Active
+42,Chad,TD,Active,727,Wadday,Active
+42,Chad,TD,Active,710,Bahar al Ghazal,Active
+76,French Southern Territories,TF,Active,1213,Iles Eparses,Active
+76,French Southern Territories,TF,Active,1211,Crozet Islands,Active
+76,French Southern Territories,TF,Active,1214,Kerguelen,Active
+76,French Southern Territories,TF,Active,1212,Ile Saint-Paul et Ile Amsterdam,Active
+219,Togo,TG,Active,3693,Plateaux,Active
+219,Togo,TG,Active,3691,Kara,Active
+219,Togo,TG,Active,3694,Savannes,Active
+219,Togo,TG,Active,3692,Maritime (RAcgion),Active
+219,Togo,TG,Active,3690,Centre,Active
+217,Thailand,TH,Active,3620,Lop Buri,Active
+217,Thailand,TH,Active,3652,Rayong,Active
+217,Thailand,TH,Active,3671,Ubon Ratchathani,Active
+217,Thailand,TH,Active,3603,Chachoengsao,Active
+217,Thailand,TH,Active,3635,Pathum Thani,Active
+217,Thailand,TH,Active,3618,Lamphun,Active
+217,Thailand,TH,Active,3650,Ranong,Active
+217,Thailand,TH,Active,3669,Trang,Active
+217,Thailand,TH,Active,3601,Ang Thong,Active
+217,Thailand,TH,Active,3633,Nong Khai,Active
+217,Thailand,TH,Active,3665,Suphan Buri,Active
+217,Thailand,TH,Active,3616,Krung Thep Maha Nakhon [Bangkok],Active
+217,Thailand,TH,Active,3648,Prachin Buri,Active
+217,Thailand,TH,Active,3667,Surin,Active
+217,Thailand,TH,Active,3631,Narathiwat,Active
+217,Thailand,TH,Active,3663,Songkhla,Active
+217,Thailand,TH,Active,3614,Khon Kaen,Active
+217,Thailand,TH,Active,3646,Phrae,Active
+217,Thailand,TH,Active,3629,Nakhon Si Thammarat,Active
+217,Thailand,TH,Active,3661,Si Sa Ket,Active
+217,Thailand,TH,Active,3612,Kamphaeng Phet,Active
+217,Thailand,TH,Active,3644,Phitsanulok,Active
+217,Thailand,TH,Active,3627,Nakhon Ratchasima,Active
+217,Thailand,TH,Active,3659,Saraburi,Active
+217,Thailand,TH,Active,3610,Chumphon,Active
+217,Thailand,TH,Active,3642,Phetchaburi,Active
+217,Thailand,TH,Active,3676,Yasothon,Active
+217,Thailand,TH,Active,3625,Nakhon Pathom,Active
+217,Thailand,TH,Active,3657,Samut Sakhon,Active
+217,Thailand,TH,Active,3608,Chiang Rai,Active
+217,Thailand,TH,Active,3640,Phayao,Active
+217,Thailand,TH,Active,3623,Mukdahan,Active
+217,Thailand,TH,Active,3655,Sakon Nakhon,Active
+217,Thailand,TH,Active,3674,Uttaradit,Active
+217,Thailand,TH,Active,3606,Chanthaburi,Active
+217,Thailand,TH,Active,3638,Phatthalung,Active
+217,Thailand,TH,Active,3621,Mae Hong Son,Active
+217,Thailand,TH,Active,4541,Bueng Kan,Active
+217,Thailand,TH,Active,3653,Roi Et,Active
+217,Thailand,TH,Active,3672,Udon Thani,Active
+217,Thailand,TH,Active,3604,Chai Nat,Active
+217,Thailand,TH,Active,3636,Pattani,Active
+217,Thailand,TH,Active,3619,Loei,Active
+217,Thailand,TH,Active,3651,Ratchaburi,Active
+217,Thailand,TH,Active,3670,Trat,Active
+217,Thailand,TH,Active,3602,Buri Ram,Active
+217,Thailand,TH,Active,3634,Nonthaburi,Active
+217,Thailand,TH,Active,3617,Lampang,Active
+217,Thailand,TH,Active,3649,Prachuap Khiri Khan,Active
+217,Thailand,TH,Active,3668,Tak,Active
+217,Thailand,TH,Active,3600,Amnat Charoen,Active
+217,Thailand,TH,Active,3632,Nong Bua Lam Phu,Active
+217,Thailand,TH,Active,3664,Sukhothai,Active
+217,Thailand,TH,Active,3615,Krabi,Active
+217,Thailand,TH,Active,3647,Phuket,Active
+217,Thailand,TH,Active,3666,Surat Thani,Active
+217,Thailand,TH,Active,3630,Nan,Active
+217,Thailand,TH,Active,3662,Sing Buri,Active
+217,Thailand,TH,Active,3613,Kanchanaburi,Active
+217,Thailand,TH,Active,3645,Phra Nakhon Si Ayutthaya,Active
+217,Thailand,TH,Active,3628,Nakhon Sawan,Active
+217,Thailand,TH,Active,3660,Satun,Active
+217,Thailand,TH,Active,3611,Kalasin,Active
+217,Thailand,TH,Active,3643,Phichit,Active
+217,Thailand,TH,Active,3626,Nakhon Phanom,Active
+217,Thailand,TH,Active,3658,Samut Songkhram,Active
+217,Thailand,TH,Active,3609,Chon Buri,Active
+217,Thailand,TH,Active,3641,Phetchabun,Active
+217,Thailand,TH,Active,3624,Nakhon Nayok,Active
+217,Thailand,TH,Active,3656,Samut Prakan,Active
+217,Thailand,TH,Active,3675,Yala,Active
+217,Thailand,TH,Active,3607,Chiang Mai,Active
+217,Thailand,TH,Active,3639,Phatthaya,Inactive
+217,Thailand,TH,Active,3622,Maha Sarakham,Active
+217,Thailand,TH,Active,3654,Sa Kaeo,Active
+217,Thailand,TH,Active,3673,Uthai Thani,Active
+217,Thailand,TH,Active,4445,ALL [Placeholder],Inactive
+217,Thailand,TH,Active,3605,Chaiyaphum,Active
+217,Thailand,TH,Active,3637,Phangnga,Active
+215,Tajikistan,TJ,Active,3571,Gorno-Badakhshan,Active
+215,Tajikistan,TJ,Active,3572,Khatlon,Active
+215,Tajikistan,TJ,Active,3573,Sughd,Active
+218,East Timor,TL,Active,3686,Manatuto,Active
+218,East Timor,TL,Active,3684,Lautem,Active
+218,East Timor,TL,Active,3682,Dili,Active
+218,East Timor,TL,Active,3680,Bobonaro,Active
+218,East Timor,TL,Active,3678,Ainaro,Active
+218,East Timor,TL,Active,3689,Viqueque,Active
+218,East Timor,TL,Active,3687,Manufahi,Active
+218,East Timor,TL,Active,3685,LiquiAsa,Active
+218,East Timor,TL,Active,3683,Ermera,Active
+218,East Timor,TL,Active,3681,Cova Lima,Active
+218,East Timor,TL,Active,3679,Baucau,Active
+218,East Timor,TL,Active,3677,Aileu,Active
+218,East Timor,TL,Active,3688,Oecussi,Active
+225,Turkmenistan,TM,Active,3825,Mary,Active
+225,Turkmenistan,TM,Active,3823,Dasoguz,Active
+225,Turkmenistan,TM,Active,3821,Ahal,Active
+225,Turkmenistan,TM,Active,3824,Lebap,Active
+225,Turkmenistan,TM,Active,3822,Balkan,Active
+223,Tunisia,TN,Active,3735,Sousse,Active
+223,Tunisia,TN,Active,3718,BAcja,Active
+223,Tunisia,TN,Active,3733,Sidi Bouzid,Active
+223,Tunisia,TN,Active,3716,Ben Arous,Active
+223,Tunisia,TN,Active,3731,Nabeul,Active
+223,Tunisia,TN,Active,3729,Medenine,Active
+223,Tunisia,TN,Active,3727,Le Kef,Active
+223,Tunisia,TN,Active,3725,L'Ariana,Active
+223,Tunisia,TN,Active,3723,Kasserine,Active
+223,Tunisia,TN,Active,3738,Tunis,Active
+223,Tunisia,TN,Active,3721,Jendouba,Active
+223,Tunisia,TN,Active,3736,Tataouine,Active
+223,Tunisia,TN,Active,3719,GabAs,Active
+223,Tunisia,TN,Active,4537,ALL [Placeholder],Active
+223,Tunisia,TN,Active,3734,Siliana,Active
+223,Tunisia,TN,Active,3717,Bizerte,Active
+223,Tunisia,TN,Active,3732,Sfax,Active
+223,Tunisia,TN,Active,3730,Monastir,Active
+223,Tunisia,TN,Active,3728,Mahdia,Active
+223,Tunisia,TN,Active,3726,La Manouba,Active
+223,Tunisia,TN,Active,3724,Kebili,Active
+223,Tunisia,TN,Active,3739,Zaghouan,Active
+223,Tunisia,TN,Active,3722,Kairouan,Active
+223,Tunisia,TN,Active,3737,Tozeur,Active
+223,Tunisia,TN,Active,3720,Gafsa,Active
+221,Tonga,TO,Active,3699,Vava'u,Active
+221,Tonga,TO,Active,3697,Niuas,Active
+221,Tonga,TO,Active,3695,'Eua,Active
+221,Tonga,TO,Active,3698,Tongatapu,Active
+221,Tonga,TO,Active,3696,Ha'apai,Active
+224,Turkey,TR,Active,3799,Ordu,Active
+224,Turkey,TR,Active,3767,Erzurum,Active
+224,Turkey,TR,Active,3782,Kars,Active
+224,Turkey,TR,Active,3814,Van,Active
+224,Turkey,TR,Active,3750,Aydin,Active
+224,Turkey,TR,Active,3797,Nevsehir,Active
+224,Turkey,TR,Active,3765,Elazig,Active
+224,Turkey,TR,Active,3780,Karabak,Active
+224,Turkey,TR,Active,3812,Tunceli,Active
+224,Turkey,TR,Active,3748,Ardahan,Active
+224,Turkey,TR,Active,3795,Mugla,Active
+224,Turkey,TR,Active,3763,Dazce,Active
+224,Turkey,TR,Active,3810,Tokat,Active
+224,Turkey,TR,Active,3746,Ankara,Active
+224,Turkey,TR,Active,3778,IAsel,Active
+224,Turkey,TR,Active,3793,Manisa,Active
+224,Turkey,TR,Active,3761,Denizli,Active
+224,Turkey,TR,Active,3808,Sivas,Active
+224,Turkey,TR,Active,3744,Aksaray,Active
+224,Turkey,TR,Active,3776,Istanbul,Active
+224,Turkey,TR,Active,3791,Katahya,Active
+224,Turkey,TR,Active,3759,Burdur,Active
+224,Turkey,TR,Active,3806,Sinop,Active
+224,Turkey,TR,Active,3742,Afyon,Active
+224,Turkey,TR,Active,3774,Igdir,Active
+224,Turkey,TR,Active,3789,Kocaeli,Active
+224,Turkey,TR,Active,3757,Bitlis,Active
+224,Turkey,TR,Active,3804,Sanliurfa,Active
+224,Turkey,TR,Active,3740,Adana,Active
+224,Turkey,TR,Active,3772,Hakkari,Active
+224,Turkey,TR,Active,3787,Kirklareli,Active
+224,Turkey,TR,Active,3819,aankiri,Active
+224,Turkey,TR,Active,3755,Bilecik,Active
+224,Turkey,TR,Active,3802,Sakarya,Active
+224,Turkey,TR,Active,3770,Giresun,Active
+224,Turkey,TR,Active,3785,Kilis,Active
+224,Turkey,TR,Active,3817,Zonguldak,Active
+224,Turkey,TR,Active,3753,Batman,Active
+224,Turkey,TR,Active,3800,Osmaniye,Active
+224,Turkey,TR,Active,3768,Eskisehir,Active
+224,Turkey,TR,Active,3783,Kastamonu,Active
+224,Turkey,TR,Active,3815,Yalova,Active
+224,Turkey,TR,Active,3751,Balikesir,Active
+224,Turkey,TR,Active,3798,Nigde,Active
+224,Turkey,TR,Active,3766,Erzincan,Active
+224,Turkey,TR,Active,3781,Karaman,Active
+224,Turkey,TR,Active,3813,Usak,Active
+224,Turkey,TR,Active,3749,Artvin,Active
+224,Turkey,TR,Active,3796,Mus,Active
+224,Turkey,TR,Active,3764,Edirne,Active
+224,Turkey,TR,Active,3779,Kahramanmaras,Active
+224,Turkey,TR,Active,3811,Trabzon,Active
+224,Turkey,TR,Active,3747,Antalya,Active
+224,Turkey,TR,Active,3794,Mardin,Active
+224,Turkey,TR,Active,3762,Diyarbakir,Active
+224,Turkey,TR,Active,3809,Tekirdag,Active
+224,Turkey,TR,Active,3745,Amasya,Active
+224,Turkey,TR,Active,3777,Izmir,Active
+224,Turkey,TR,Active,3792,Malatya,Active
+224,Turkey,TR,Active,3760,Bursa,Active
+224,Turkey,TR,Active,3807,Sirnak,Active
+224,Turkey,TR,Active,3743,Agri,Active
+224,Turkey,TR,Active,3775,Isparta,Active
+224,Turkey,TR,Active,3790,Konya,Active
+224,Turkey,TR,Active,3758,Bolu,Active
+224,Turkey,TR,Active,3805,Siirt,Active
+224,Turkey,TR,Active,3741,Adiyaman,Active
+224,Turkey,TR,Active,3773,Hatay,Active
+224,Turkey,TR,Active,3788,Kirsehir,Active
+224,Turkey,TR,Active,4453,ALL [Placeholder],Active
+224,Turkey,TR,Active,3820,aorum,Active
+224,Turkey,TR,Active,3756,Bingal,Active
+224,Turkey,TR,Active,3803,Samsun,Active
+224,Turkey,TR,Active,3771,Gamashane,Active
+224,Turkey,TR,Active,3786,Kirikkale,Active
+224,Turkey,TR,Active,3818,aanakkale,Active
+224,Turkey,TR,Active,3754,Bayburt,Active
+224,Turkey,TR,Active,3801,Rize,Active
+224,Turkey,TR,Active,3769,Gaziantep,Active
+224,Turkey,TR,Active,3784,Kayseri,Active
+224,Turkey,TR,Active,3816,Yozgat,Active
+224,Turkey,TR,Active,3752,Bartin,Active
+222,Trinidad and Tobago,TT,Active,3703,Diego Martin,Active
+222,Trinidad and Tobago,TT,Active,3701,Chaguanas,Active
+222,Trinidad and Tobago,TT,Active,3714,Tunapuna-Piarco,Active
+222,Trinidad and Tobago,TT,Active,3712,Sangre Grande,Active
+222,Trinidad and Tobago,TT,Active,3710,San Fernando,Active
+222,Trinidad and Tobago,TT,Active,3708,Princes Town,Active
+222,Trinidad and Tobago,TT,Active,3706,Point Fortin,Active
+222,Trinidad and Tobago,TT,Active,3704,Eastern Tobago,Active
+222,Trinidad and Tobago,TT,Active,3702,Couva-Tabaquite-Talparo,Active
+222,Trinidad and Tobago,TT,Active,3700,Arima,Active
+222,Trinidad and Tobago,TT,Active,3715,Western Tobago,Active
+222,Trinidad and Tobago,TT,Active,3713,Siparia,Active
+222,Trinidad and Tobago,TT,Active,3711,San Juan-Laventille,Active
+222,Trinidad and Tobago,TT,Active,3709,Rio Claro-Mayaro,Active
+222,Trinidad and Tobago,TT,Active,3707,Port of Spain,Active
+222,Trinidad and Tobago,TT,Active,3705,Penal-Debe,Active
+227,Tuvalu,TV,Active,3831,Nukufetau,Active
+227,Tuvalu,TV,Active,3829,Niutao,Active
+227,Tuvalu,TV,Active,3827,Nanumanga,Active
+227,Tuvalu,TV,Active,3832,Nukulaelae,Active
+227,Tuvalu,TV,Active,3830,Nui,Active
+227,Tuvalu,TV,Active,3828,Nanumea,Active
+227,Tuvalu,TV,Active,3826,Funafuti,Active
+227,Tuvalu,TV,Active,3833,Vaitupu,Active
+214,Taiwan,TW,Active,3556,Kaohsiung Special Municipality,Active
+214,Taiwan,TW,Active,3554,Ilan,Active
+214,Taiwan,TW,Active,3569,Taoyuan,Active
+214,Taiwan,TW,Active,3552,Hsinchu Municipality,Active
+214,Taiwan,TW,Active,4497,ALL [Placeholder],Active
+214,Taiwan,TW,Active,3567,Taipei Special Municipality,Active
+214,Taiwan,TW,Active,3550,Chiayi Municipality,Active
+214,Taiwan,TW,Active,3565,Tainan Municipality,Active
+214,Taiwan,TW,Active,3548,Changhua,Active
+214,Taiwan,TW,Active,3563,Taichung Municipality,Active
+214,Taiwan,TW,Active,3561,Pingtung,Active
+214,Taiwan,TW,Active,3559,Nantou,Active
+214,Taiwan,TW,Active,3557,Keelung Municipality,Active
+214,Taiwan,TW,Active,3555,Kaohsiung,Active
+214,Taiwan,TW,Active,3570,Yunlin,Active
+214,Taiwan,TW,Active,3553,Hualien,Active
+214,Taiwan,TW,Active,3568,Taitung,Active
+214,Taiwan,TW,Active,3551,Hsinchu,Active
+214,Taiwan,TW,Active,3566,Taipei,Active
+214,Taiwan,TW,Active,3549,Chiayi,Active
+214,Taiwan,TW,Active,4427,Taiwan [PLACEHOLDER],Active
+214,Taiwan,TW,Active,3564,Tainan,Active
+214,Taiwan,TW,Active,3562,Taichung,Active
+214,Taiwan,TW,Active,3560,Penghu,Active
+214,Taiwan,TW,Active,3558,Miaoli,Active
+250,Tanzania,TZ,Active,3588,Mbeya,Active
+250,Tanzania,TZ,Active,3586,Manyara,Active
+250,Tanzania,TZ,Active,3584,Kusini Unguja,Active
+250,Tanzania,TZ,Active,3599,Tanga,Active
+250,Tanzania,TZ,Active,3582,Kilimanjaro,Active
+250,Tanzania,TZ,Active,3597,Singida,Active
+250,Tanzania,TZ,Active,3580,Kaskazini Unguja,Active
+250,Tanzania,TZ,Active,3595,Ruvuma,Active
+250,Tanzania,TZ,Active,3578,Kagera,Active
+250,Tanzania,TZ,Active,3593,Pwani,Active
+250,Tanzania,TZ,Active,3576,Dodoma,Active
+250,Tanzania,TZ,Active,3591,Mtwara,Active
+250,Tanzania,TZ,Active,3574,Arusha,Active
+250,Tanzania,TZ,Active,3589,Mjini Magharibi,Active
+250,Tanzania,TZ,Active,3587,Mara,Active
+250,Tanzania,TZ,Active,3585,Lindi,Active
+250,Tanzania,TZ,Active,3583,Kusini Pemba,Active
+250,Tanzania,TZ,Active,3598,Tabora,Active
+250,Tanzania,TZ,Active,3581,Kigoma,Active
+250,Tanzania,TZ,Active,3596,Shinyanga,Active
+250,Tanzania,TZ,Active,3579,Kaskazini Pemba,Active
+250,Tanzania,TZ,Active,3594,Rukwa,Active
+250,Tanzania,TZ,Active,3577,Iringa,Active
+250,Tanzania,TZ,Active,3592,Mwanza,Active
+250,Tanzania,TZ,Active,3575,Dar es Salaam,Active
+250,Tanzania,TZ,Active,3590,Morogoro,Active
+229,Ukraine,UA,Active,3914,Cherkas'ka Oblast',Active
+229,Ukraine,UA,Active,3929,Odes'ka Oblast',Active
+229,Ukraine,UA,Active,3927,Luhans'ka Oblast',Active
+229,Ukraine,UA,Active,3925,KyAvs'ka Oblast',Active
+229,Ukraine,UA,Active,4527,ALL [Placeholder],Active
+229,Ukraine,UA,Active,3940,Zhytomyrs'ka Oblast',Active
+229,Ukraine,UA,Active,3923,Kirovohrads'ka Oblast',Active
+229,Ukraine,UA,Active,3938,Zakarpats'ka Oblast',Active
+229,Ukraine,UA,Active,3921,Khersons'ka Oblast',Active
+229,Ukraine,UA,Active,3936,Vinnyts'ka Oblast',Active
+229,Ukraine,UA,Active,3919,Ivano-Frankivs'ka Oblast',Active
+229,Ukraine,UA,Active,3934,Sums'ka Oblast',Active
+229,Ukraine,UA,Active,3917,Dnipropetrovs'ka Oblast',Active
+229,Ukraine,UA,Active,3932,Rivnens'ka Oblast',Active
+229,Ukraine,UA,Active,3915,Chernihivs'ka Oblast',Active
+229,Ukraine,UA,Active,3930,Poltavs'ka Oblast',Active
+229,Ukraine,UA,Active,3928,MykolaAvs'ka Oblast',Active
+229,Ukraine,UA,Active,3926,L'vivs'ka Oblast',Active
+229,Ukraine,UA,Active,3924,KyAv,Active
+229,Ukraine,UA,Active,3939,Zaporiz'ka Oblast',Active
+229,Ukraine,UA,Active,3922,Khmel'nyts'ka Oblast',Active
+229,Ukraine,UA,Active,3937,Volyns'ka Oblast',Active
+229,Ukraine,UA,Active,3920,Kharkivs'ka Oblast',Active
+229,Ukraine,UA,Active,3935,Ternopil's'ka Oblast',Active
+229,Ukraine,UA,Active,3918,Donets'ka Oblast',Active
+229,Ukraine,UA,Active,3933,Sevastopol',Active
+229,Ukraine,UA,Active,3916,Chernivets'ka Oblast',Active
+229,Ukraine,UA,Active,3931,Respublika Krym,Active
+228,Uganda,UG,Active,3863,Kaliro,Active
+228,Uganda,UG,Active,3882,Luwero,Active
+228,Uganda,UG,Active,3897,Nakapiripirit,Active
+228,Uganda,UG,Active,3846,Buliisa,Active
+228,Uganda,UG,Active,3912,Wakiso,Active
+228,Uganda,UG,Active,3861,Kaberamaido,Active
+228,Uganda,UG,Active,3880,Kyenjojo,Active
+228,Uganda,UG,Active,3895,Mubende,Active
+228,Uganda,UG,Active,3844,Bukedea,Active
+228,Uganda,UG,Active,3910,Soroti,Active
+228,Uganda,UG,Active,3859,Kabale,Active
+228,Uganda,UG,Active,3878,Kotido,Active
+228,Uganda,UG,Active,3893,Moyo,Active
+228,Uganda,UG,Active,3842,Bududa,Active
+228,Uganda,UG,Active,3908,Sembabule,Active
+228,Uganda,UG,Active,3857,Jinja,Active
+228,Uganda,UG,Active,3876,Kitgum,Active
+228,Uganda,UG,Active,3891,Mityana,Active
+228,Uganda,UG,Active,3840,Arua,Active
+228,Uganda,UG,Active,3906,Rakai,Active
+228,Uganda,UG,Active,3855,Iganga,Active
+228,Uganda,UG,Active,3874,Kiruhura,Active
+228,Uganda,UG,Active,3889,Mbale,Active
+228,Uganda,UG,Active,3838,Amuru,Active
+228,Uganda,UG,Active,3904,Pader,Active
+228,Uganda,UG,Active,3853,Hoima,Active
+228,Uganda,UG,Active,3872,Kibaale,Active
+228,Uganda,UG,Active,3887,Masindi,Active
+228,Uganda,UG,Active,3836,Amolatar,Active
+228,Uganda,UG,Active,3902,Ntungamo,Active
+228,Uganda,UG,Active,3851,Dokolo,Active
+228,Uganda,UG,Active,3870,Katakwi,Active
+228,Uganda,UG,Active,3885,Maracha,Active
+228,Uganda,UG,Active,3834,Abim,Active
+228,Uganda,UG,Active,3866,Kamwenge,Active
+228,Uganda,UG,Active,3900,Namutumba,Active
+228,Uganda,UG,Active,3849,Busia,Active
+228,Uganda,UG,Active,3868,Kapchorwa,Active
+228,Uganda,UG,Active,3883,Lyantonde,Active
+228,Uganda,UG,Active,3864,Kampala,Active
+228,Uganda,UG,Active,3898,Nakaseke,Active
+228,Uganda,UG,Active,3847,Bundibugyo,Active
+228,Uganda,UG,Active,3913,Yumbe,Active
+228,Uganda,UG,Active,3862,Kalangala,Active
+228,Uganda,UG,Active,3881,Lira,Active
+228,Uganda,UG,Active,3896,Mukono,Active
+228,Uganda,UG,Active,3845,Bukwa,Active
+228,Uganda,UG,Active,3911,Tororo,Active
+228,Uganda,UG,Active,3860,Kabarole,Active
+228,Uganda,UG,Active,3879,Kumi,Active
+228,Uganda,UG,Active,3894,Mpigi,Active
+228,Uganda,UG,Active,3843,Bugiri,Active
+228,Uganda,UG,Active,3909,Sironko,Active
+228,Uganda,UG,Active,3858,Kaabong,Active
+228,Uganda,UG,Active,3877,Koboko,Active
+228,Uganda,UG,Active,3892,Moroto,Active
+228,Uganda,UG,Active,3841,Budaka,Active
+228,Uganda,UG,Active,3907,Rukungiri,Active
+228,Uganda,UG,Active,3856,Isingiro,Active
+228,Uganda,UG,Active,3875,Kisoro,Active
+228,Uganda,UG,Active,3890,Mbarara,Active
+228,Uganda,UG,Active,3839,Apac,Active
+228,Uganda,UG,Active,3905,Pallisa,Active
+228,Uganda,UG,Active,3854,Ibanda,Active
+228,Uganda,UG,Active,3873,Kiboga,Active
+228,Uganda,UG,Active,3888,Mayuge,Active
+228,Uganda,UG,Active,3837,Amuria,Active
+228,Uganda,UG,Active,3903,Oyam,Active
+228,Uganda,UG,Active,3852,Gulu,Active
+228,Uganda,UG,Active,3871,Kayunga,Active
+228,Uganda,UG,Active,3886,Masaka,Active
+228,Uganda,UG,Active,3835,Adjumani,Active
+228,Uganda,UG,Active,3901,Nebbi,Active
+228,Uganda,UG,Active,3850,Butaleja,Active
+228,Uganda,UG,Active,3869,Kasese,Active
+228,Uganda,UG,Active,3884,Manafwa,Active
+228,Uganda,UG,Active,3865,Kamuli,Active
+228,Uganda,UG,Active,3899,Nakasongola,Active
+228,Uganda,UG,Active,3848,Bushenyi,Active
+228,Uganda,UG,Active,3867,Kanungu,Active
+233,United States Minor Outlying Islands,UM,Active,4240,Midway Islands,Active
+233,United States Minor Outlying Islands,UM,Active,4238,Johnston Atoll,Active
+233,United States Minor Outlying Islands,UM,Active,4236,Howland Island,Active
+233,United States Minor Outlying Islands,UM,Active,4243,Wake Island,Active
+233,United States Minor Outlying Islands,UM,Active,4241,Navassa Island,Active
+233,United States Minor Outlying Islands,UM,Active,4239,Kingman Reef,Active
+233,United States Minor Outlying Islands,UM,Active,4237,Jarvis Island,Active
+233,United States Minor Outlying Islands,UM,Active,4235,Baker Island,Active
+233,United States Minor Outlying Islands,UM,Active,4242,Palmyra Atoll,Active
+232,United States,US,Active,4208,Nevada,Active
+232,United States,US,Active,4223,South Dakota,Active
+232,United States,US,Active,4191,Hawaii,Active
+232,United States,US,Active,4206,Montana,Active
+232,United States,US,Active,4221,Rhode Island,Active
+232,United States,US,Active,4189,Georgia,Active
+232,United States,US,Active,4204,Mississippi,Active
+232,United States,US,Active,4219,Pennsylvania,Active
+232,United States,US,Active,4187,District of Columbia,Active
+232,United States,US,Active,4234,Wyoming,Active
+232,United States,US,Active,4202,Michigan,Active
+232,United States,US,Active,4217,Oklahoma,Active
+232,United States,US,Active,4185,Connecticut,Active
+232,United States,US,Active,4232,West Virginia,Active
+232,United States,US,Active,4200,Maryland,Active
+232,United States,US,Active,4183,California,Active
+232,United States,US,Active,4215,Northern Mariana Islands (see also separate entry under MP),Active
+232,United States,US,Active,4230,Virginia,Active
+232,United States,US,Active,4198,Louisiana,Active
+232,United States,US,Active,4181,Arizona,Active
+232,United States,US,Active,4213,North Carolina,Active
+232,United States,US,Active,4228,Vermont,Active
+232,United States,US,Active,4196,Kansas,Active
+232,United States,US,Active,4179,Alaska,Active
+232,United States,US,Active,4211,New Mexico,Active
+232,United States,US,Active,4226,United States Minor Outlying Islands (see also separate entry under UM),Active
+232,United States,US,Active,4194,Indiana,Active
+232,United States,US,Active,4209,New Hampshire,Active
+232,United States,US,Active,4224,Tennessee,Active
+232,United States,US,Active,4192,Idaho,Active
+232,United States,US,Active,4207,Nebraska,Active
+232,United States,US,Active,4222,South Carolina,Active
+232,United States,US,Active,4190,Guam (see also separate entry under GU),Active
+232,United States,US,Active,4205,Missouri,Active
+232,United States,US,Active,4220,Puerto Rico (see also separate entry under PR),Active
+232,United States,US,Active,4188,Florida,Active
+232,United States,US,Active,4203,Minnesota,Active
+232,United States,US,Active,4218,Oregon,Active
+232,United States,US,Active,4186,Delaware,Active
+232,United States,US,Active,4233,Wisconsin,Active
+232,United States,US,Active,4201,Massachusetts,Active
+232,United States,US,Active,4184,Colorado,Active
+232,United States,US,Active,4216,Ohio,Active
+232,United States,US,Active,4231,Washington,Active
+232,United States,US,Active,4199,Maine,Active
+232,United States,US,Active,4182,Arkansas,Active
+232,United States,US,Active,4214,North Dakota,Active
+232,United States,US,Active,4229,"Virgin Islands, U.S. (see also separate entry under VI)",Active
+232,United States,US,Active,4197,Kentucky,Active
+232,United States,US,Active,4180,American Samoa (see also separate entry under AS),Active
+232,United States,US,Active,4212,New York,Active
+232,United States,US,Active,4227,Utah,Active
+232,United States,US,Active,4195,Iowa,Active
+232,United States,US,Active,4178,Alabama,Active
+232,United States,US,Active,4210,New Jersey,Active
+232,United States,US,Active,4225,Texas,Active
+232,United States,US,Active,4193,Illinois,Active
+234,Uruguay,UY,Active,4255,Salto,Active
+234,Uruguay,UY,Active,4253,Rocha,Active
+234,Uruguay,UY,Active,4501,ALL [Placeholder],Active
+234,Uruguay,UY,Active,4251,Paysanda,Active
+234,Uruguay,UY,Active,4249,Maldonado,Active
+234,Uruguay,UY,Active,4247,Florida,Active
+234,Uruguay,UY,Active,4245,Durazno,Active
+234,Uruguay,UY,Active,4258,Tacuaremba,Active
+234,Uruguay,UY,Active,4256,San JosAc,Active
+234,Uruguay,UY,Active,4254,RA­o Negro,Active
+234,Uruguay,UY,Active,4252,Rivera,Active
+234,Uruguay,UY,Active,4250,Montevideo,Active
+234,Uruguay,UY,Active,4248,Lavalleja,Active
+234,Uruguay,UY,Active,4246,Flores,Active
+234,Uruguay,UY,Active,4244,Artigas,Active
+234,Uruguay,UY,Active,4259,Treinta y Tres,Active
+234,Uruguay,UY,Active,4257,Soriano,Active
+235,Uzbekistan,UZ,Active,4272,Toshkent City,Active
+235,Uzbekistan,UZ,Active,4270,Surxondaryo,Active
+235,Uzbekistan,UZ,Active,4268,Samarqand,Active
+235,Uzbekistan,UZ,Active,4266,Qashqadaryo,Active
+235,Uzbekistan,UZ,Active,4264,Namangan,Active
+235,Uzbekistan,UZ,Active,4262,Fargaeona,Active
+235,Uzbekistan,UZ,Active,4260,Andijon,Active
+235,Uzbekistan,UZ,Active,4273,Xorazm,Active
+235,Uzbekistan,UZ,Active,4271,Toshkent,Active
+235,Uzbekistan,UZ,Active,4269,Sirdaryo,Active
+235,Uzbekistan,UZ,Active,4267,Qoraqalpogaeiston Respublikasi,Active
+235,Uzbekistan,UZ,Active,4265,Navoiy,Active
+235,Uzbekistan,UZ,Active,4263,Jizzax,Active
+235,Uzbekistan,UZ,Active,4261,Buxoro,Active
+189,Saint Vincent and the Grenadines,VC,Active,3003,Saint George,Active
+189,Saint Vincent and the Grenadines,VC,Active,3001,Saint Andrew,Active
+189,Saint Vincent and the Grenadines,VC,Active,2999,Charlotte,Active
+189,Saint Vincent and the Grenadines,VC,Active,3004,Saint Patrick,Active
+189,Saint Vincent and the Grenadines,VC,Active,3002,Saint David,Active
+189,Saint Vincent and the Grenadines,VC,Active,3000,Grenadines,Active
+237,Venezuela,VE,Active,4287,Cojedes,Active
+237,Venezuela,VE,Active,4285,BolA­var,Active
+237,Venezuela,VE,Active,4304,Zulia,Active
+237,Venezuela,VE,Active,4283,Aragua,Active
+237,Venezuela,VE,Active,4302,Vargas,Active
+237,Venezuela,VE,Active,4463,ALL [Placeholder],Active
+237,Venezuela,VE,Active,4281,Anzoategui,Active
+237,Venezuela,VE,Active,4300,Trujillo,Active
+237,Venezuela,VE,Active,4296,MAcrida,Active
+237,Venezuela,VE,Active,4298,Portuguesa,Active
+237,Venezuela,VE,Active,4294,Miranda,Active
+237,Venezuela,VE,Active,4292,Guarico,Active
+237,Venezuela,VE,Active,4290,Distrito Federal,Active
+237,Venezuela,VE,Active,4288,Delta Amacuro,Active
+237,Venezuela,VE,Active,4286,Carabobo,Active
+237,Venezuela,VE,Active,4284,Barinas,Active
+237,Venezuela,VE,Active,4303,Yaracuy,Active
+237,Venezuela,VE,Active,4282,Apure,Active
+237,Venezuela,VE,Active,4301,Tachira,Active
+237,Venezuela,VE,Active,4297,Nueva Esparta,Active
+237,Venezuela,VE,Active,4280,Amazonas,Active
+237,Venezuela,VE,Active,4299,Sucre,Active
+237,Venezuela,VE,Active,4295,Monagas,Active
+237,Venezuela,VE,Active,4293,Lara,Active
+237,Venezuela,VE,Active,4291,Falcan,Active
+237,Venezuela,VE,Active,4289,Dependencias Federales,Active
+238,Vietnam,VN,Active,4323,Dong Nai,Active
+238,Vietnam,VN,Active,4355,Quang Tri,Active
+238,Vietnam,VN,Active,4338,Kien Giang,Active
+238,Vietnam,VN,Active,4306,Ba Ria - Vung Tau,Active
+238,Vietnam,VN,Active,4321,Dak Nong,Active
+238,Vietnam,VN,Active,4353,Quang Ngai,Active
+238,Vietnam,VN,Active,4336,Hung Yen,Active
+238,Vietnam,VN,Active,4368,Yen Bai,Active
+238,Vietnam,VN,Active,4351,Quang Binh,Active
+238,Vietnam,VN,Active,4319,"Da Nang, thanh pho",Active
+238,Vietnam,VN,Active,4334,"Ho Chi Minh, thanh pho [Sai Gon]",Active
+238,Vietnam,VN,Active,4366,Vinh Long,Active
+238,Vietnam,VN,Active,4349,Phu Tho,Active
+238,Vietnam,VN,Active,4317,Can Tho,Active
+238,Vietnam,VN,Active,4332,"Hai Phong, thanh pho",Active
+238,Vietnam,VN,Active,4364,Tra Vinh,Active
+238,Vietnam,VN,Active,4347,Ninh Binh,Active
+238,Vietnam,VN,Active,4315,Binh Thuan,Active
+238,Vietnam,VN,Active,4330,Ha Tinh,Active
+238,Vietnam,VN,Active,4362,Thua Thien-Hue,Active
+238,Vietnam,VN,Active,4345,Nam Dinh,Active
+238,Vietnam,VN,Active,4313,Binh Duong,Active
+238,Vietnam,VN,Active,4328,"Ha Noi, thu do",Active
+238,Vietnam,VN,Active,4360,Thai Nguyen,Active
+238,Vietnam,VN,Active,4343,Lao Cai,Active
+238,Vietnam,VN,Active,4311,Ben Tre,Active
+238,Vietnam,VN,Active,4326,Ha Giang,Active
+238,Vietnam,VN,Active,4358,Tay Ninh,Active
+238,Vietnam,VN,Active,4422,Vietnam [PLACEHOLDER],Active
+238,Vietnam,VN,Active,4447,ALL [Placeholder],Active
+238,Vietnam,VN,Active,4341,Lam Dong,Active
+238,Vietnam,VN,Active,4309,Bac Lieu,Active
+238,Vietnam,VN,Active,4324,Dong Thap,Active
+238,Vietnam,VN,Active,4356,Soc Trang,Active
+238,Vietnam,VN,Active,4339,Kon Tum,Active
+238,Vietnam,VN,Active,4307,Bac Can,Active
+238,Vietnam,VN,Active,4322,Dien Bien,Active
+238,Vietnam,VN,Active,4354,Quang Ninh,Active
+238,Vietnam,VN,Active,4337,Khanh Hoa,Active
+238,Vietnam,VN,Active,4305,An Giang,Active
+238,Vietnam,VN,Active,4320,Dac Lac,Active
+238,Vietnam,VN,Active,4352,Quang Nam,Active
+238,Vietnam,VN,Active,4335,Hoa Binh,Active
+238,Vietnam,VN,Active,4367,Vinh Phuc,Active
+238,Vietnam,VN,Active,4350,Phu Yen,Active
+238,Vietnam,VN,Active,4318,Cao Bang,Active
+238,Vietnam,VN,Active,4333,Hau Giang,Active
+238,Vietnam,VN,Active,4365,Tuyen Quang,Active
+238,Vietnam,VN,Active,4348,Ninh Thuan,Active
+238,Vietnam,VN,Active,4316,Ca Mau,Active
+238,Vietnam,VN,Active,4331,Hai Duong,Active
+238,Vietnam,VN,Active,4363,Tien Giang,Active
+238,Vietnam,VN,Active,4346,Nghe An,Active
+238,Vietnam,VN,Active,4314,Binh Phuoc,Active
+238,Vietnam,VN,Active,4329,Ha Tay,Inactive
+238,Vietnam,VN,Active,4361,Thanh Hoa,Active
+238,Vietnam,VN,Active,4344,Long An,Active
+238,Vietnam,VN,Active,4312,Binh Dinh,Active
+238,Vietnam,VN,Active,4327,Ha Nam,Active
+238,Vietnam,VN,Active,4359,Thai Binh,Active
+238,Vietnam,VN,Active,4342,Lang Son,Active
+238,Vietnam,VN,Active,4310,Bac Ninh,Active
+238,Vietnam,VN,Active,4325,Gia Lai,Active
+238,Vietnam,VN,Active,4357,Son La,Active
+238,Vietnam,VN,Active,4340,Lai Chau,Active
+238,Vietnam,VN,Active,4308,Bac Giang,Active
+236,Vanuatu,VU,Active,4279,Torba,Active
+236,Vanuatu,VU,Active,4277,ShAcfa,Active
+236,Vanuatu,VU,Active,4275,PAcnama,Active
+236,Vanuatu,VU,Active,4278,TafAca,Active
+236,Vanuatu,VU,Active,4276,Sanma,Active
+236,Vanuatu,VU,Active,4274,Malampa,Active
+190,Samoa,WS,Active,3015,Vaisigano,Active
+190,Samoa,WS,Active,3013,Tuamasaga,Active
+190,Samoa,WS,Active,3011,Palauli,Active
+190,Samoa,WS,Active,3009,Gaga'emauga,Active
+190,Samoa,WS,Active,3007,Atua,Active
+190,Samoa,WS,Active,3005,A'ana,Active
+190,Samoa,WS,Active,3014,Va'a-o-Fonoti,Active
+190,Samoa,WS,Active,3012,Satupa'itea,Active
+190,Samoa,WS,Active,3010,Gagaifomauga,Active
+190,Samoa,WS,Active,3008,Fa'asaleleaga,Active
+190,Samoa,WS,Active,3006,Aiga-i-le-Tai,Active
+243,Yemen,YE,Active,4387,Raymah,Active
+243,Yemen,YE,Active,4385,Laij,Active
+243,Yemen,YE,Active,4383,Hajjah,Active
+243,Yemen,YE,Active,4381,Dhamar,Active
+243,Yemen,YE,Active,4379,Al Mahrah,Active
+243,Yemen,YE,Active,4377,Al Baya',Active
+243,Yemen,YE,Active,4392,Sanaea,Active
+243,Yemen,YE,Active,4375,Ad Daliae,Active
+243,Yemen,YE,Active,4390,Shabwah,Active
+243,Yemen,YE,Active,4373,'Amran,Active
+243,Yemen,YE,Active,4388,Sa`dah,Active
+243,Yemen,YE,Active,4386,Ma'rib,Active
+243,Yemen,YE,Active,4384,Ibb,Active
+243,Yemen,YE,Active,4382,Hadramawt,Active
+243,Yemen,YE,Active,4380,Al Mahwit,Active
+243,Yemen,YE,Active,4378,Al Jawf,Active
+243,Yemen,YE,Active,4393,Adan,Active
+243,Yemen,YE,Active,4376,Al udaydah,Active
+243,Yemen,YE,Active,4391,Taizz,Active
+243,Yemen,YE,Active,4374,Abyan,Active
+243,Yemen,YE,Active,4389,Sana,Active
+203,South Africa,ZA,Active,3368,Northern Cape,Active
+203,South Africa,ZA,Active,3366,Mpumalanga,Active
+203,South Africa,ZA,Active,3364,Kwazulu-Natal,Active
+203,South Africa,ZA,Active,3362,Free State,Active
+203,South Africa,ZA,Active,3369,Western Cape,Active
+203,South Africa,ZA,Active,4529,ALL [Placeholder],Active
+203,South Africa,ZA,Active,3367,North-West,Active
+203,South Africa,ZA,Active,3365,Limpopo,Active
+203,South Africa,ZA,Active,3363,Gauteng,Active
+203,South Africa,ZA,Active,3361,Eastern Cape,Active
+244,Zambia,ZM,Active,4402,Western,Active
+244,Zambia,ZM,Active,4400,Northern,Active
+244,Zambia,ZM,Active,4398,Lusaka,Active
+244,Zambia,ZM,Active,4396,Eastern,Active
+244,Zambia,ZM,Active,4394,Central,Active
+244,Zambia,ZM,Active,4401,Southern,Active
+244,Zambia,ZM,Active,4399,North-Western,Active
+244,Zambia,ZM,Active,4397,Luapula,Active
+244,Zambia,ZM,Active,4395,Copperbelt,Active
+245,Zimbabwe,ZW,Active,4411,Matabeleland South,Active
+245,Zimbabwe,ZW,Active,4409,Masvingo,Active
+245,Zimbabwe,ZW,Active,4407,Mashonaland East,Active
+245,Zimbabwe,ZW,Active,4405,Manicaland,Active
+245,Zimbabwe,ZW,Active,4403,Bulawayo,Active
+245,Zimbabwe,ZW,Active,4412,Midlands,Active
+245,Zimbabwe,ZW,Active,4410,Matabeleland North,Active
+245,Zimbabwe,ZW,Active,4408,Mashonaland West,Active
+245,Zimbabwe,ZW,Active,4406,Mashonaland Central,Active
+245,Zimbabwe,ZW,Active,4404,Harare,Active

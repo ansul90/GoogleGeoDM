@@ -11,6 +11,21 @@ public class CountryDao {
     this.countryName = countryName;
   }
 
+  @Override
+  public String toString() {
+    return "CountryDao{"
+        + "countryCode='"
+        + countryCode
+        + '\''
+        + ", countryId='"
+        + countryId
+        + '\''
+        + ", countryName='"
+        + countryName
+        + '\''
+        + '}';
+  }
+
   public String getCountryCode() {
     return countryCode;
   }

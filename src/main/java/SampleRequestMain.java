@@ -15,17 +15,21 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class SampleRequestMain {
   public static void main(String[] args) throws URISyntaxException, IOException {
-    String sampleRequestFileName = "sample_request.xlsx";
+    String sampleRequestFileName = "preprocessing/sample_request.xlsx";
     SampleRequestMain srm = new SampleRequestMain();
     File sampleRequestDataFile = srm.getFileFromResource(sampleRequestFileName);
     //    srm.segregate(sampleRequestDataFile);
 
-    String finalRegionFileName = "final_regions.xlsx";
-    File finalRegionFile = srm.getFileFromResource(finalRegionFileName);
-    srm.decorateFinalRegions(finalRegionFile);
+    //    String finalRegionFileName = "final_regions.xlsx";
+    //    File finalRegionFile = srm.getFileFromResource(finalRegionFileName);
+    //    srm.decorateFinalRegions(finalRegionFile);
+
+    String googleRegionFileName = "google_region.csv";
+    File googleRegionFile = srm.getFileFromResource(googleRegionFileName);
+    srm.decorateFinalRegionsCode(googleRegionFile);
   }
 
-  private void decorateFinalRegions(File finalRegionFile) throws IOException {
+  private void decorateFinalRegionsCode(File finalRegionFile) throws IOException {
     XSSFWorkbook workbook = new XSSFWorkbook();
     XSSFSheet sheet = workbook.createSheet("Normalised Region Data");
 
@@ -53,7 +57,6 @@ public class SampleRequestMain {
           part2 = '0' + part2;
         }
       }
-
       row1.createCell(0).setCellValue(regionArr[0] + '-' + part2);
     }
     FileOutputStream fos = new FileOutputStream(new File("finalRegions.xlsx"));
@@ -75,7 +78,7 @@ public class SampleRequestMain {
     int rownum = 1;
     Row header = sheet.createRow(0);
     header.createCell(0).setCellValue("Country");
-    header.createCell(1).setCellValue("Region");
+    header.createCell(1).setCellValue("region");
     header.createCell(2).setCellValue("Metro");
     header.createCell(3).setCellValue("City");
     header.createCell(4).setCellValue("Zip");
